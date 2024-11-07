@@ -1,0 +1,1788 @@
+2019/04/19 00:05:28.577 [D] [asm_amd64.s:522]  save job success. oldJob: <nil>
+2019/04/19 00:05:28.577 [D] [server.go:2741]  |            ::1|[42m 200 [0m|   336.1351ms|   match|[46m POST    [0m /v1/job/save   r:/v1/job/save
+2019/04/19 00:05:32.779 [I] [asm_amd64.s:1333]  http server Running on http://:8080
+2019/04/19 00:05:33.736 [D] [job.go:37]  old value: &{22 33 444}
+2019/04/19 00:05:33.736 [D] [asm_amd64.s:522]  save job success. oldJob: &{Name:22 CronExpr:33 Command:444}
+2019/04/19 00:05:33.736 [D] [server.go:2741]  |            ::1|[42m 200 [0m|   324.1565ms|   match|[46m POST    [0m /v1/job/save   r:/v1/job/save
+2019/04/19 00:05:36.554 [D] [asm_amd64.s:522]  jobName 22
+2019/04/19 00:05:36.555 [D] [job.go:61]  delJob /cron/jobs/22
+2019/04/19 00:05:36.866 [D] [asm_amd64.s:522]  del job success. oldJob: [123 34 101 114 114 110 111 34 58 48 44 34 109 115 103 34 58 34 115 117 99 99 101 115 115 34 44 34 100 97 116 97 34 58 110 117 108 108 125]
+2019/04/19 00:05:36.866 [D] [server.go:2741]  |            ::1|[42m 200 [0m|   312.3386ms|   match|[44m GET     [0m /v1/job/del   r:/v1/job/del
+2019/04/19 00:06:03.327 [I] [asm_amd64.s:1333]  http server Running on http://:8080
+2019/04/19 00:07:31.161 [I] [asm_amd64.s:1333]  http server Running on http://:8080
+2019/04/19 00:07:38.571 [D] [asm_amd64.s:522]  save job success. oldJob: <nil>
+2019/04/19 00:07:38.571 [D] [server.go:2741]  |            ::1|[42m 200 [0m|   357.0453ms|   match|[46m POST    [0m /v1/job/save   r:/v1/job/save
+2019/04/19 00:07:40.094 [D] [asm_amd64.s:522]  jobName 22
+2019/04/19 00:07:40.426 [D] [asm_amd64.s:522]  del job success. oldJob: [123 34 101 114 114 110 111 34 58 48 44 34 109 115 103 34 58 34 115 117 99 99 101 115 115 34 44 34 100 97 116 97 34 58 110 117 108 108 125]
+2019/04/19 00:07:40.426 [D] [server.go:2741]  |            ::1|[42m 200 [0m|   332.1035ms|   match|[44m GET     [0m /v1/job/del   r:/v1/job/del
+2019/04/19 00:08:40.466 [I] [asm_amd64.s:1333]  http server Running on http://:8080
+2019/04/19 00:08:42.712 [I] [asm_amd64.s:1333]  http server Running on http://:8080
+2019/04/19 00:08:47.736 [D] [asm_amd64.s:522]  save job success. oldJob: <nil>
+2019/04/19 00:08:47.736 [D] [server.go:2741]  |            ::1|[42m 200 [0m|   337.0951ms|   match|[46m POST    [0m /v1/job/save   r:/v1/job/save
+2019/04/19 00:08:50.474 [D] [asm_amd64.s:522]  jobName 22
+2019/04/19 00:08:50.790 [D] [asm_amd64.s:522]  del job success. oldJob: <nil>
+2019/04/19 00:08:50.790 [D] [server.go:2741]  |            ::1|[42m 200 [0m|   316.1549ms|   match|[44m GET     [0m /v1/job/del   r:/v1/job/del
+2019/04/19 00:10:06.454 [D] [asm_amd64.s:522]  save job success. oldJob: <nil>
+2019/04/19 00:10:06.455 [D] [server.go:2741]  |            ::1|[42m 200 [0m|   334.0749ms|   match|[46m POST    [0m /v1/job/save   r:/v1/job/save
+2019/04/19 00:10:14.764 [D] [asm_amd64.s:522]  save job success. oldJob: <nil>
+2019/04/19 00:10:14.764 [D] [server.go:2741]  |            ::1|[42m 200 [0m|   350.0642ms|   match|[46m POST    [0m /v1/job/save   r:/v1/job/save
+2019/04/19 00:10:24.631 [D] [asm_amd64.s:522]  jobName 22
+2019/04/19 00:10:24.971 [D] [asm_amd64.s:522]  del job success. oldJob: <nil>
+2019/04/19 00:10:24.971 [D] [server.go:2741]  |            ::1|[42m 200 [0m|   340.1201ms|   match|[44m GET     [0m /v1/job/del   r:/v1/job/del
+2019/04/19 00:11:41.372 [I] [asm_amd64.s:1333]  http server Running on http://:8080
+2019/04/19 00:12:09.169 [D] [asm_amd64.s:522]  save job success. oldJob: <nil>
+2019/04/19 00:12:09.169 [D] [server.go:2741]  |            ::1|[42m 200 [0m|   324.2635ms|   match|[46m POST    [0m /v1/job/save   r:/v1/job/save
+2019/04/19 00:12:11.302 [D] [asm_amd64.s:522]  jobName 22
+2019/04/19 00:12:11.628 [D] [job.go:61]  oldJob {"Name":"22","CronExpr":"33","Command":"444"}
+2019/04/19 00:12:11.628 [D] [asm_amd64.s:522]  del job success. oldJob: <nil>
+2019/04/19 00:12:11.628 [D] [server.go:2741]  |            ::1|[42m 200 [0m|   326.1298ms|   match|[44m GET     [0m /v1/job/del   r:/v1/job/del
+2019/04/19 00:13:42.743 [I] [asm_amd64.s:1333]  http server Running on http://:8080
+2019/04/19 00:13:51.728 [D] [asm_amd64.s:522]  jobName 22
+2019/04/19 00:13:52.059 [C] [asm_amd64.s:522]  the request url is  /v1/job/del
+2019/04/19 00:13:52.059 [C] [asm_amd64.s:522]  Handler crashed with error runtime error: index out of range
+2019/04/19 00:13:52.059 [C] [asm_amd64.s:522]  C:/Go/src/runtime/asm_amd64.s:522
+2019/04/19 00:13:52.059 [C] [asm_amd64.s:522]  C:/Go/src/runtime/panic.go:513
+2019/04/19 00:13:52.059 [C] [asm_amd64.s:522]  C:/Go/src/runtime/panic.go:44
+2019/04/19 00:13:52.059 [C] [asm_amd64.s:522]  H:/Go_Work/src/github.com/ChuhC/crontab/master/models/jobmgr.go:57
+2019/04/19 00:13:52.059 [C] [asm_amd64.s:522]  H:/Go_Work/src/github.com/ChuhC/crontab/master/controllers/job.go:61
+2019/04/19 00:13:52.059 [C] [asm_amd64.s:522]  C:/Go/src/runtime/asm_amd64.s:522
+2019/04/19 00:13:52.059 [C] [asm_amd64.s:522]  C:/Go/src/reflect/value.go:447
+2019/04/19 00:13:52.059 [C] [asm_amd64.s:522]  C:/Go/src/reflect/value.go:308
+2019/04/19 00:13:52.059 [C] [asm_amd64.s:522]  H:/Go_Work/src/github.com/astaxie/beego/router.go:851
+2019/04/19 00:13:52.059 [C] [asm_amd64.s:522]  C:/Go/src/net/http/server.go:2741
+2019/04/19 00:13:52.059 [C] [asm_amd64.s:522]  C:/Go/src/net/http/server.go:1847
+2019/04/19 00:13:52.059 [C] [asm_amd64.s:522]  C:/Go/src/runtime/asm_amd64.s:1333
+2019/04/19 00:13:52.061 [server.go:2977]  [HTTP] http: multiple response.WriteHeader calls
+2019/04/19 00:16:35.711 [I] [asm_amd64.s:1333]  http server Running on http://:8080
+2019/04/19 00:16:38.547 [I] [asm_amd64.s:1333]  http server Running on http://:8080
+2019/04/19 00:16:46.274 [D] [asm_amd64.s:522]  jobName 22
+2019/04/19 00:16:46.606 [C] [asm_amd64.s:522]  the request url is  /v1/job/del
+2019/04/19 00:16:46.606 [C] [asm_amd64.s:522]  Handler crashed with error runtime error: index out of range
+2019/04/19 00:16:46.606 [C] [asm_amd64.s:522]  C:/Go/src/runtime/asm_amd64.s:522
+2019/04/19 00:16:46.606 [C] [asm_amd64.s:522]  C:/Go/src/runtime/panic.go:513
+2019/04/19 00:16:46.606 [C] [asm_amd64.s:522]  C:/Go/src/runtime/panic.go:44
+2019/04/19 00:16:46.606 [C] [asm_amd64.s:522]  H:/Go_Work/src/github.com/ChuhC/crontab/master/models/jobmgr.go:57
+2019/04/19 00:16:46.606 [C] [asm_amd64.s:522]  H:/Go_Work/src/github.com/ChuhC/crontab/master/controllers/job.go:61
+2019/04/19 00:16:46.606 [C] [asm_amd64.s:522]  C:/Go/src/runtime/asm_amd64.s:522
+2019/04/19 00:16:46.607 [C] [asm_amd64.s:522]  C:/Go/src/reflect/value.go:447
+2019/04/19 00:16:46.607 [C] [asm_amd64.s:522]  C:/Go/src/reflect/value.go:308
+2019/04/19 00:16:46.607 [C] [asm_amd64.s:522]  H:/Go_Work/src/github.com/astaxie/beego/router.go:851
+2019/04/19 00:16:46.607 [C] [asm_amd64.s:522]  C:/Go/src/net/http/server.go:2741
+2019/04/19 00:16:46.607 [C] [asm_amd64.s:522]  C:/Go/src/net/http/server.go:1847
+2019/04/19 00:16:46.607 [C] [asm_amd64.s:522]  C:/Go/src/runtime/asm_amd64.s:1333
+2019/04/19 00:16:46.608 [server.go:2977]  [HTTP] http: multiple response.WriteHeader calls
+2019/04/19 00:17:41.964 [I] [asm_amd64.s:1333]  http server Running on http://:8080
+2019/04/19 00:18:10.763 [D] [asm_amd64.s:522]  jobName 22
+2019/04/19 00:18:11.151 [D] [job.go:61]  dResp &{cluster_id:14841639068965178418 member_id:10276657743932975437 revision:49 raft_term:5  0 []}
+2019/04/19 00:18:11.151 [C] [asm_amd64.s:522]  the request url is  /v1/job/del
+2019/04/19 00:18:11.152 [C] [asm_amd64.s:522]  Handler crashed with error runtime error: index out of range
+2019/04/19 00:18:11.152 [C] [asm_amd64.s:522]  C:/Go/src/runtime/asm_amd64.s:522
+2019/04/19 00:18:11.152 [C] [asm_amd64.s:522]  C:/Go/src/runtime/panic.go:513
+2019/04/19 00:18:11.152 [C] [asm_amd64.s:522]  C:/Go/src/runtime/panic.go:44
+2019/04/19 00:18:11.152 [C] [asm_amd64.s:522]  H:/Go_Work/src/github.com/ChuhC/crontab/master/models/jobmgr.go:58
+2019/04/19 00:18:11.152 [C] [asm_amd64.s:522]  H:/Go_Work/src/github.com/ChuhC/crontab/master/controllers/job.go:61
+2019/04/19 00:18:11.152 [C] [asm_amd64.s:522]  C:/Go/src/runtime/asm_amd64.s:522
+2019/04/19 00:18:11.152 [C] [asm_amd64.s:522]  C:/Go/src/reflect/value.go:447
+2019/04/19 00:18:11.152 [C] [asm_amd64.s:522]  C:/Go/src/reflect/value.go:308
+2019/04/19 00:18:11.152 [C] [asm_amd64.s:522]  H:/Go_Work/src/github.com/astaxie/beego/router.go:851
+2019/04/19 00:18:11.152 [C] [asm_amd64.s:522]  C:/Go/src/net/http/server.go:2741
+2019/04/19 00:18:11.153 [C] [asm_amd64.s:522]  C:/Go/src/net/http/server.go:1847
+2019/04/19 00:18:11.153 [C] [asm_amd64.s:522]  C:/Go/src/runtime/asm_amd64.s:1333
+2019/04/19 00:18:11.153 [server.go:2977]  [HTTP] http: multiple response.WriteHeader calls
+2019/04/19 00:19:25.167 [D] [asm_amd64.s:522]  jobName 22
+2019/04/19 00:19:25.531 [D] [job.go:61]  dResp &{cluster_id:14841639068965178418 member_id:10276657743932975437 revision:49 raft_term:5  0 []}
+2019/04/19 00:19:25.531 [C] [asm_amd64.s:522]  the request url is  /v1/job/del
+2019/04/19 00:19:25.531 [C] [asm_amd64.s:522]  Handler crashed with error runtime error: index out of range
+2019/04/19 00:19:25.531 [C] [asm_amd64.s:522]  C:/Go/src/runtime/asm_amd64.s:522
+2019/04/19 00:19:25.531 [C] [asm_amd64.s:522]  C:/Go/src/runtime/panic.go:513
+2019/04/19 00:19:25.531 [C] [asm_amd64.s:522]  C:/Go/src/runtime/panic.go:44
+2019/04/19 00:19:25.531 [C] [asm_amd64.s:522]  H:/Go_Work/src/github.com/ChuhC/crontab/master/models/jobmgr.go:58
+2019/04/19 00:19:25.531 [C] [asm_amd64.s:522]  H:/Go_Work/src/github.com/ChuhC/crontab/master/controllers/job.go:61
+2019/04/19 00:19:25.531 [C] [asm_amd64.s:522]  C:/Go/src/runtime/asm_amd64.s:522
+2019/04/19 00:19:25.532 [C] [asm_amd64.s:522]  C:/Go/src/reflect/value.go:447
+2019/04/19 00:19:25.532 [C] [asm_amd64.s:522]  C:/Go/src/reflect/value.go:308
+2019/04/19 00:19:25.532 [C] [asm_amd64.s:522]  H:/Go_Work/src/github.com/astaxie/beego/router.go:851
+2019/04/19 00:19:25.532 [C] [asm_amd64.s:522]  C:/Go/src/net/http/server.go:2741
+2019/04/19 00:19:25.532 [C] [asm_amd64.s:522]  C:/Go/src/net/http/server.go:1847
+2019/04/19 00:19:25.532 [C] [asm_amd64.s:522]  C:/Go/src/runtime/asm_amd64.s:1333
+2019/04/19 00:19:25.532 [server.go:2977]  [HTTP] http: multiple response.WriteHeader calls
+2019/04/19 00:19:27.006 [I] [asm_amd64.s:1333]  http server Running on http://:8080
+2019/04/19 00:19:36.589 [D] [asm_amd64.s:522]  jobName 22
+2019/04/19 00:19:36.925 [D] [asm_amd64.s:522]  del job success. oldJob: <nil>
+2019/04/19 00:19:36.926 [D] [server.go:2741]  |            ::1|[42m 200 [0m|   338.0978ms|   match|[44m GET     [0m /v1/job/del   r:/v1/job/del
+2019/04/19 00:19:57.221 [D] [asm_amd64.s:522]  jobName 2213r13
+2019/04/19 00:19:57.542 [D] [asm_amd64.s:522]  del job success. oldJob: <nil>
+2019/04/19 00:19:57.542 [D] [server.go:2741]  |            ::1|[42m 200 [0m|   321.1401ms|   match|[44m GET     [0m /v1/job/del   r:/v1/job/del
+2019/04/19 00:23:55.564 [I] [asm_amd64.s:1333]  http server Running on http://:8080
+2019/04/19 00:23:58.289 [I] [asm_amd64.s:1333]  http server Running on http://:8080
+2019/04/19 00:24:00.883 [I] [asm_amd64.s:1333]  http server Running on http://:8080
+2019/04/19 00:25:29.327 [I] [asm_amd64.s:1333]  http server Running on http://:8080
+2019/04/19 00:26:15.835 [D] [asm_amd64.s:522]  jobName 2213r13
+2019/04/19 00:26:16.138 [C] [asm_amd64.s:522]  the request url is  /v1/job/del
+2019/04/19 00:26:16.138 [C] [asm_amd64.s:522]  Handler crashed with error runtime error: invalid memory address or nil pointer dereference
+2019/04/19 00:26:16.138 [C] [asm_amd64.s:522]  C:/Go/src/runtime/asm_amd64.s:522
+2019/04/19 00:26:16.138 [C] [asm_amd64.s:522]  C:/Go/src/runtime/panic.go:513
+2019/04/19 00:26:16.138 [C] [asm_amd64.s:522]  C:/Go/src/runtime/panic.go:82
+2019/04/19 00:26:16.138 [C] [asm_amd64.s:522]  C:/Go/src/runtime/signal_windows.go:204
+2019/04/19 00:26:16.138 [C] [asm_amd64.s:522]  H:/Go_Work/src/github.com/ChuhC/crontab/master/models/jobmgr.go:55
+2019/04/19 00:26:16.138 [C] [asm_amd64.s:522]  H:/Go_Work/src/github.com/ChuhC/crontab/master/controllers/job.go:61
+2019/04/19 00:26:16.138 [C] [asm_amd64.s:522]  C:/Go/src/runtime/asm_amd64.s:522
+2019/04/19 00:26:16.138 [C] [asm_amd64.s:522]  C:/Go/src/reflect/value.go:447
+2019/04/19 00:26:16.138 [C] [asm_amd64.s:522]  C:/Go/src/reflect/value.go:308
+2019/04/19 00:26:16.138 [C] [asm_amd64.s:522]  H:/Go_Work/src/github.com/astaxie/beego/router.go:851
+2019/04/19 00:26:16.139 [C] [asm_amd64.s:522]  C:/Go/src/net/http/server.go:2741
+2019/04/19 00:26:16.139 [C] [asm_amd64.s:522]  C:/Go/src/net/http/server.go:1847
+2019/04/19 00:26:16.139 [C] [asm_amd64.s:522]  C:/Go/src/runtime/asm_amd64.s:1333
+2019/04/19 00:26:16.139 [server.go:2977]  [HTTP] http: multiple response.WriteHeader calls
+2019/04/19 00:28:14.377 [I] [asm_amd64.s:1333]  http server Running on http://:8080
+2019/04/19 00:28:37.451 [D] [asm_amd64.s:522]  jobName 2213r13
+2019/04/19 00:28:37.781 [C] [asm_amd64.s:522]  the request url is  /v1/job/del
+2019/04/19 00:28:37.781 [C] [asm_amd64.s:522]  Handler crashed with error runtime error: invalid memory address or nil pointer dereference
+2019/04/19 00:28:37.782 [C] [asm_amd64.s:522]  C:/Go/src/runtime/asm_amd64.s:522
+2019/04/19 00:28:37.782 [C] [asm_amd64.s:522]  C:/Go/src/runtime/panic.go:513
+2019/04/19 00:28:37.782 [C] [asm_amd64.s:522]  C:/Go/src/runtime/panic.go:82
+2019/04/19 00:28:37.782 [C] [asm_amd64.s:522]  C:/Go/src/runtime/signal_windows.go:204
+2019/04/19 00:28:37.782 [C] [asm_amd64.s:522]  H:/Go_Work/src/github.com/ChuhC/crontab/master/models/jobmgr.go:55
+2019/04/19 00:28:37.782 [C] [asm_amd64.s:522]  H:/Go_Work/src/github.com/ChuhC/crontab/master/controllers/job.go:61
+2019/04/19 00:28:37.782 [C] [asm_amd64.s:522]  C:/Go/src/runtime/asm_amd64.s:522
+2019/04/19 00:28:37.782 [C] [asm_amd64.s:522]  C:/Go/src/reflect/value.go:447
+2019/04/19 00:28:37.782 [C] [asm_amd64.s:522]  C:/Go/src/reflect/value.go:308
+2019/04/19 00:28:37.782 [C] [asm_amd64.s:522]  H:/Go_Work/src/github.com/astaxie/beego/router.go:851
+2019/04/19 00:28:37.782 [C] [asm_amd64.s:522]  C:/Go/src/net/http/server.go:2741
+2019/04/19 00:28:37.782 [C] [asm_amd64.s:522]  C:/Go/src/net/http/server.go:1847
+2019/04/19 00:28:37.782 [C] [asm_amd64.s:522]  C:/Go/src/runtime/asm_amd64.s:1333
+2019/04/19 00:28:37.783 [server.go:2977]  [HTTP] http: multiple response.WriteHeader calls
+2019/04/19 00:29:38.993 [I] [asm_amd64.s:1333]  http server Running on http://:8080
+2019/04/19 00:29:59.902 [D] [asm_amd64.s:522]  jobName 2213r13
+2019/04/19 00:30:00.252 [C] [asm_amd64.s:522]  the request url is  /v1/job/del
+2019/04/19 00:30:00.252 [C] [asm_amd64.s:522]  Handler crashed with error runtime error: invalid memory address or nil pointer dereference
+2019/04/19 00:30:00.252 [C] [asm_amd64.s:522]  C:/Go/src/runtime/asm_amd64.s:522
+2019/04/19 00:30:00.252 [C] [asm_amd64.s:522]  C:/Go/src/runtime/panic.go:513
+2019/04/19 00:30:00.252 [C] [asm_amd64.s:522]  C:/Go/src/runtime/panic.go:82
+2019/04/19 00:30:00.252 [C] [asm_amd64.s:522]  C:/Go/src/runtime/signal_windows.go:204
+2019/04/19 00:30:00.252 [C] [asm_amd64.s:522]  H:/Go_Work/src/github.com/ChuhC/crontab/master/models/jobmgr.go:56
+2019/04/19 00:30:00.252 [C] [asm_amd64.s:522]  H:/Go_Work/src/github.com/ChuhC/crontab/master/controllers/job.go:61
+2019/04/19 00:30:00.252 [C] [asm_amd64.s:522]  C:/Go/src/runtime/asm_amd64.s:522
+2019/04/19 00:30:00.252 [C] [asm_amd64.s:522]  C:/Go/src/reflect/value.go:447
+2019/04/19 00:30:00.252 [C] [asm_amd64.s:522]  C:/Go/src/reflect/value.go:308
+2019/04/19 00:30:00.252 [C] [asm_amd64.s:522]  H:/Go_Work/src/github.com/astaxie/beego/router.go:851
+2019/04/19 00:30:00.252 [C] [asm_amd64.s:522]  C:/Go/src/net/http/server.go:2741
+2019/04/19 00:30:00.252 [C] [asm_amd64.s:522]  C:/Go/src/net/http/server.go:1847
+2019/04/19 00:30:00.252 [C] [asm_amd64.s:522]  C:/Go/src/runtime/asm_amd64.s:1333
+2019/04/19 00:30:00.252 [server.go:2977]  [HTTP] http: multiple response.WriteHeader calls
+2019/04/19 00:31:35.720 [I] [asm_amd64.s:1333]  http server Running on http://:8080
+2019/04/19 00:32:07.267 [D] [asm_amd64.s:522]  jobName 2213r13
+2019/04/19 00:32:07.577 [D] [asm_amd64.s:522]  5555555555, runtime error: invalid memory address or nil pointer dereference
+2019/04/19 00:32:07.577 [D] [asm_amd64.s:522]  del job failed! job not exist
+2019/04/19 00:32:07.577 [D] [server.go:2741]  |            ::1|[42m 200 [0m|   310.1717ms|   match|[44m GET     [0m /v1/job/del   r:/v1/job/del
+2019/04/19 00:33:31.255 [I] [asm_amd64.s:1333]  http server Running on http://:8080
+2019/04/19 00:36:09.270 [I] [asm_amd64.s:1333]  http server Running on http://:8080
+2019/04/19 00:36:11.925 [I] [asm_amd64.s:1333]  http server Running on http://:8080
+2019/04/19 00:36:16.660 [D] [asm_amd64.s:522]  jobName 2213r13
+2019/04/19 00:36:16.978 [D] [asm_amd64.s:522]  5555555555, runtime error: invalid memory address or nil pointer dereference
+2019/04/19 00:36:16.978 [D] [asm_amd64.s:522]  del job failed! job not exist
+2019/04/19 00:36:16.978 [E] [asm_amd64.s:522]  [123 34 101 114 114 110 111 34 58 45 49 44 34 109 115 103 34 58 34 106 111 98 32 110 111 116 32 101 120 105 115 116 34 44 34 100 97 116 97 34 58 110 117 108 108 125]
+2019/04/19 00:36:16.978 [D] [server.go:2741]  |            ::1|[42m 200 [0m|   318.1757ms|   match|[44m GET     [0m /v1/job/del   r:/v1/job/del
+2019/04/19 00:36:48.320 [I] [asm_amd64.s:1333]  http server Running on http://:8080
+2019/04/19 00:36:56.284 [D] [asm_amd64.s:522]  jobName 2213r13
+2019/04/19 00:36:56.606 [D] [asm_amd64.s:522]  5555555555, runtime error: invalid memory address or nil pointer dereference
+2019/04/19 00:36:56.606 [D] [asm_amd64.s:522]  del job failed! job not exist
+2019/04/19 00:36:56.606 [E] [asm_amd64.s:522]  {"errno":-1,"msg":"job not exist","data":null}
+2019/04/19 00:36:56.606 [D] [server.go:2741]  |            ::1|[42m 200 [0m|   322.2606ms|   match|[44m GET     [0m /v1/job/del   r:/v1/job/del
+2019/04/19 00:38:11.471 [I] [asm_amd64.s:1333]  http server Running on http://:8080
+2019/04/19 00:38:15.766 [D] [asm_amd64.s:522]  jobName 2213r13
+2019/04/19 00:38:16.103 [D] [asm_amd64.s:522]  5555555555, runtime error: invalid memory address or nil pointer dereference
+2019/04/19 00:38:16.103 [D] [asm_amd64.s:522]  del job failed! job not exist
+2019/04/19 00:38:16.103 [E] [asm_amd64.s:522]  {"errno":-1,"msg":"job not exist","data":null}
+2019/04/19 00:39:45.727 [I] [asm_amd64.s:1333]  http server Running on http://:8080
+2019/04/19 00:40:03.878 [D] [asm_amd64.s:522]  jobName 2213r1331413
+2019/04/19 00:40:04.194 [D] [asm_amd64.s:522]  5555555555, runtime error: invalid memory address or nil pointer dereference
+2019/04/19 00:40:04.194 [E] [asm_amd64.s:522]  del job failed! job not exist
+2019/04/19 00:40:04.194 [D] [server.go:2741]  |            ::1|[42m 200 [0m|   315.1534ms|   match|[44m GET     [0m /v1/job/del   r:/v1/job/del
+2019/04/19 00:41:21.728 [D] [asm_amd64.s:522]  jobName 2213r1331413
+2019/04/19 00:41:22.039 [D] [asm_amd64.s:522]  5555555555, runtime error: invalid memory address or nil pointer dereference
+2019/04/19 00:41:22.040 [E] [asm_amd64.s:522]  del job failed! job not exist
+2019/04/19 00:41:22.040 [D] [server.go:2741]  |            ::1|[42m 200 [0m|   313.1761ms|   match|[44m GET     [0m /v1/job/del   r:/v1/job/del
+2019/04/19 00:41:27.421 [I] [asm_amd64.s:1333]  http server Running on http://:8080
+2019/04/19 00:41:30.014 [I] [asm_amd64.s:1333]  http server Running on http://:8080
+2019/04/19 00:41:54.966 [D] [asm_amd64.s:522]  jobName 2213r1331413
+2019/04/19 00:41:55.266 [D] [asm_amd64.s:522]  5555555555, runtime error: invalid memory address or nil pointer dereference
+2019/04/19 00:41:55.267 [E] [asm_amd64.s:522]  del job failed! job not exist
+2019/04/19 00:41:55.267 [D] [server.go:2741]  |            ::1|[42m 200 [0m|   301.2258ms|   match|[44m GET     [0m /v1/job/del   r:/v1/job/del
+2019/04/19 00:43:12.811 [I] [asm_amd64.s:1333]  http server Running on http://:8080
+2019/04/19 00:43:54.359 [I] [asm_amd64.s:1333]  http server Running on http://:8080
+2019/04/19 00:46:00.769 [I] [asm_amd64.s:1333]  http server Running on http://:8080
+2019/04/19 00:46:04.727 [D] [asm_amd64.s:522]  jobName 2213r13312
+2019/04/19 00:46:05.042 [E] [asm_amd64.s:522]  del job failed! job not exist
+2019/04/19 00:46:05.042 [D] [server.go:2741]  |            ::1|[42m 200 [0m|   315.1822ms|   match|[44m GET     [0m /v1/job/del   r:/v1/job/del
+2019/04/19 00:46:12.827 [D] [asm_amd64.s:522]  save job success. oldJob: <nil>
+2019/04/19 00:46:12.827 [D] [server.go:2741]  |            ::1|[42m 200 [0m|   312.1655ms|   match|[46m POST    [0m /v1/job/save   r:/v1/job/save
+2019/04/19 00:46:16.913 [D] [asm_amd64.s:522]  jobName 2222
+2019/04/19 00:46:17.218 [E] [asm_amd64.s:522]  del job failed! job not exist
+2019/04/19 00:46:17.218 [D] [server.go:2741]  |            ::1|[42m 200 [0m|   304.1987ms|   match|[44m GET     [0m /v1/job/del   r:/v1/job/del
+2019/04/19 00:47:42.770 [I] [asm_amd64.s:1333]  http server Running on http://:8080
+2019/04/19 00:48:09.880 [I] [asm_amd64.s:1333]  http server Running on http://:8080
+2019/04/19 00:49:32.471 [D] [asm_amd64.s:522]  save job success. oldJob: <nil>
+2019/04/19 00:49:32.471 [D] [server.go:2741]  |            ::1|[42m 200 [0m|   305.1828ms|   match|[46m POST    [0m /v1/job/save   r:/v1/job/save
+2019/04/19 00:49:35.442 [I] [asm_amd64.s:1333]  http server Running on http://:8080
+2019/04/19 00:49:37.374 [D] [asm_amd64.s:522]  jobName 2222
+2019/04/19 00:49:37.374 [D] [job.go:60]  333333 key /cron/jobs/2222
+2019/04/19 00:49:37.701 [D] [job.go:60]  oldJob: {"Name":"2222","CronExpr":"33","Command":"444"}
+2019/04/19 00:49:37.701 [E] [asm_amd64.s:522]  del job failed! job not exist
+2019/04/19 00:49:37.701 [D] [server.go:2741]  |            ::1|[42m 200 [0m|   328.1236ms|   match|[44m GET     [0m /v1/job/del   r:/v1/job/del
+2019/04/19 00:51:27.361 [I] [asm_amd64.s:1333]  http server Running on http://:8080
+2019/04/19 00:51:32.544 [D] [asm_amd64.s:522]  jobName 2222
+2019/04/19 00:51:32.544 [D] [job.go:60]  333333 key /cron/jobs/2222
+2019/04/19 00:51:32.866 [E] [asm_amd64.s:522]  del job failed! job not exist
+2019/04/19 00:51:32.866 [D] [server.go:2741]  |            ::1|[42m 200 [0m|   322.1586ms|   match|[44m GET     [0m /v1/job/del   r:/v1/job/del
+2019/04/19 00:51:38.333 [D] [asm_amd64.s:522]  save job success. oldJob: <nil>
+2019/04/19 00:51:38.333 [D] [server.go:2741]  |            ::1|[42m 200 [0m|   325.1299ms|   match|[46m POST    [0m /v1/job/save   r:/v1/job/save
+2019/04/19 00:51:40.008 [D] [asm_amd64.s:522]  jobName 2222
+2019/04/19 00:51:40.008 [D] [job.go:60]  333333 key /cron/jobs/2222
+2019/04/19 00:51:40.318 [D] [job.go:60]  oldJob: {"Name":"2222","CronExpr":"33","Command":"444"}
+2019/04/19 00:51:40.319 [D] [job.go:60]  oldJob2: &{Name:2222 CronExpr:33 Command:444}
+2019/04/19 00:51:40.319 [D] [asm_amd64.s:522]  del job success! oldJob: &{Name:2222 CronExpr:33 Command:444}
+2019/04/19 00:51:40.319 [D] [server.go:2741]  |            ::1|[42m 200 [0m|   311.1613ms|   match|[44m GET     [0m /v1/job/del   r:/v1/job/del
+2019/04/19 00:51:53.657 [D] [asm_amd64.s:522]  jobName 223141
+2019/04/19 00:51:53.658 [D] [job.go:60]  333333 key /cron/jobs/223141
+2019/04/19 00:51:54.012 [E] [asm_amd64.s:522]  del job failed! job not exist
+2019/04/19 00:51:54.012 [D] [server.go:2741]  |            ::1|[42m 200 [0m|   355.0498ms|   match|[44m GET     [0m /v1/job/del   r:/v1/job/del
+2019/04/19 00:52:01.345 [D] [asm_amd64.s:522]  save job success. oldJob: <nil>
+2019/04/19 00:52:01.345 [D] [server.go:2741]  |            ::1|[42m 200 [0m|   320.2196ms|   match|[46m POST    [0m /v1/job/save   r:/v1/job/save
+2019/04/19 00:52:04.971 [D] [job.go:37]  old value: &{2222 33 444}
+2019/04/19 00:52:04.971 [D] [asm_amd64.s:522]  save job success. oldJob: &{Name:2222 CronExpr:33 Command:444}
+2019/04/19 00:52:04.971 [D] [server.go:2741]  |            ::1|[42m 200 [0m|   344.0897ms|   match|[46m POST    [0m /v1/job/save   r:/v1/job/save
+2019/04/19 00:53:58.137 [I] [asm_amd64.s:1333]  http server Running on http://:8080
+2019/04/19 00:59:24.453 [D] [server.go:2741]  |            ::1|[47m 304 [0m|      997.5µs|   match|[44m GET     [0m /swagger/
+2019/04/19 00:59:25.285 [D] [server.go:2741]  |            ::1|[42m 200 [0m|           0s|   match|[44m GET     [0m /swagger/swagger.json
+2019/04/19 00:59:25.476 [D] [server.go:2741]  |            ::1|[42m 200 [0m|           0s|   match|[44m GET     [0m /swagger/favicon-32x32.png
+2019/04/19 00:59:27.405 [D] [server.go:2741]  |            ::1|[47m 304 [0m|           0s|   match|[44m GET     [0m /swagger/
+2019/04/19 00:59:27.933 [D] [server.go:2741]  |            ::1|[42m 200 [0m|           0s|   match|[44m GET     [0m /swagger/favicon-32x32.png
+2019/04/19 00:59:30.083 [I] [asm_amd64.s:1333]  http server Running on http://:8080
+2019/04/19 00:59:30.265 [D] [server.go:2741]  |            ::1|[47m 304 [0m|      992.8µs|   match|[44m GET     [0m /swagger/
+2019/04/19 00:59:30.630 [D] [server.go:2741]  |            ::1|[42m 200 [0m|           0s|   match|[44m GET     [0m /swagger/favicon-32x32.png
+2019/04/19 00:59:32.260 [D] [server.go:2741]  |            ::1|[47m 304 [0m|     1.0296ms|   match|[44m GET     [0m /swagger/
+2019/04/19 00:59:32.640 [D] [server.go:2741]  |            ::1|[42m 200 [0m|           0s|   match|[44m GET     [0m /swagger/favicon-32x32.png
+2019/04/19 00:59:35.745 [I] [asm_amd64.s:1333]  http server Running on http://:8080
+2019/04/19 00:59:38.857 [D] [server.go:2741]  |            ::1|[47m 304 [0m|     1.0035ms|   match|[44m GET     [0m /swagger/
+2019/04/19 00:59:39.195 [D] [server.go:2741]  |            ::1|[42m 200 [0m|      999.6µs|   match|[44m GET     [0m /swagger/favicon-32x32.png
+2019/04/19 00:59:39.917 [D] [server.go:2741]  |            ::1|[47m 304 [0m|           0s|   match|[44m GET     [0m /swagger/
+2019/04/19 00:59:40.265 [D] [server.go:2741]  |            ::1|[42m 200 [0m|      996.8µs|   match|[44m GET     [0m /swagger/favicon-32x32.png
+2019/04/19 00:59:40.734 [D] [server.go:2741]  |            ::1|[47m 304 [0m|      999.2µs|   match|[44m GET     [0m /swagger/
+2019/04/19 00:59:41.074 [D] [server.go:2741]  |            ::1|[42m 200 [0m|           0s|   match|[44m GET     [0m /swagger/favicon-32x32.png
+2019/04/19 00:59:47.290 [D] [server.go:2741]  |            ::1|[47m 304 [0m|      986.9µs|   match|[44m GET     [0m /swagger/
+2019/04/19 00:59:47.636 [D] [server.go:2741]  |            ::1|[42m 200 [0m|           0s|   match|[44m GET     [0m /swagger/favicon-32x32.png
+2019/04/19 01:00:40.876 [I] [asm_amd64.s:1333]  http server Running on http://:8080
+2019/04/19 01:00:44.543 [D] [server.go:2741]  |            ::1|[47m 304 [0m|      989.7µs|   match|[44m GET     [0m /swagger/
+2019/04/19 01:00:45.066 [D] [server.go:2741]  |            ::1|[42m 200 [0m|      992.4µs|   match|[44m GET     [0m /swagger/swagger.json
+2019/04/19 01:00:45.204 [D] [server.go:2741]  |            ::1|[42m 200 [0m|      996.3µs|   match|[44m GET     [0m /swagger/favicon-32x32.png
+2019/04/19 01:00:50.593 [D] [asm_amd64.s:522]  get all job success! jobList: [{"Name":"111","CronExpr":"222","Command":"333"} {"Name":"2222","CronExpr":"33","Command":"444"} {job111}]
+2019/04/19 01:00:50.594 [D] [server.go:2741]  |            ::1|[42m 200 [0m|   328.1229ms|   match|[44m GET     [0m /v1/job/getall   r:/v1/job/getall
+2019/04/19 01:03:37.153 [I] [asm_amd64.s:1333]  http server Running on http://:8080
+2019/04/19 01:28:13.393 [I] [asm_amd64.s:1333]  http server Running on http://:8080
+2019/04/19 01:28:17.877 [D] [asm_amd64.s:522]  get all job success! jobList: [{"Name":"111","CronExpr":"222","Command":"333"} {"Name":"2222","CronExpr":"33","Command":"444"} {job111}]
+2019/04/19 01:28:17.877 [D] [server.go:2741]  |            ::1|[42m 200 [0m|   305.2362ms|   match|[44m GET     [0m /v1/job/getall   r:/v1/job/getall
+2019/04/19 01:29:19.436 [I] [asm_amd64.s:1333]  http server Running on http://:8080
+2019/04/19 01:29:23.137 [D] [asm_amd64.s:522]  get all job success! jobList: [{"Name":"111","CronExpr":"222","Command":"333"} {"Name":"2222","CronExpr":"33","Command":"444"} {job111}]
+2019/04/19 01:29:23.138 [D] [server.go:2741]  |            ::1|[42m 200 [0m|   291.2214ms|   match|[44m GET     [0m /v1/job/getall   r:/v1/job/getall
+2019/04/19 01:29:48.480 [D] [asm_amd64.s:522]  get all job success! jobList: [{"Name":"111","CronExpr":"222","Command":"333"} {"Name":"2222","CronExpr":"33","Command":"444"} {job111}]
+2019/04/19 01:29:48.480 [D] [server.go:2741]  |            ::1|[42m 200 [0m|   293.2089ms|   match|[44m GET     [0m /v1/job/getall   r:/v1/job/getall
+2019/04/19 01:29:49.009 [D] [server.go:2741]  |            ::1|[43m 404 [0m|     1.9947ms| nomatch|[44m GET     [0m /favicon.ico
+2019/04/19 01:31:10.305 [I] [asm_amd64.s:1333]  http server Running on http://:8080
+2019/04/19 01:31:22.838 [D] [asm_amd64.s:522]  get all job success! jobList: [[123 34 78 97 109 101 34 58 34 49 49 49 34 44 34 67 114 111 110 69 120 112 114 34 58 34 50 50 50 34 44 34 67 111 109 109 97 110 100 34 58 34 51 51 51 34 125] [123 34 78 97 109 101 34 58 34 50 50 50 50 34 44 34 67 114 111 110 69 120 112 114 34 58 34 51 51 34 44 34 67 111 109 109 97 110 100 34 58 34 52 52 52 34 125] [123 106 111 98 49 49 49 125]]
+2019/04/19 01:31:22.838 [D] [server.go:2741]  |            ::1|[42m 200 [0m|   303.1948ms|   match|[44m GET     [0m /v1/job/getall   r:/v1/job/getall
+2019/04/19 01:38:05.195 [I] [asm_amd64.s:1333]  http server Running on http://:8080
+2019/04/19 01:38:08.280 [I] [asm_amd64.s:1333]  http server Running on http://:8080
+2019/04/19 01:38:11.274 [I] [asm_amd64.s:1333]  http server Running on http://:8080
+2019/04/19 01:38:14.289 [I] [asm_amd64.s:1333]  http server Running on http://:8080
+2019/04/19 01:38:16.863 [I] [asm_amd64.s:1333]  http server Running on http://:8080
+2019/04/19 01:38:19.490 [I] [asm_amd64.s:1333]  http server Running on http://:8080
+2019/04/19 01:38:22.190 [I] [asm_amd64.s:1333]  http server Running on http://:8080
+2019/04/19 01:39:22.990 [I] [asm_amd64.s:1333]  http server Running on http://:8080
+2019/04/19 01:39:26.536 [D] [asm_amd64.s:522]  get all job success! jobList: [[123 34 78 97 109 101 34 58 34 49 49 49 34 44 34 67 114 111 110 69 120 112 114 34 58 34 50 50 50 34 44 34 67 111 109 109 97 110 100 34 58 34 51 51 51 34 125] [123 34 78 97 109 101 34 58 34 50 50 50 50 34 44 34 67 114 111 110 69 120 112 114 34 58 34 51 51 34 44 34 67 111 109 109 97 110 100 34 58 34 52 52 52 34 125] [123 106 111 98 49 49 49 125]]
+2019/04/19 01:39:26.536 [D] [server.go:2741]  |            ::1|[42m 200 [0m|   325.1315ms|   match|[44m GET     [0m /v1/job/getall   r:/v1/job/getall
+2019/04/19 01:39:47.075 [I] [asm_amd64.s:1333]  http server Running on http://:8080
+2019/04/19 01:39:54.397 [D] [asm_amd64.s:522]  get all job success! jobList: [{"Name":"111","CronExpr":"222","Command":"333"} {"Name":"2222","CronExpr":"33","Command":"444"} {job111}]
+2019/04/19 01:39:54.397 [D] [server.go:2741]  |            ::1|[42m 200 [0m|   307.1791ms|   match|[44m GET     [0m /v1/job/getall   r:/v1/job/getall
+2019/04/19 01:40:02.366 [D] [asm_amd64.s:522]  get all job success! jobList: [{"Name":"111","CronExpr":"222","Command":"333"} {"Name":"2222","CronExpr":"33","Command":"444"} {job111}]
+2019/04/19 01:40:02.367 [D] [server.go:2741]  |            ::1|[42m 200 [0m|   288.2544ms|   match|[44m GET     [0m /v1/job/getall   r:/v1/job/getall
+2019/04/19 01:41:47.251 [I] [asm_amd64.s:1333]  http server Running on http://:8080
+2019/04/19 01:42:05.085 [D] [asm_amd64.s:522]  get all job success! jobList: [{"Name":"111","CronExpr":"222","Command":"333"} {"Name":"2222","CronExpr":"33","Command":"444"} {job111}]
+2019/04/19 01:42:05.085 [D] [asm_amd64.s:522]  7777777 {"Name":"111","CronExpr":"222","Command":"333"}
+2019/04/19 01:42:05.085 [D] [asm_amd64.s:522]  7777777 {"Name":"2222","CronExpr":"33","Command":"444"}
+2019/04/19 01:42:05.085 [D] [asm_amd64.s:522]  7777777 {job111}
+2019/04/19 01:42:05.085 [D] [server.go:2741]  |            ::1|[42m 200 [0m|   305.3021ms|   match|[44m GET     [0m /v1/job/getall   r:/v1/job/getall
+2019/04/19 01:42:08.771 [D] [asm_amd64.s:522]  get all job success! jobList: [{"Name":"111","CronExpr":"222","Command":"333"} {"Name":"2222","CronExpr":"33","Command":"444"} {job111}]
+2019/04/19 01:42:08.771 [D] [asm_amd64.s:522]  7777777 {"Name":"111","CronExpr":"222","Command":"333"}
+2019/04/19 01:42:08.771 [D] [asm_amd64.s:522]  7777777 {"Name":"2222","CronExpr":"33","Command":"444"}
+2019/04/19 01:42:08.771 [D] [asm_amd64.s:522]  7777777 {job111}
+2019/04/19 01:42:08.771 [D] [server.go:2741]  |            ::1|[42m 200 [0m|   309.1564ms|   match|[44m GET     [0m /v1/job/getall   r:/v1/job/getall
+2019/04/21 18:16:32.140 [I] [asm_amd64.s:1333]  http server Running on http://:8080
+2019/04/21 18:16:34.000 [D] [server.go:2741]  |            ::1|[47m 302 [0m|      997.1µs|   match|[44m GET     [0m /swagger
+2019/04/21 18:16:34.044 [D] [server.go:2741]  |            ::1|[47m 304 [0m|     38.895ms|   match|[44m GET     [0m /swagger/
+2019/04/21 18:16:34.057 [D] [server.go:2741]  |            ::1|[47m 304 [0m|      996.7µs|   match|[44m GET     [0m /swagger/swagger-ui.css
+2019/04/21 18:16:34.100 [D] [server.go:2741]  |            ::1|[47m 304 [0m|    41.8868ms|   match|[44m GET     [0m /swagger/swagger-ui-bundle.js
+2019/04/21 18:16:34.109 [D] [server.go:2741]  |            ::1|[47m 304 [0m|    48.8675ms|   match|[44m GET     [0m /swagger/swagger-ui-standalone-preset.js
+2019/04/21 18:16:35.051 [I] [asm_amd64.s:1333]  http server Running on http://:8080
+2019/04/21 18:16:35.184 [D] [server.go:2741]  |            ::1|[42m 200 [0m|      997.5µs|   match|[44m GET     [0m /swagger/swagger.json
+2019/04/21 18:16:38.967 [I] [asm_amd64.s:1333]  http server Running on http://:8080
+2019/04/21 18:16:41.922 [I] [asm_amd64.s:1333]  http server Running on http://:8080
+2019/04/21 18:16:45.275 [I] [asm_amd64.s:1333]  http server Running on http://:8080
+2019/04/21 18:16:48.559 [I] [asm_amd64.s:1333]  http server Running on http://:8080
+2019/04/21 18:16:51.812 [I] [asm_amd64.s:1333]  http server Running on http://:8080
+2019/04/21 18:16:56.410 [D] [asm_amd64.s:522]  get all job success! jobList: [{Name:111 CronExpr:222 Command:333} {Name:2222 CronExpr:33 Command:444}]
+2019/04/21 18:16:56.411 [D] [server.go:2741]  |            ::1|[42m 200 [0m|   269.2789ms|   match|[44m GET     [0m /v1/job/getall   r:/v1/job/getall
+2019/04/21 18:34:25.498 [D] [server.go:2741]  |            ::1|[43m 404 [0m|           0s| nomatch|[44m GET     [0m /getall
+2019/04/21 18:34:25.966 [D] [server.go:2741]  |            ::1|[43m 404 [0m|      999.9µs| nomatch|[44m GET     [0m /favicon.ico
+2019/04/21 18:34:30.642 [I] [asm_amd64.s:1333]  http server Running on http://:8080
+2019/04/21 18:34:37.137 [I] [asm_amd64.s:1333]  http server Running on http://:8080
+2019/04/21 18:44:41.987 [D] [server.go:2741]  |            ::1|[43m 404 [0m|      995.9µs| nomatch|[44m GET     [0m /getall
+2019/04/21 18:44:44.292 [D] [server.go:2741]  |            ::1|[43m 404 [0m|      997.1µs| nomatch|[44m GET     [0m /getall
+2019/04/21 18:45:04.906 [I] [asm_amd64.s:1333]  http server Running on http://:8080
+2019/04/21 18:45:10.890 [I] [asm_amd64.s:1333]  http server Running on http://:8080
+2019/04/21 18:45:17.024 [D] [server.go:2741]  |            ::1|[43m 404 [0m|           0s| nomatch|[44m GET     [0m /getall
+2019/04/21 18:45:19.166 [D] [server.go:2741]  |            ::1|[43m 404 [0m|           0s| nomatch|[44m GET     [0m /getall
+2019/04/21 18:45:22.302 [D] [server.go:2741]  |            ::1|[47m 302 [0m|           0s|   match|[44m GET     [0m /swagger
+2019/04/21 18:45:22.593 [D] [server.go:2741]  |            ::1|[42m 200 [0m|      997.5µs|   match|[44m GET     [0m /swagger/swagger.json
+2019/04/21 18:45:30.995 [D] [asm_amd64.s:522]  jobName 1241415
+2019/04/21 18:45:31.301 [D] [asm_amd64.s:522]  del job success! oldJob: <nil>
+2019/04/21 18:45:31.301 [D] [server.go:2741]  |            ::1|[42m 200 [0m|    305.164ms|   match|[44m GET     [0m /v1/job/del   r:/v1/job/del
+2019/04/21 18:48:29.459 [I] [asm_amd64.s:1333]  http server Running on http://:8080
+2019/04/21 18:48:32.445 [I] [asm_amd64.s:1333]  http server Running on http://:8080
+2019/04/21 18:48:35.414 [I] [asm_amd64.s:1333]  http server Running on http://:8080
+2019/04/21 18:48:43.775 [D] [asm_amd64.s:522]  jobName 1241415
+2019/04/21 18:48:44.016 [I] [job.go:61]  22222222222222222222222222222
+2019/04/21 18:48:44.016 [D] [asm_amd64.s:522]  del job success! oldJob: <nil>
+2019/04/21 18:48:44.016 [D] [server.go:2741]  |            ::1|[42m 200 [0m|     241.36ms|   match|[44m GET     [0m /v1/job/del   r:/v1/job/del
+2019/04/21 18:51:47.960 [I] [asm_amd64.s:1333]  http server Running on http://:8080
+2019/04/21 18:52:08.789 [D] [server.go:2741]  |            ::1|[47m 304 [0m|      995.9µs|   match|[44m GET     [0m /swagger/
+2019/04/21 18:52:09.687 [D] [server.go:2741]  |            ::1|[42m 200 [0m|           0s|   match|[44m GET     [0m /swagger/swagger.json
+2019/04/21 18:52:09.917 [D] [server.go:2741]  |            ::1|[42m 200 [0m|    34.9049ms|   match|[44m GET     [0m /swagger/favicon-32x32.png
+2019/04/21 18:52:09.925 [D] [server.go:2741]  |            ::1|[47m 304 [0m|           0s|   match|[44m GET     [0m /swagger/favicon-16x16.png
+2019/04/21 18:52:16.015 [D] [asm_amd64.s:522]  jobName 312515
+2019/04/21 18:52:16.259 [I] [job.go:61]  22222222222222222222222222222
+2019/04/21 18:52:16.259 [D] [asm_amd64.s:522]  DelJob recovery. Err: runtime error: index out of range
+2019/04/21 18:52:16.259 [D] [asm_amd64.s:522]  del job success! oldJob: <nil>
+2019/04/21 18:52:16.259 [D] [server.go:2741]  |            ::1|[42m 200 [0m|   244.3712ms|   match|[44m GET     [0m /v1/job/del   r:/v1/job/del
+2019/04/21 18:53:23.807 [I] [asm_amd64.s:1333]  http server Running on http://:8080
+2019/04/21 18:55:17.092 [I] [asm_amd64.s:1333]  http server Running on http://:8080
+2019/04/21 18:55:39.393 [D] [asm_amd64.s:522]  jobName 312515
+2019/04/21 18:55:39.649 [I] [job.go:61]  22222222222222222222222222222
+2019/04/21 18:55:39.649 [D] [asm_amd64.s:522]  del job success! oldJob: <nil>
+2019/04/21 18:55:39.649 [D] [server.go:2741]  |            ::1|[42m 200 [0m|   255.3306ms|   match|[44m GET     [0m /v1/job/del   r:/v1/job/del
+2019/04/21 19:01:26.478 [D] [asm_amd64.s:522]  jobName 312515
+2019/04/21 19:01:26.725 [I] [job.go:61]  22222222222222222222222222222
+2019/04/21 19:01:26.725 [D] [asm_amd64.s:522]  del job success! oldJob: <nil>
+2019/04/21 19:01:26.725 [D] [server.go:2741]  |            ::1|[42m 200 [0m|   247.3641ms|   match|[44m GET     [0m /v1/job/del   r:/v1/job/del
+2019/04/21 19:04:25.180 [I] [asm_amd64.s:1333]  http server Running on http://:8080
+2019/04/21 19:04:28.270 [D] [asm_amd64.s:522]  jobName 312515
+2019/04/21 19:04:28.518 [I] [job.go:62]  22222222222222222222222222222
+2019/04/21 19:04:28.518 [E] [asm_amd64.s:522]  del job failed! err: job not exist
+2019/04/21 19:04:28.518 [D] [server.go:2741]  |            ::1|[42m 200 [0m|   248.3743ms|   match|[44m GET     [0m /v1/job/del   r:/v1/job/del
+2019/04/21 19:07:29.100 [I] [asm_amd64.s:1333]  http server Running on http://:8080
+2019/04/21 19:07:32.299 [D] [asm_amd64.s:522]  jobName 312515
+2019/04/21 19:07:32.540 [I] [job.go:63]  22222222222222222222222222222
+2019/04/21 19:07:32.540 [E] [asm_amd64.s:522]  del job failed! err: job not exist
+2019/04/21 19:07:32.540 [D] [server.go:2741]  |            ::1|[42m 200 [0m|   240.4123ms|   match|[44m GET     [0m /v1/job/del   r:/v1/job/del
+2019/04/21 19:10:34.403 [I] [asm_amd64.s:1333]  http server Running on http://:8080
+2019/04/21 19:10:41.530 [I] [asm_amd64.s:1333]  http server Running on http://:8080
+2019/04/21 19:12:33.455 [D] [server.go:2741]  |            ::1|[43m 404 [0m|           0s| nomatch|[44m GET     [0m /v1/job/del
+2019/04/21 19:12:46.438 [D] [server.go:2741]  |            ::1|[43m 404 [0m|           0s| nomatch|[44m GET     [0m /v1/job/del
+2019/04/21 19:12:55.983 [D] [server.go:2741]  |            ::1|[47m 304 [0m|      997.9µs|   match|[44m GET     [0m /swagger/
+2019/04/21 19:12:56.834 [D] [server.go:2741]  |            ::1|[42m 200 [0m|     1.0379ms|   match|[44m GET     [0m /swagger/swagger.json
+2019/04/21 19:12:57.041 [D] [server.go:2741]  |            ::1|[42m 200 [0m|      998.3µs|   match|[44m GET     [0m /swagger/favicon-32x32.png
+2019/04/21 19:13:01.925 [D] [server.go:2741]  |            ::1|[42m 200 [0m|           0s|   match|[46m POST    [0m /v1/job/del   r:/v1/job/del
+2019/04/21 19:13:55.576 [I] [asm_amd64.s:1333]  http server Running on http://:8080
+2019/04/21 19:14:00.456 [E] [asm_amd64.s:522]  parse form error! err:  0xc0003840c0 must be  a struct pointer
+2019/04/21 19:14:00.456 [D] [server.go:2741]  |            ::1|[42m 200 [0m|           0s|   match|[46m POST    [0m /v1/job/del   r:/v1/job/del
+2019/04/21 19:17:04.473 [I] [asm_amd64.s:1333]  http server Running on http://:8080
+2019/04/21 19:17:07.804 [I] [asm_amd64.s:1333]  http server Running on http://:8080
+2019/04/21 19:17:08.218 [I] [job.go:68]  22222222222222222222222222222
+2019/04/21 19:17:08.218 [E] [asm_amd64.s:522]  del job failed! err: job not exist
+2019/04/21 19:17:08.218 [D] [server.go:2741]  |            ::1|[42m 200 [0m|   244.2672ms|   match|[46m POST    [0m /v1/job/del   r:/v1/job/del
+2019/04/21 19:17:28.961 [D] [server.go:2741]  |            ::1|[47m 304 [0m|      996.8µs|   match|[44m GET     [0m /swagger/
+2019/04/21 19:17:29.772 [D] [server.go:2741]  |            ::1|[42m 200 [0m|           0s|   match|[44m GET     [0m /swagger/swagger.json
+2019/04/21 19:17:29.959 [D] [server.go:2741]  |            ::1|[42m 200 [0m|      997.5µs|   match|[44m GET     [0m /swagger/favicon-32x32.png
+2019/04/21 19:27:58.150 [I] [asm_amd64.s:1333]  http server Running on http://:8080
+2019/04/21 19:28:08.110 [D] [server.go:2741]  |            ::1|[47m 304 [0m|      1.007ms|   match|[44m GET     [0m /swagger/
+2019/04/21 19:28:09.089 [D] [server.go:2741]  |            ::1|[42m 200 [0m|     1.0141ms|   match|[44m GET     [0m /swagger/swagger.json
+2019/04/21 19:28:09.302 [D] [server.go:2741]  |            ::1|[42m 200 [0m|           0s|   match|[44m GET     [0m /swagger/favicon-32x32.png
+2019/04/21 19:28:16.536 [E] [asm_amd64.s:522]  kill job succeed! name: 
+2019/04/21 19:28:16.536 [D] [server.go:2741]  |            ::1|[42m 200 [0m|   1.0340357s|   match|[46m POST    [0m /v1/job/kill   r:/v1/job/kill
+2019/04/21 19:29:03.249 [D] [server.go:2741]  |            ::1|[47m 304 [0m|           0s|   match|[44m GET     [0m /swagger/
+2019/04/21 19:29:04.186 [D] [server.go:2741]  |            ::1|[47m 304 [0m|           0s|   match|[44m GET     [0m /swagger/swagger.json
+2019/04/21 19:29:04.400 [D] [server.go:2741]  |            ::1|[42m 200 [0m|           0s|   match|[44m GET     [0m /swagger/favicon-32x32.png
+2019/04/21 19:29:09.129 [I] [asm_amd64.s:1333]  http server Running on http://:8080
+2019/04/21 19:29:10.671 [D] [server.go:2741]  |            ::1|[47m 304 [0m|        992µs|   match|[44m GET     [0m /swagger/
+2019/04/21 19:29:11.031 [D] [server.go:2741]  |            ::1|[42m 200 [0m|           0s|   match|[44m GET     [0m /swagger/swagger.json
+2019/04/21 19:29:11.197 [D] [server.go:2741]  |            ::1|[42m 200 [0m|           0s|   match|[44m GET     [0m /swagger/favicon-32x32.png
+2019/04/21 19:29:18.295 [E] [asm_amd64.s:522]  kill job succeed! name: 151
+2019/04/21 19:29:18.296 [D] [server.go:2741]  |            ::1|[42m 200 [0m|   991.5094ms|   match|[46m POST    [0m /v1/job/kill   r:/v1/job/kill
+2019/04/21 19:30:18.052 [E] [asm_amd64.s:522]  kill job succeed! name: 151
+2019/04/21 19:30:18.052 [D] [server.go:2741]  |            ::1|[42m 200 [0m|   973.3322ms|   match|[46m POST    [0m /v1/job/kill   r:/v1/job/kill
+2019/04/21 19:30:27.610 [D] [asm_amd64.s:522]  get all job success! jobList: [{Name:111 CronExpr:222 Command:333} {Name:2222 CronExpr:33 Command:444}]
+2019/04/21 19:30:27.611 [D] [server.go:2741]  |            ::1|[42m 200 [0m|   242.3528ms|   match|[44m GET     [0m /v1/job/getall   r:/v1/job/getall
+2019/04/21 19:30:42.970 [D] [asm_amd64.s:522]  save job success. oldJob: <nil>
+2019/04/21 19:30:42.970 [D] [server.go:2741]  |            ::1|[42m 200 [0m|   244.7327ms|   match|[46m POST    [0m /v1/job/save   r:/v1/job/save
+2019/04/21 19:30:54.787 [D] [asm_amd64.s:522]  get all job success! jobList: [{Name:111 CronExpr:222 Command:333} {Name:2222 CronExpr:33 Command:444} {Name:333 CronExpr:vagef Command:31}]
+2019/04/21 19:30:54.787 [D] [server.go:2741]  |            ::1|[42m 200 [0m|   246.3358ms|   match|[44m GET     [0m /v1/job/getall   r:/v1/job/getall
+2019/04/21 19:31:07.573 [I] [job.go:63]  22222222222222222222222222222
+2019/04/21 19:31:07.573 [D] [job.go:63]  oldJob: {"Name":"333","CronExpr":"vagef","Command":"31"}
+2019/04/21 19:31:07.573 [D] [job.go:63]  oldJob2: &{Name:333 CronExpr:vagef Command:31}
+2019/04/21 19:31:07.573 [D] [asm_amd64.s:522]  del job success! oldJob: &{Name:333 CronExpr:vagef Command:31}
+2019/04/21 19:31:07.573 [D] [server.go:2741]  |            ::1|[42m 200 [0m|     257.33ms|   match|[46m POST    [0m /v1/job/del   r:/v1/job/del
+2019/04/21 19:31:13.929 [D] [asm_amd64.s:522]  get all job success! jobList: [{Name:111 CronExpr:222 Command:333} {Name:2222 CronExpr:33 Command:444}]
+2019/04/21 19:31:13.929 [D] [server.go:2741]  |            ::1|[42m 200 [0m|   248.3439ms|   match|[44m GET     [0m /v1/job/getall   r:/v1/job/getall
+2019/04/21 19:31:19.291 [I] [job.go:63]  22222222222222222222222222222
+2019/04/21 19:31:19.291 [E] [asm_amd64.s:522]  del job failed! err: job not exist
+2019/04/21 19:31:19.292 [D] [server.go:2741]  |            ::1|[42m 200 [0m|   241.1885ms|   match|[46m POST    [0m /v1/job/del   r:/v1/job/del
+2019/04/21 19:31:37.901 [D] [server.go:2741]  |            ::1|[43m 404 [0m|           0s| nomatch|[44m GET     [0m /job/getall
+2019/04/21 19:31:49.091 [D] [asm_amd64.s:522]  get all job success! jobList: [{Name:111 CronExpr:222 Command:333} {Name:2222 CronExpr:33 Command:444}]
+2019/04/21 19:31:49.091 [D] [server.go:2741]  |            ::1|[42m 200 [0m|   253.1241ms|   match|[44m GET     [0m /v1/job/getall   r:/v1/job/getall
+2019/04/21 20:02:56.940 [D] [server.go:2741]  |            ::1|[47m 302 [0m|           0s|   match|[44m GET     [0m /swagger
+2019/04/21 20:02:59.050 [D] [server.go:2741]  |            ::1|[47m 304 [0m|           0s|   match|[44m GET     [0m /swagger/swagger.json
+2019/04/21 20:15:29.169 [D] [server.go:2741]  |            ::1|[43m 404 [0m|           0s| nomatch|[44m GET     [0m /  
+2019/04/21 20:15:34.367 [D] [server.go:2741]  |            ::1|[43m 404 [0m|           0s| nomatch|[44m GET     [0m /  
+2019/04/21 20:49:58.773 [I] [asm_amd64.s:1333]  http server Running on http://:8080
+2019/04/21 20:50:05.870 [I] [asm_amd64.s:1333]  http server Running on http://:8080
+2019/04/21 20:50:08.861 [I] [asm_amd64.s:1333]  http server Running on http://:8080
+2019/04/21 20:55:05.188 [I] [asm_amd64.s:1333]  http server Running on http://:8080
+2019/04/21 20:55:08.162 [I] [asm_amd64.s:1333]  http server Running on http://:8080
+2019/04/21 21:00:24.695 [I] [asm_amd64.s:1333]  http server Running on http://:8080
+2019/04/21 21:03:20.523 [D] [server.go:2741]  |            ::1|[43m 404 [0m|           0s| nomatch|[44m GET     [0m /  
+2019/04/21 21:34:11.199 [I] [asm_amd64.s:1333]  http server Running on http://:8080
+2019/04/21 21:34:16.729 [I] [asm_amd64.s:1333]  http server Running on http://:8080
+2019/04/21 21:34:22.223 [I] [asm_amd64.s:1333]  http server Running on http://:8080
+2019/04/21 21:35:14.004 [I] [asm_amd64.s:1333]  http server Running on http://:8080
+2019/04/21 21:49:25.148 [I] [asm_amd64.s:1333]  http server Running on http://:8080
+2019/04/21 21:49:29.471 [D] [server.go:2741]  |            ::1|[43m 404 [0m|      997.1µs| nomatch|[44m GET     [0m /  
+2019/04/21 21:49:38.985 [D] [server.go:2741]  |            ::1|[43m 404 [0m|      998.3µs| nomatch|[44m GET     [0m /  
+2019/04/21 21:52:38.011 [I] [asm_amd64.s:1333]  http server Running on http://:8080
+2019/04/21 21:55:52.328 [I] [asm_amd64.s:1333]  http server Running on http://:8080
+2019/04/21 21:56:00.616 [D] [server.go:2741]  |            ::1|[43m 404 [0m|      997.2µs| nomatch|[44m GET     [0m /  
+2019/04/21 21:59:31.003 [D] [asm_amd64.s:522]   in index ......................
+2019/04/21 21:59:31.003 [D] [server.go:2741]  |            ::1|[42m 200 [0m|           0s|   match|[44m GET     [0m /v1/index   r:/v1/index/
+2019/04/21 21:59:39.386 [D] [asm_amd64.s:522]   in index ......................
+2019/04/21 21:59:39.387 [D] [server.go:2741]  |            ::1|[42m 200 [0m|      997.9µs|   match|[44m GET     [0m /v1/index/   r:/v1/index/
+2019/04/21 21:59:51.867 [D] [server.go:2741]  |            ::1|[47m 302 [0m|           0s|   match|[44m GET     [0m /swagger
+2019/04/21 21:59:53.012 [D] [server.go:2741]  |            ::1|[42m 200 [0m|           0s|   match|[44m GET     [0m /swagger/swagger.json
+2019/04/21 22:00:01.500 [D] [asm_amd64.s:522]   in index ......................
+2019/04/21 22:00:01.500 [D] [server.go:2741]  |            ::1|[42m 200 [0m|           0s|   match|[44m GET     [0m /v1/index/   r:/v1/index/
+2019/04/21 22:05:21.760 [I] [asm_amd64.s:1333]  http server Running on http://:8080
+2019/04/21 22:06:28.333 [I] [asm_amd64.s:1333]  http server Running on http://:8080
+2019/04/21 22:10:56.781 [I] [asm_amd64.s:1333]  http server Running on http://:8080
+2019/04/21 22:11:02.818 [I] [asm_amd64.s:1333]  http server Running on http://:8080
+2019/04/21 22:21:13.692 [D] [server.go:2741]  |            ::1|[42m 200 [0m|      996.3µs|   match|[44m GET     [0m /swagger/swagger.json
+2019/04/21 22:31:11.475 [D] [server.go:2741]  |            ::1|[43m 405 [0m|      981.8µs|   match|[46m POST    [0m /jobs/save   r:/jobs/save
+2019/04/21 22:31:30.666 [D] [server.go:2741]  |            ::1|[47m 304 [0m|    34.9013ms|   match|[44m GET     [0m /swagger/
+2019/04/21 22:31:31.200 [D] [server.go:2741]  |            ::1|[47m 304 [0m|           0s|   match|[44m GET     [0m /swagger/swagger.json
+2019/04/21 22:31:31.335 [D] [server.go:2741]  |            ::1|[42m 200 [0m|     5.9891ms|   match|[44m GET     [0m /swagger/favicon-32x32.png
+2019/04/21 22:32:24.267 [I] [asm_amd64.s:1333]  http server Running on http://:8080
+2019/04/21 22:33:53.175 [D] [server.go:2741]  |            ::1|[43m 405 [0m|           0s|   match|[46m POST    [0m /jobs/save   r:/jobs/save
+2019/04/21 22:35:09.876 [I] [asm_amd64.s:1333]  http server Running on http://:8080
+2019/04/21 22:35:15.099 [I] [asm_amd64.s:1333]  http server Running on http://:8080
+2019/04/21 22:35:51.394 [I] [asm_amd64.s:1333]  http server Running on http://:8080
+2019/04/21 22:36:08.896 [I] [asm_amd64.s:1333]  http server Running on http://:8080
+2019/04/21 22:40:06.805 [I] [asm_amd64.s:1333]  http server Running on http://:8080
+2019/04/21 22:40:16.835 [D] [server.go:2741]  |            ::1|[43m 404 [0m|           0s| nomatch|[44m GET     [0m /swagger/swagger.json
+2019/04/21 22:40:32.737 [I] [asm_amd64.s:1333]  http server Running on http://:8080
+2019/04/21 22:40:32.847 [D] [server.go:2741]  |      127.0.0.1|[42m 200 [0m|      982.9µs|   match|[44m GET     [0m /swagger/
+2019/04/21 22:40:33.274 [D] [server.go:2741]  |      127.0.0.1|[42m 200 [0m|           0s|   match|[44m GET     [0m /swagger/swagger.json
+2019/04/21 22:40:33.464 [D] [server.go:2741]  |      127.0.0.1|[42m 200 [0m|      997.5µs|   match|[44m GET     [0m /swagger/favicon-32x32.png
+2019/04/21 22:42:50.590 [D] [asm_amd64.s:522]  save job success. oldJob: <nil>
+2019/04/21 22:42:50.590 [D] [server.go:2741]  |            ::1|[42m 200 [0m|   288.1846ms|   match|[46m POST    [0m /jobs/save   r:/jobs/save
+2019/04/21 22:45:48.364 [D] [job.go:39]  old value: &{xxxxx 2222 feafeaf}
+2019/04/21 22:45:48.365 [D] [asm_amd64.s:522]  save job success. oldJob: &{Name:xxxxx CronExpr:2222 Command:feafeaf}
+2019/04/21 22:45:48.365 [D] [server.go:2741]  |            ::1|[42m 200 [0m|   327.8512ms|   match|[46m POST    [0m /jobs/save   r:/jobs/save
+2019/04/21 22:49:01.648 [I] [asm_amd64.s:1333]  http server Running on http://:8080
+2019/04/21 22:51:28.018 [D] [server.go:2741]  |            ::1|[43m 404 [0m|      990.8µs| nomatch|[46m POST    [0m /jobs/getall
+2019/04/21 22:52:51.917 [I] [asm_amd64.s:1333]  http server Running on http://:8080
+2019/04/21 22:52:58.070 [I] [asm_amd64.s:1333]  http server Running on http://:8080
+2019/04/21 22:53:01.173 [D] [server.go:2741]  |            ::1|[43m 404 [0m|      997.2µs| nomatch|[46m POST    [0m /jobs/getall
+2019/04/21 22:53:04.175 [I] [asm_amd64.s:1333]  http server Running on http://:8080
+2019/04/21 22:53:10.299 [I] [asm_amd64.s:1333]  http server Running on http://:8080
+2019/04/21 22:53:16.349 [I] [asm_amd64.s:1333]  http server Running on http://:8080
+2019/04/21 22:53:19.518 [D] [server.go:2741]  |            ::1|[43m 404 [0m|      997.9µs| nomatch|[46m POST    [0m /jobs/getall
+2019/04/21 22:53:22.475 [I] [asm_amd64.s:1333]  http server Running on http://:8080
+2019/04/21 22:53:28.817 [I] [asm_amd64.s:1333]  http server Running on http://:8080
+2019/04/21 22:53:35.250 [I] [asm_amd64.s:1333]  http server Running on http://:8080
+2019/04/21 22:53:48.384 [I] [asm_amd64.s:1333]  http server Running on http://:8080
+2019/04/21 22:56:23.003 [D] [server.go:2741]  |            ::1|[43m 404 [0m|      997.6µs| nomatch|[46m POST    [0m /jobs/getall
+2019/04/21 22:56:48.589 [D] [asm_amd64.s:522]  2222222222222222222222222222222222
+2019/04/21 22:56:48.876 [D] [asm_amd64.s:522]  get all job success! jobList: [{Name:111 CronExpr:222 Command:333} {Name:2222 CronExpr:33 Command:444} {Name:xxxxx CronExpr:2222 Command:feafeaf}]
+2019/04/21 22:56:48.877 [D] [server.go:2741]  |            ::1|[42m 200 [0m|   288.2266ms|   match|[44m GET     [0m /jobs/getall   r:/jobs/getall
+2019/04/21 22:57:01.206 [D] [server.go:2741]  |            ::1|[43m 404 [0m|           0s| nomatch|[46m POST    [0m /jobs/getall
+2019/04/21 22:57:10.817 [I] [asm_amd64.s:1333]  http server Running on http://:8080
+2019/04/21 22:57:11.507 [D] [asm_amd64.s:522]  2222222222222222222222222222222222
+2019/04/21 22:57:11.831 [D] [asm_amd64.s:522]  get all job success! jobList: [{Name:111 CronExpr:222 Command:333} {Name:2222 CronExpr:33 Command:444} {Name:xxxxx CronExpr:2222 Command:feafeaf}]
+2019/04/21 22:57:11.832 [D] [server.go:2741]  |            ::1|[42m 200 [0m|     325.13ms|   match|[44m GET     [0m /jobs/getall   r:/jobs/getall
+2019/04/21 22:57:21.009 [I] [asm_amd64.s:1333]  http server Running on http://:8080
+2019/04/21 22:57:45.377 [D] [asm_amd64.s:522]  2222222222222222222222222222222222
+2019/04/21 22:57:45.710 [D] [asm_amd64.s:522]  get all job success! jobList: [{Name:111 CronExpr:222 Command:333} {Name:2222 CronExpr:33 Command:444} {Name:xxxxx CronExpr:2222 Command:feafeaf}]
+2019/04/21 22:57:45.711 [D] [server.go:2741]  |            ::1|[42m 200 [0m|   332.3972ms|   match|[44m GET     [0m /jobs/getall   r:/jobs/getall
+2019/04/21 22:58:29.264 [I] [job.go:63]  22222222222222222222222222222
+2019/04/21 22:58:29.264 [D] [job.go:63]  oldJob: {"Name":"111","CronExpr":"222","Command":"333"}
+2019/04/21 22:58:29.264 [D] [job.go:63]  oldJob2: &{Name:111 CronExpr:222 Command:333}
+2019/04/21 22:58:29.264 [D] [asm_amd64.s:522]  del job success! oldJob: &{Name:111 CronExpr:222 Command:333}
+2019/04/21 22:58:29.264 [D] [server.go:2741]  |            ::1|[42m 200 [0m|   317.1494ms|   match|[46m POST    [0m /jobs/del   r:/jobs/del
+2019/04/21 22:58:51.954 [I] [job.go:63]  22222222222222222222222222222
+2019/04/21 22:58:51.954 [E] [asm_amd64.s:522]  del job failed! err: job not exist
+2019/04/21 22:58:51.955 [D] [server.go:2741]  |            ::1|[42m 200 [0m|    334.408ms|   match|[46m POST    [0m /jobs/del   r:/jobs/del
+2019/04/21 22:58:58.747 [D] [asm_amd64.s:522]  2222222222222222222222222222222222
+2019/04/21 22:58:59.080 [D] [asm_amd64.s:522]  get all job success! jobList: [{Name:2222 CronExpr:33 Command:444} {Name:xxxxx CronExpr:2222 Command:feafeaf}]
+2019/04/21 22:58:59.081 [D] [server.go:2741]  |            ::1|[42m 200 [0m|    334.109ms|   match|[44m GET     [0m /jobs/getall   r:/jobs/getall
+2019/04/21 22:59:13.011 [I] [job.go:63]  22222222222222222222222222222
+2019/04/21 22:59:13.011 [D] [job.go:63]  oldJob: {"Name":"2222","CronExpr":"33","Command":"444"}
+2019/04/21 22:59:13.011 [D] [job.go:63]  oldJob2: &{Name:2222 CronExpr:33 Command:444}
+2019/04/21 22:59:13.011 [D] [asm_amd64.s:522]  del job success! oldJob: &{Name:2222 CronExpr:33 Command:444}
+2019/04/21 22:59:13.012 [D] [server.go:2741]  |            ::1|[42m 200 [0m|   347.0706ms|   match|[46m POST    [0m /jobs/del   r:/jobs/del
+2019/04/21 22:59:16.280 [D] [asm_amd64.s:522]  2222222222222222222222222222222222
+2019/04/21 22:59:16.582 [D] [asm_amd64.s:522]  get all job success! jobList: [{Name:xxxxx CronExpr:2222 Command:feafeaf}]
+2019/04/21 22:59:16.583 [D] [server.go:2741]  |            ::1|[42m 200 [0m|   302.3187ms|   match|[44m GET     [0m /jobs/getall   r:/jobs/getall
+2019/04/21 22:59:28.914 [D] [asm_amd64.s:522]  save job success. oldJob: <nil>
+2019/04/21 22:59:28.914 [D] [server.go:2741]  |            ::1|[42m 200 [0m|   333.1059ms|   match|[46m POST    [0m /jobs/save   r:/jobs/save
+2019/04/21 22:59:32.510 [D] [asm_amd64.s:522]  2222222222222222222222222222222222
+2019/04/21 22:59:32.843 [D] [asm_amd64.s:522]  get all job success! jobList: [{Name:33333 CronExpr:2222 Command:feafeaf} {Name:xxxxx CronExpr:2222 Command:feafeaf}]
+2019/04/21 22:59:32.843 [D] [server.go:2741]  |            ::1|[42m 200 [0m|   333.4484ms|   match|[44m GET     [0m /jobs/getall   r:/jobs/getall
+2019/04/21 22:59:47.110 [I] [job.go:63]  22222222222222222222222222222
+2019/04/21 22:59:47.111 [D] [job.go:63]  oldJob: {"Name":"33333","CronExpr":"2222","Command":"feafeaf"}
+2019/04/21 22:59:47.111 [D] [job.go:63]  oldJob2: &{Name:33333 CronExpr:2222 Command:feafeaf}
+2019/04/21 22:59:47.111 [D] [asm_amd64.s:522]  del job success! oldJob: &{Name:33333 CronExpr:2222 Command:feafeaf}
+2019/04/21 22:59:47.111 [D] [server.go:2741]  |            ::1|[42m 200 [0m|   340.0909ms|   match|[46m POST    [0m /jobs/del   r:/jobs/del
+2019/04/21 22:59:50.416 [D] [asm_amd64.s:522]  2222222222222222222222222222222222
+2019/04/21 22:59:50.757 [D] [asm_amd64.s:522]  get all job success! jobList: [{Name:xxxxx CronExpr:2222 Command:feafeaf}]
+2019/04/21 22:59:50.757 [D] [server.go:2741]  |            ::1|[42m 200 [0m|   341.0858ms|   match|[44m GET     [0m /jobs/getall   r:/jobs/getall
+2019/04/21 23:00:48.046 [D] [server.go:2741]  |            ::1|[43m 405 [0m|           0s|   match|[44m GET     [0m /     r:/
+2019/04/21 23:02:24.949 [I] [asm_amd64.s:1333]  http server Running on http://:8080
+2019/04/21 23:02:29.305 [D] [asm_amd64.s:522]   in index ......................
+2019/04/21 23:02:29.305 [D] [server.go:2741]  |            ::1|[42m 200 [0m|           0s|   match|[44m GET     [0m /     r:/
+2019/04/21 23:03:00.344 [D] [asm_amd64.s:522]   in index ......................
+2019/04/21 23:03:00.344 [D] [server.go:2741]  |            ::1|[42m 200 [0m|      997.5µs|   match|[44m GET     [0m /     r:/
+2019/04/21 23:03:00.692 [D] [server.go:2741]  |            ::1|[43m 404 [0m|      997.9µs| nomatch|[44m GET     [0m /favicon.ico
+2019/04/21 23:04:02.055 [I] [asm_amd64.s:1333]  http server Running on http://:8080
+2019/04/21 23:05:14.364 [D] [asm_amd64.s:522]   in index ......................
+2019/04/21 23:05:14.364 [D] [server.go:2741]  |            ::1|[42m 200 [0m|           0s|   match|[44m GET     [0m /     r:/
+2019/04/21 23:06:17.692 [I] [asm_amd64.s:1333]  http server Running on http://:8080
+2019/04/21 23:07:12.694 [D] [asm_amd64.s:522]   in index ......................
+2019/04/21 23:07:12.694 [D] [server.go:2741]  |            ::1|[42m 200 [0m|           0s|   match|[44m GET     [0m /     r:/
+2019/04/21 23:07:16.864 [D] [asm_amd64.s:522]   in index ......................
+2019/04/21 23:07:16.864 [D] [server.go:2741]  |            ::1|[42m 200 [0m|           0s|   match|[44m GET     [0m /     r:/
+2019/04/21 23:11:55.076 [I] [asm_amd64.s:1333]  http server Running on http://:8080
+2019/04/21 23:11:55.737 [D] [asm_amd64.s:522]   in index ......................
+2019/04/21 23:11:55.737 [D] [server.go:2741]  |            ::1|[42m 200 [0m|           0s|   match|[44m GET     [0m /     r:/
+2019/04/21 23:11:57.980 [D] [asm_amd64.s:522]   in index ......................
+2019/04/21 23:11:57.980 [D] [server.go:2741]  |            ::1|[42m 200 [0m|           0s|   match|[44m GET     [0m /     r:/
+2019/04/21 23:11:58.793 [D] [asm_amd64.s:522]   in index ......................
+2019/04/21 23:11:58.793 [D] [server.go:2741]  |            ::1|[42m 200 [0m|           0s|   match|[44m GET     [0m /     r:/
+2019/04/21 23:11:59.530 [D] [asm_amd64.s:522]   in index ......................
+2019/04/21 23:11:59.530 [D] [server.go:2741]  |            ::1|[42m 200 [0m|           0s|   match|[44m GET     [0m /     r:/
+2019/04/21 23:11:59.708 [D] [asm_amd64.s:522]   in index ......................
+2019/04/21 23:11:59.708 [D] [server.go:2741]  |            ::1|[42m 200 [0m|           0s|   match|[44m GET     [0m /     r:/
+2019/04/21 23:11:59.982 [D] [asm_amd64.s:522]   in index ......................
+2019/04/21 23:11:59.982 [D] [server.go:2741]  |            ::1|[42m 200 [0m|           0s|   match|[44m GET     [0m /     r:/
+2019/04/21 23:12:24.821 [D] [asm_amd64.s:522]   in index ......................
+2019/04/21 23:12:24.821 [D] [server.go:2741]  |            ::1|[42m 200 [0m|           0s|   match|[44m GET     [0m /     r:/
+2019/04/21 23:12:29.954 [D] [asm_amd64.s:522]   in index ......................
+2019/04/21 23:12:29.954 [D] [server.go:2741]  |            ::1|[42m 200 [0m|           0s|   match|[44m GET     [0m /     r:/
+2019/04/21 23:12:30.150 [D] [asm_amd64.s:522]   in index ......................
+2019/04/21 23:12:30.150 [D] [server.go:2741]  |            ::1|[42m 200 [0m|           0s|   match|[44m GET     [0m /     r:/
+2019/04/21 23:12:30.513 [D] [asm_amd64.s:522]   in index ......................
+2019/04/21 23:12:30.513 [D] [server.go:2741]  |            ::1|[42m 200 [0m|           0s|   match|[44m GET     [0m /     r:/
+2019/04/21 23:12:34.720 [I] [asm_amd64.s:1333]  http server Running on http://:8080
+2019/04/21 23:15:41.999 [I] [asm_amd64.s:1333]  http server Running on http://:8080
+2019/04/21 23:16:38.900 [I] [asm_amd64.s:1333]  http server Running on http://:8080
+2019/04/21 23:16:41.486 [D] [asm_amd64.s:522]   in index ......................
+2019/04/21 23:16:41.486 [D] [server.go:2741]  |            ::1|[42m 200 [0m|      995.6µs|   match|[44m GET     [0m /     r:/
+2019/04/21 23:16:44.459 [D] [asm_amd64.s:522]   in index ......................
+2019/04/21 23:16:44.459 [D] [server.go:2741]  |            ::1|[42m 200 [0m|           0s|   match|[44m GET     [0m /     r:/
+2019/04/21 23:16:47.726 [D] [asm_amd64.s:522]   in index ......................
+2019/04/21 23:16:47.726 [D] [server.go:2741]  |            ::1|[42m 200 [0m|           0s|   match|[44m GET     [0m /     r:/
+2019/04/21 23:18:13.499 [I] [asm_amd64.s:1333]  http server Running on http://:8080
+2019/04/21 23:18:16.500 [D] [asm_amd64.s:522]   in index ......................
+2019/04/21 23:18:16.503 [D] [server.go:2741]  |            ::1|[42m 200 [0m|     2.9922ms|   match|[44m GET     [0m /     r:/
+2019/04/21 23:18:41.697 [D] [asm_amd64.s:522]   in index ......................
+2019/04/21 23:18:41.700 [D] [server.go:2741]  |            ::1|[42m 200 [0m|      2.991ms|   match|[44m GET     [0m /     r:/
+2019/04/21 23:19:29.332 [I] [asm_amd64.s:1333]  http server Running on http://:8080
+2019/04/21 23:19:34.490 [I] [asm_amd64.s:1333]  http server Running on http://:8080
+2019/04/21 23:19:34.575 [D] [asm_amd64.s:522]   in index ......................
+2019/04/21 23:19:34.578 [D] [server.go:2741]  |            ::1|[42m 200 [0m|     2.9685ms|   match|[44m GET     [0m /     r:/
+2019/04/21 23:20:42.134 [D] [asm_amd64.s:522]   in index ......................
+2019/04/21 23:20:42.136 [D] [server.go:2741]  |            ::1|[42m 200 [0m|     1.9958ms|   match|[44m GET     [0m /     r:/
+2019/04/27 22:12:11.860 [I] [asm_amd64.s:1333]  http server Running on http://:8080
+2019/04/27 22:12:13.886 [I] [asm_amd64.s:1333]  http server Running on http://:8080
+2019/04/27 22:12:23.480 [I] [asm_amd64.s:1333]  http server Running on http://:8080
+2019/04/27 22:12:28.803 [I] [asm_amd64.s:1333]  http server Running on http://:8080
+2019/04/27 22:12:31.217 [I] [asm_amd64.s:1333]  http server Running on http://:8080
+2019/04/27 22:15:35.504 [I] [asm_amd64.s:1333]  http server Running on http://:8080
+2019/04/27 22:18:07.723 [D] [server.go:2741]  |            ::1|[43m 404 [0m|      995.5µs| nomatch|[44m GET     [0m /Go_Work/src/github.com/ChuhC/crontab/master/views/main/index.html
+2019/04/27 22:18:07.936 [D] [server.go:2741]  |            ::1|[43m 404 [0m|     1.9966ms| nomatch|[44m GET     [0m /favicon.ico
+2019/04/27 22:18:18.834 [D] [server.go:2741]  |            ::1|[43m 404 [0m|           0s| nomatch|[44m GET     [0m /Go_Work/src/github.com/ChuhC/crontab/master/views/main/index.html
+2019/04/27 22:48:55.983 [I] [asm_amd64.s:1333]  http server Running on http://:8080
+2019/04/27 22:48:58.470 [I] [asm_amd64.s:1333]  http server Running on http://:8080
+2019/04/27 22:50:06.088 [I] [asm_amd64.s:1333]  http server Running on http://:8080
+2019/04/27 22:50:10.667 [D] [server.go:2741]  |            ::1|[43m 404 [0m|      997.1µs| nomatch|[44m GET     [0m /Go_Work/src/github.com/ChuhC/crontab/master/views/main/index.html
+2019/04/27 22:50:15.443 [D] [server.go:2741]  |            ::1|[42m 200 [0m|           0s|   match|[44m GET     [0m /  
+2019/04/27 22:50:15.684 [D] [server.go:2741]  |            ::1|[43m 404 [0m|      994.4µs| nomatch|[44m GET     [0m /job/list
+2019/04/27 22:50:54.516 [I] [asm_amd64.s:1333]  http server Running on http://:8080
+2019/04/27 22:51:12.705 [I] [asm_amd64.s:1333]  http server Running on http://:8080
+2019/04/27 22:51:27.103 [D] [server.go:2741]  |            ::1|[47m 304 [0m|      997.2µs|   match|[44m GET     [0m /  
+2019/04/27 22:51:27.343 [D] [server.go:2741]  |            ::1|[43m 404 [0m|           0s| nomatch|[44m GET     [0m /job/list
+2019/04/27 22:51:41.821 [D] [server.go:2741]  |            ::1|[47m 304 [0m|           0s|   match|[44m GET     [0m /  
+2019/04/27 22:51:42.048 [D] [server.go:2741]  |            ::1|[43m 404 [0m|           0s| nomatch|[44m GET     [0m /job/list
+2019/04/27 22:52:28.201 [I] [asm_amd64.s:1333]  http server Running on http://:8080
+2019/04/27 22:52:55.629 [D] [server.go:2741]  |            ::1|[47m 304 [0m|      982.5µs|   match|[44m GET     [0m /  
+2019/04/27 22:52:55.860 [D] [asm_amd64.s:522]  2222222222222222222222222222222222
+2019/04/27 22:52:56.202 [D] [asm_amd64.s:522]  get all job success! jobList: [{Name:xxxxx CronExpr:2222 Command:feafeaf}]
+2019/04/27 22:52:56.202 [D] [server.go:2741]  |            ::1|[42m 200 [0m|   342.1109ms|   match|[44m GET     [0m /job/list   r:/job/list
+2019/04/27 22:55:05.439 [D] [server.go:2741]  |            ::1|[42m 200 [0m|      995.6µs|   match|[44m GET     [0m /  
+2019/04/27 22:55:05.670 [D] [asm_amd64.s:522]  2222222222222222222222222222222222
+2019/04/27 22:55:05.996 [D] [asm_amd64.s:522]  get all job success! jobList: [{Name:xxxxx CronExpr:2222 Command:feafeaf}]
+2019/04/27 22:55:05.996 [D] [server.go:2741]  |            ::1|[42m 200 [0m|   326.1224ms|   match|[44m GET     [0m /job/list   r:/job/list
+2019/04/27 22:55:44.863 [D] [server.go:2741]  |            ::1|[42m 200 [0m|           0s|   match|[44m GET     [0m /  
+2019/04/27 22:55:45.078 [D] [asm_amd64.s:522]  2222222222222222222222222222222222
+2019/04/27 22:55:45.415 [D] [asm_amd64.s:522]  get all job success! jobList: [{Name:xxxxx CronExpr:2222 Command:feafeaf}]
+2019/04/27 22:55:45.415 [D] [server.go:2741]  |            ::1|[42m 200 [0m|   338.0951ms|   match|[44m GET     [0m /job/list   r:/job/list
+2019/04/27 22:57:36.122 [D] [server.go:2741]  |            ::1|[42m 200 [0m|      997.9µs|   match|[44m GET     [0m /  
+2019/04/27 22:57:36.340 [D] [asm_amd64.s:522]  2222222222222222222222222222222222
+2019/04/27 22:57:36.671 [D] [asm_amd64.s:522]  get all job success! jobList: [{Name:xxxxx CronExpr:2222 Command:feafeaf}]
+2019/04/27 22:57:36.671 [D] [server.go:2741]  |            ::1|[42m 200 [0m|   332.1088ms|   match|[44m GET     [0m /job/list   r:/job/list
+2019/04/27 22:58:44.138 [D] [server.go:2741]  |            ::1|[47m 304 [0m|      999.5µs|   match|[44m GET     [0m /  
+2019/04/27 22:58:44.392 [D] [asm_amd64.s:522]  2222222222222222222222222222222222
+2019/04/27 22:58:44.693 [D] [asm_amd64.s:522]  get all job success! jobList: [{Name:xxxxx CronExpr:2222 Command:feafeaf}]
+2019/04/27 22:58:44.693 [D] [server.go:2741]  |            ::1|[42m 200 [0m|   301.1964ms|   match|[44m GET     [0m /job/list   r:/job/list
+2019/05/04 20:51:42.752 [I] [asm_amd64.s:1333]  http server Running on http://:8080
+2019/05/04 20:51:42.828 [D] [server.go:2741]  |            ::1|[42m 200 [0m|      997.6µs|   match|[44m GET     [0m /  
+2019/05/04 20:51:43.226 [D] [asm_amd64.s:522]  2222222222222222222222222222222222
+2019/05/04 20:51:43.232 [D] [server.go:2741]  |            ::1|[43m 404 [0m|     5.9836ms| nomatch|[44m GET     [0m /favicon.ico
+2019/05/04 20:51:43.475 [D] [asm_amd64.s:522]  get all job success! jobList: [{Name:xxxxx CronExpr:2222 Command:feafeaf}]
+2019/05/04 20:51:43.475 [D] [server.go:2741]  |            ::1|[42m 200 [0m|    249.332ms|   match|[44m GET     [0m /job/list   r:/job/list
+2019/05/04 20:51:45.163 [I] [asm_amd64.s:1333]  http server Running on http://:8080
+2019/05/04 20:51:47.466 [I] [asm_amd64.s:1333]  http server Running on http://:8080
+2019/05/04 20:51:50.165 [I] [asm_amd64.s:1333]  http server Running on http://:8080
+2019/05/04 20:51:52.774 [I] [asm_amd64.s:1333]  http server Running on http://:8080
+2019/05/04 20:51:55.258 [I] [asm_amd64.s:1333]  http server Running on http://:8080
+2019/05/04 20:51:57.556 [I] [asm_amd64.s:1333]  http server Running on http://:8080
+2019/05/04 20:51:59.959 [I] [asm_amd64.s:1333]  http server Running on http://:8080
+2019/05/04 20:52:00.847 [D] [server.go:2741]  |            ::1|[43m 404 [0m|     1.0063ms| nomatch|[46m POST    [0m /job/delete
+2019/05/04 20:52:02.391 [I] [asm_amd64.s:1333]  http server Running on http://:8080
+2019/05/04 20:52:04.832 [I] [asm_amd64.s:1333]  http server Running on http://:8080
+2019/05/04 20:52:27.179 [D] [server.go:2741]  |            ::1|[47m 304 [0m|           0s|   match|[44m GET     [0m /  
+2019/05/04 20:52:27.423 [D] [asm_amd64.s:522]  2222222222222222222222222222222222
+2019/05/04 20:52:27.665 [D] [asm_amd64.s:522]  get all job success! jobList: [{Name:xxxxx CronExpr:2222 Command:feafeaf}]
+2019/05/04 20:52:27.665 [D] [server.go:2741]  |            ::1|[42m 200 [0m|   241.3533ms|   match|[44m GET     [0m /job/list   r:/job/list
+2019/05/04 20:52:36.246 [D] [server.go:2741]  |            ::1|[43m 404 [0m|           0s| nomatch|[46m POST    [0m /job/delete
+2019/05/04 20:53:55.320 [I] [asm_amd64.s:1333]  http server Running on http://:8080
+2019/05/04 20:53:57.412 [I] [asm_amd64.s:1333]  http server Running on http://:8080
+2019/05/04 20:54:19.991 [D] [server.go:2741]  |            ::1|[47m 304 [0m|      997.5µs|   match|[44m GET     [0m /  
+2019/05/04 20:54:20.279 [D] [asm_amd64.s:522]  2222222222222222222222222222222222
+2019/05/04 20:54:20.508 [D] [asm_amd64.s:522]  get all job success! jobList: [{Name:xxxxx CronExpr:2222 Command:feafeaf}]
+2019/05/04 20:54:20.508 [D] [server.go:2741]  |            ::1|[42m 200 [0m|   229.3861ms|   match|[44m GET     [0m /job/list   r:/job/list
+2019/05/04 20:54:25.357 [I] [job.go:63]  22222222222222222222222222222
+2019/05/04 20:54:25.357 [E] [asm_amd64.s:522]  del job failed! err: job not exist
+2019/05/04 20:54:25.358 [D] [server.go:2741]  |            ::1|[42m 200 [0m|   251.3231ms|   match|[46m POST    [0m /job/delete   r:/job/delete
+2019/05/04 20:54:35.669 [D] [server.go:2741]  |            ::1|[47m 304 [0m|           0s|   match|[44m GET     [0m /  
+2019/05/04 20:54:35.921 [D] [asm_amd64.s:522]  2222222222222222222222222222222222
+2019/05/04 20:54:36.145 [D] [asm_amd64.s:522]  get all job success! jobList: [{Name:xxxxx CronExpr:2222 Command:feafeaf}]
+2019/05/04 20:54:36.145 [D] [server.go:2741]  |            ::1|[42m 200 [0m|   223.4191ms|   match|[44m GET     [0m /job/list   r:/job/list
+2019/05/04 20:56:09.496 [D] [server.go:2741]  |            ::1|[42m 200 [0m|     1.0133ms|   match|[44m GET     [0m /  
+2019/05/04 20:56:09.731 [D] [asm_amd64.s:522]  2222222222222222222222222222222222
+2019/05/04 20:56:09.954 [D] [asm_amd64.s:522]  get all job success! jobList: [{Name:xxxxx CronExpr:2222 Command:feafeaf}]
+2019/05/04 20:56:09.954 [D] [server.go:2741]  |            ::1|[42m 200 [0m|   223.4037ms|   match|[44m GET     [0m /job/list   r:/job/list
+2019/05/04 20:56:14.896 [I] [job.go:63]  22222222222222222222222222222
+2019/05/04 20:56:14.896 [D] [job.go:63]  oldJob: {"Name":"xxxxx","CronExpr":"2222","Command":"feafeaf"}
+2019/05/04 20:56:14.896 [D] [job.go:63]  oldJob2: &{Name:xxxxx CronExpr:2222 Command:feafeaf}
+2019/05/04 20:56:14.896 [D] [asm_amd64.s:522]  del job success! oldJob: &{Name:xxxxx CronExpr:2222 Command:feafeaf}
+2019/05/04 20:56:14.896 [D] [server.go:2741]  |            ::1|[42m 200 [0m|   244.3471ms|   match|[46m POST    [0m /job/delete   r:/job/delete
+2019/05/04 20:56:21.279 [D] [server.go:2741]  |            ::1|[47m 304 [0m|           0s|   match|[44m GET     [0m /  
+2019/05/04 20:56:21.515 [D] [asm_amd64.s:522]  2222222222222222222222222222222222
+2019/05/04 20:56:21.738 [D] [asm_amd64.s:522]  get all job success! jobList: []
+2019/05/04 20:56:21.738 [D] [server.go:2741]  |            ::1|[42m 200 [0m|   222.4045ms|   match|[44m GET     [0m /job/list   r:/job/list
+2019/05/04 20:58:54.900 [D] [server.go:2741]  |            ::1|[43m 404 [0m|           0s| nomatch|[46m POST    [0m /jobs/save
+2019/05/04 20:59:29.304 [D] [asm_amd64.s:522]  save job success. oldJob: <nil>
+2019/05/04 20:59:29.304 [D] [server.go:2741]  |            ::1|[42m 200 [0m|   253.3165ms|   match|[46m POST    [0m /job/save   r:/job/save
+2019/05/04 20:59:48.861 [D] [server.go:2741]  |            ::1|[42m 200 [0m|      997.2µs|   match|[44m GET     [0m /  
+2019/05/04 21:00:21.783 [D] [asm_amd64.s:522]  2222222222222222222222222222222222
+2019/05/04 21:00:22.015 [D] [asm_amd64.s:522]  get all job success! jobList: [{Name:33333 CronExpr:2222 Command:feafeaf}]
+2019/05/04 21:00:22.015 [D] [server.go:2741]  |            ::1|[42m 200 [0m|   232.4869ms|   match|[44m GET     [0m /job/list   r:/job/list
+2019/05/04 21:00:35.009 [D] [asm_amd64.s:522]  2222222222222222222222222222222222
+2019/05/04 21:00:35.250 [D] [asm_amd64.s:522]  get all job success! jobList: [{Name:33333 CronExpr:2222 Command:feafeaf}]
+2019/05/04 21:00:35.250 [D] [server.go:2741]  |            ::1|[42m 200 [0m|   241.3995ms|   match|[44m GET     [0m /job/list   r:/job/list
+2019/05/04 21:00:39.257 [I] [job.go:63]  22222222222222222222222222222
+2019/05/04 21:00:39.257 [D] [job.go:63]  oldJob: {"Name":"33333","CronExpr":"2222","Command":"feafeaf"}
+2019/05/04 21:00:39.257 [D] [job.go:63]  oldJob2: &{Name:33333 CronExpr:2222 Command:feafeaf}
+2019/05/04 21:00:39.257 [D] [asm_amd64.s:522]  del job success! oldJob: &{Name:33333 CronExpr:2222 Command:feafeaf}
+2019/05/04 21:00:39.257 [D] [server.go:2741]  |            ::1|[42m 200 [0m|   248.3948ms|   match|[46m POST    [0m /job/delete   r:/job/delete
+2019/05/04 21:00:41.471 [D] [asm_amd64.s:522]  2222222222222222222222222222222222
+2019/05/04 21:00:41.702 [D] [asm_amd64.s:522]  get all job success! jobList: []
+2019/05/04 21:00:41.702 [D] [server.go:2741]  |            ::1|[42m 200 [0m|   231.3804ms|   match|[44m GET     [0m /job/list   r:/job/list
+2019/05/04 21:00:45.247 [D] [asm_amd64.s:522]  save job success. oldJob: <nil>
+2019/05/04 21:00:45.247 [D] [server.go:2741]  |            ::1|[42m 200 [0m|   240.3562ms|   match|[46m POST    [0m /job/save   r:/job/save
+2019/05/04 21:00:47.366 [D] [asm_amd64.s:522]  2222222222222222222222222222222222
+2019/05/04 21:00:47.608 [D] [asm_amd64.s:522]  get all job success! jobList: [{Name:33333 CronExpr:2222 Command:feafeaf}]
+2019/05/04 21:00:47.608 [D] [server.go:2741]  |            ::1|[42m 200 [0m|   241.3636ms|   match|[44m GET     [0m /job/list   r:/job/list
+2019/05/04 21:00:50.829 [D] [server.go:2741]  |            ::1|[42m 200 [0m|      994.3µs|   match|[44m GET     [0m /  
+2019/05/04 21:00:51.068 [D] [asm_amd64.s:522]  2222222222222222222222222222222222
+2019/05/04 21:00:51.308 [D] [asm_amd64.s:522]  get all job success! jobList: [{Name:33333 CronExpr:2222 Command:feafeaf}]
+2019/05/04 21:00:51.308 [D] [server.go:2741]  |            ::1|[42m 200 [0m|   240.3447ms|   match|[44m GET     [0m /job/list   r:/job/list
+2019/05/04 21:01:35.357 [D] [server.go:2741]  |            ::1|[47m 304 [0m|      995.6µs|   match|[44m GET     [0m /  
+2019/05/04 21:01:35.596 [D] [asm_amd64.s:522]  2222222222222222222222222222222222
+2019/05/04 21:01:35.819 [D] [asm_amd64.s:522]  get all job success! jobList: [{Name:33333 CronExpr:2222 Command:feafeaf}]
+2019/05/04 21:01:35.819 [D] [server.go:2741]  |            ::1|[42m 200 [0m|   223.4013ms|   match|[44m GET     [0m /job/list   r:/job/list
+2019/05/04 21:01:57.298 [D] [server.go:2741]  |            ::1|[47m 304 [0m|     1.0015ms|   match|[44m GET     [0m /  
+2019/05/04 21:01:57.523 [D] [asm_amd64.s:522]  2222222222222222222222222222222222
+2019/05/04 21:01:57.789 [D] [asm_amd64.s:522]  get all job success! jobList: [{Name:33333 CronExpr:2222 Command:feafeaf}]
+2019/05/04 21:01:57.789 [D] [server.go:2741]  |            ::1|[42m 200 [0m|   266.2907ms|   match|[44m GET     [0m /job/list   r:/job/list
+2019/05/04 21:03:21.391 [E] [asm_amd64.s:522]  kill job succeed! name: 33333
+2019/05/04 21:03:21.391 [D] [server.go:2741]  |            ::1|[42m 200 [0m|   1.6327573s|   match|[46m POST    [0m /job/kill   r:/job/kill
+2019/05/04 21:04:11.808 [D] [server.go:2741]  |            ::1|[43m 404 [0m|     1.9951ms| nomatch|[46m POST    [0m /jobs/kill
+2019/05/04 21:04:20.770 [D] [asm_amd64.s:522]  2222222222222222222222222222222222
+2019/05/04 21:04:21.006 [D] [asm_amd64.s:522]  get all job success! jobList: [{Name:33333 CronExpr:2222 Command:feafeaf}]
+2019/05/04 21:04:21.006 [D] [server.go:2741]  |            ::1|[42m 200 [0m|   235.4357ms|   match|[44m GET     [0m /job/list   r:/job/list
+2019/05/04 21:04:36.226 [D] [server.go:2741]  |            ::1|[43m 404 [0m|           0s| nomatch|[46m POST    [0m /jobs/kill
+2019/05/04 21:04:45.989 [D] [asm_amd64.s:522]  2222222222222222222222222222222222
+2019/05/04 21:04:46.221 [D] [asm_amd64.s:522]  get all job success! jobList: [{Name:33333 CronExpr:2222 Command:feafeaf}]
+2019/05/04 21:04:46.221 [D] [server.go:2741]  |            ::1|[42m 200 [0m|   233.3806ms|   match|[44m GET     [0m /job/list   r:/job/list
+2019/05/04 21:04:57.317 [D] [job.go:39]  old value: &{33333 2222 feafeaf}
+2019/05/04 21:04:57.317 [D] [asm_amd64.s:522]  save job success. oldJob: &{Name:33333 CronExpr:2222 Command:feafeaf}
+2019/05/04 21:04:57.317 [D] [server.go:2741]  |            ::1|[42m 200 [0m|   257.3095ms|   match|[46m POST    [0m /job/save   r:/job/save
+2019/05/04 21:04:59.486 [D] [server.go:2741]  |            ::1|[43m 404 [0m|           0s| nomatch|[46m POST    [0m /jobs/kill
+2019/05/04 21:05:13.117 [E] [asm_amd64.s:522]  kill job succeed! name: 33333
+2019/05/04 21:05:13.117 [D] [server.go:2741]  |            ::1|[42m 200 [0m|   953.5617ms|   match|[46m POST    [0m /job/kill   r:/job/kill
+2019/05/04 21:05:21.360 [D] [server.go:2741]  |            ::1|[47m 304 [0m|           0s|   match|[44m GET     [0m /  
+2019/05/04 21:05:21.624 [D] [asm_amd64.s:522]  2222222222222222222222222222222222
+2019/05/04 21:05:21.850 [D] [asm_amd64.s:522]  get all job success! jobList: [{Name:33333 CronExpr:2222 Command:feafeaf}]
+2019/05/04 21:05:21.850 [D] [server.go:2741]  |            ::1|[42m 200 [0m|   225.3909ms|   match|[44m GET     [0m /job/list   r:/job/list
+2019/05/04 21:06:43.227 [D] [server.go:2741]  |            ::1|[42m 200 [0m|      996.7µs|   match|[44m GET     [0m /  
+2019/05/04 21:06:43.488 [D] [asm_amd64.s:522]  2222222222222222222222222222222222
+2019/05/04 21:06:43.731 [D] [asm_amd64.s:522]  get all job success! jobList: [{Name:33333 CronExpr:2222 Command:feafeaf}]
+2019/05/04 21:06:43.731 [D] [server.go:2741]  |            ::1|[42m 200 [0m|   243.3551ms|   match|[44m GET     [0m /job/list   r:/job/list
+2019/05/04 21:06:46.235 [E] [asm_amd64.s:522]  kill job succeed! name: 33333
+2019/05/04 21:06:46.236 [D] [server.go:2741]  |            ::1|[42m 200 [0m|   971.6093ms|   match|[46m POST    [0m /job/kill   r:/job/kill
+2019/05/04 21:06:49.114 [D] [server.go:2741]  |            ::1|[47m 304 [0m|           0s|   match|[44m GET     [0m /  
+2019/05/04 21:06:49.343 [D] [asm_amd64.s:522]  2222222222222222222222222222222222
+2019/05/04 21:06:49.586 [D] [asm_amd64.s:522]  get all job success! jobList: [{Name:33333 CronExpr:2222 Command:feafeaf}]
+2019/05/04 21:06:49.586 [D] [server.go:2741]  |            ::1|[42m 200 [0m|   243.3823ms|   match|[44m GET     [0m /job/list   r:/job/list
+2019/05/04 21:06:52.512 [D] [server.go:2741]  |            ::1|[47m 304 [0m|           0s|   match|[44m GET     [0m /  
+2019/05/04 21:06:52.744 [D] [asm_amd64.s:522]  2222222222222222222222222222222222
+2019/05/04 21:06:52.983 [D] [asm_amd64.s:522]  get all job success! jobList: [{Name:33333 CronExpr:2222 Command:feafeaf}]
+2019/05/04 21:06:52.983 [D] [server.go:2741]  |            ::1|[42m 200 [0m|   239.3886ms|   match|[44m GET     [0m /job/list   r:/job/list
+2019/05/04 21:06:54.171 [I] [job.go:63]  22222222222222222222222222222
+2019/05/04 21:06:54.172 [D] [job.go:63]  oldJob: {"Name":"33333","CronExpr":"2222","Command":"feafeaf"}
+2019/05/04 21:06:54.172 [D] [job.go:63]  oldJob2: &{Name:33333 CronExpr:2222 Command:feafeaf}
+2019/05/04 21:06:54.172 [D] [asm_amd64.s:522]  del job success! oldJob: &{Name:33333 CronExpr:2222 Command:feafeaf}
+2019/05/04 21:06:54.172 [D] [server.go:2741]  |            ::1|[42m 200 [0m|   239.3599ms|   match|[46m POST    [0m /job/delete   r:/job/delete
+2019/05/04 21:06:55.372 [D] [server.go:2741]  |            ::1|[47m 304 [0m|           0s|   match|[44m GET     [0m /  
+2019/05/04 21:06:55.614 [D] [asm_amd64.s:522]  2222222222222222222222222222222222
+2019/05/04 21:06:55.857 [D] [asm_amd64.s:522]  get all job success! jobList: []
+2019/05/04 21:06:55.857 [D] [server.go:2741]  |            ::1|[42m 200 [0m|   242.3717ms|   match|[44m GET     [0m /job/list   r:/job/list
+2019/05/04 21:14:16.447 [D] [asm_amd64.s:522]  save job success. oldJob: <nil>
+2019/05/04 21:14:16.447 [D] [server.go:2741]  |            ::1|[42m 200 [0m|   237.3952ms|   match|[46m POST    [0m /job/save   r:/job/save
+2019/05/04 21:14:18.114 [D] [server.go:2741]  |            ::1|[42m 200 [0m|      996.7µs|   match|[44m GET     [0m /  
+2019/05/04 21:14:18.383 [D] [asm_amd64.s:522]  2222222222222222222222222222222222
+2019/05/04 21:14:18.609 [D] [asm_amd64.s:522]  get all job success! jobList: [{Name:33333 CronExpr:2222 Command:feafeaf}]
+2019/05/04 21:14:18.609 [D] [server.go:2741]  |            ::1|[42m 200 [0m|   226.4188ms|   match|[44m GET     [0m /job/list   r:/job/list
+2019/05/04 21:25:41.048 [D] [server.go:2741]  |            ::1|[42m 200 [0m|      997.2µs|   match|[44m GET     [0m /  
+2019/05/04 21:25:41.282 [D] [asm_amd64.s:522]  2222222222222222222222222222222222
+2019/05/04 21:25:41.548 [D] [asm_amd64.s:522]  get all job success! jobList: [{Name:33333 CronExpr:2222 Command:feafeaf}]
+2019/05/04 21:25:41.548 [D] [server.go:2741]  |            ::1|[42m 200 [0m|   266.2891ms|   match|[44m GET     [0m /job/list   r:/job/list
+2019/05/04 21:26:09.784 [D] [server.go:2741]  |            ::1|[47m 304 [0m|      1.039ms|   match|[44m GET     [0m /  
+2019/05/04 21:26:10.012 [D] [asm_amd64.s:522]  2222222222222222222222222222222222
+2019/05/04 21:26:10.297 [D] [asm_amd64.s:522]  get all job success! jobList: [{Name:33333 CronExpr:2222 Command:feafeaf}]
+2019/05/04 21:26:10.297 [D] [server.go:2741]  |            ::1|[42m 200 [0m|   284.2384ms|   match|[44m GET     [0m /job/list   r:/job/list
+2019/05/04 21:27:24.514 [D] [server.go:2741]  |            ::1|[42m 200 [0m|      984.8µs|   match|[44m GET     [0m /  
+2019/05/04 21:27:24.785 [D] [asm_amd64.s:522]  2222222222222222222222222222222222
+2019/05/04 21:27:25.061 [D] [asm_amd64.s:522]  get all job success! jobList: [{Name:33333 CronExpr:2222 Command:feafeaf}]
+2019/05/04 21:27:25.062 [D] [server.go:2741]  |            ::1|[42m 200 [0m|   275.2654ms|   match|[44m GET     [0m /job/list   r:/job/list
+2019/05/04 21:32:30.926 [D] [server.go:2741]  |            ::1|[42m 200 [0m|      997.1µs|   match|[44m GET     [0m /  
+2019/05/04 21:32:31.198 [D] [asm_amd64.s:522]  2222222222222222222222222222222222
+2019/05/04 21:32:31.463 [D] [asm_amd64.s:522]  get all job success! jobList: [{Name:33333 CronExpr:2222 Command:feafeaf}]
+2019/05/04 21:32:31.463 [D] [server.go:2741]  |            ::1|[42m 200 [0m|   265.2896ms|   match|[44m GET     [0m /job/list   r:/job/list
+2019/05/04 21:33:08.544 [D] [server.go:2741]  |            ::1|[42m 200 [0m|           0s|   match|[44m GET     [0m /  
+2019/05/04 21:33:08.802 [D] [asm_amd64.s:522]  2222222222222222222222222222222222
+2019/05/04 21:33:09.071 [D] [asm_amd64.s:522]  get all job success! jobList: [{Name:33333 CronExpr:2222 Command:feafeaf}]
+2019/05/04 21:33:09.071 [D] [server.go:2741]  |            ::1|[42m 200 [0m|   269.3106ms|   match|[44m GET     [0m /job/list   r:/job/list
+2019/05/04 21:33:44.664 [D] [server.go:2741]  |            ::1|[42m 200 [0m|      997.9µs|   match|[44m GET     [0m /  
+2019/05/04 21:33:44.923 [D] [asm_amd64.s:522]  2222222222222222222222222222222222
+2019/05/04 21:33:45.191 [D] [asm_amd64.s:522]  get all job success! jobList: [{Name:33333 CronExpr:2222 Command:feafeaf}]
+2019/05/04 21:33:45.191 [D] [server.go:2741]  |            ::1|[42m 200 [0m|   268.2842ms|   match|[44m GET     [0m /job/list   r:/job/list
+2019/05/04 21:33:47.961 [I] [job.go:63]  22222222222222222222222222222
+2019/05/04 21:33:47.961 [D] [job.go:63]  oldJob: {"Name":"33333","CronExpr":"2222","Command":"feafeaf"}
+2019/05/04 21:33:47.961 [D] [job.go:63]  oldJob2: &{Name:33333 CronExpr:2222 Command:feafeaf}
+2019/05/04 21:33:47.961 [D] [asm_amd64.s:522]  del job success! oldJob: &{Name:33333 CronExpr:2222 Command:feafeaf}
+2019/05/04 21:33:47.961 [D] [server.go:2741]  |            ::1|[42m 200 [0m|    261.424ms|   match|[46m POST    [0m /job/delete   r:/job/delete
+2019/05/04 21:33:47.970 [D] [server.go:2741]  |            ::1|[47m 304 [0m|           0s|   match|[44m GET     [0m /  
+2019/05/04 21:33:48.193 [D] [asm_amd64.s:522]  2222222222222222222222222222222222
+2019/05/04 21:33:48.460 [D] [asm_amd64.s:522]  get all job success! jobList: []
+2019/05/04 21:33:48.460 [D] [server.go:2741]  |            ::1|[42m 200 [0m|   267.2994ms|   match|[44m GET     [0m /job/list   r:/job/list
+2019/05/04 21:33:52.362 [D] [asm_amd64.s:522]  save job success. oldJob: <nil>
+2019/05/04 21:33:52.362 [D] [server.go:2741]  |            ::1|[42m 200 [0m|    262.299ms|   match|[46m POST    [0m /job/save   r:/job/save
+2019/05/04 21:33:54.521 [D] [server.go:2741]  |            ::1|[47m 304 [0m|           0s|   match|[44m GET     [0m /  
+2019/05/04 21:33:54.752 [D] [asm_amd64.s:522]  2222222222222222222222222222222222
+2019/05/04 21:33:55.006 [D] [asm_amd64.s:522]  get all job success! jobList: [{Name:33333 CronExpr:2222 Command:feafeaf}]
+2019/05/04 21:33:55.006 [D] [server.go:2741]  |            ::1|[42m 200 [0m|   254.3765ms|   match|[44m GET     [0m /job/list   r:/job/list
+2019/05/04 21:44:34.840 [D] [server.go:2741]  |            ::1|[42m 200 [0m|      996.8µs|   match|[44m GET     [0m /  
+2019/05/04 21:44:35.089 [D] [asm_amd64.s:522]  2222222222222222222222222222222222
+2019/05/04 21:44:35.353 [D] [asm_amd64.s:522]  get all job success! jobList: [{Name:33333 CronExpr:2222 Command:feafeaf}]
+2019/05/04 21:44:35.353 [D] [server.go:2741]  |            ::1|[42m 200 [0m|   265.2896ms|   match|[44m GET     [0m /job/list   r:/job/list
+2019/05/04 21:44:45.190 [E] [asm_amd64.s:522]  kill job succeed! name: 
+2019/05/04 21:44:45.190 [D] [server.go:2741]  |            ::1|[42m 200 [0m|   1.0942305s|   match|[46m POST    [0m /job/kill   r:/job/kill
+2019/05/04 21:44:48.816 [E] [asm_amd64.s:522]  kill job succeed! name: 
+2019/05/04 21:44:48.816 [D] [server.go:2741]  |            ::1|[42m 200 [0m|   1.0755021s|   match|[46m POST    [0m /job/kill   r:/job/kill
+2019/05/04 21:45:05.343 [D] [server.go:2741]  |            ::1|[42m 200 [0m|      997.1µs|   match|[44m GET     [0m /  
+2019/05/04 21:45:05.604 [D] [asm_amd64.s:522]  2222222222222222222222222222222222
+2019/05/04 21:45:05.878 [D] [asm_amd64.s:522]  get all job success! jobList: [{Name:33333 CronExpr:2222 Command:feafeaf}]
+2019/05/04 21:45:05.878 [D] [server.go:2741]  |            ::1|[42m 200 [0m|   274.2623ms|   match|[44m GET     [0m /job/list   r:/job/list
+2019/05/04 21:45:10.244 [D] [asm_amd64.s:522]  save job success. oldJob: <nil>
+2019/05/04 21:45:10.244 [D] [server.go:2741]  |            ::1|[42m 200 [0m|   245.5441ms|   match|[46m POST    [0m /job/save   r:/job/save
+2019/05/04 21:45:17.763 [D] [job.go:39]  old value: &{  }
+2019/05/04 21:45:17.763 [D] [asm_amd64.s:522]  save job success. oldJob: &{Name: CronExpr: Command:}
+2019/05/04 21:45:17.763 [D] [server.go:2741]  |            ::1|[42m 200 [0m|   261.5793ms|   match|[46m POST    [0m /job/save   r:/job/save
+2019/05/04 21:45:25.906 [D] [job.go:39]  old value: &{  }
+2019/05/04 21:45:25.906 [D] [asm_amd64.s:522]  save job success. oldJob: &{Name: CronExpr: Command:}
+2019/05/04 21:45:25.906 [D] [server.go:2741]  |            ::1|[42m 200 [0m|   269.4683ms|   match|[46m POST    [0m /job/save   r:/job/save
+2019/05/04 21:45:31.922 [D] [job.go:39]  old value: &{33333 2222 feafeaf}
+2019/05/04 21:45:31.922 [D] [asm_amd64.s:522]  save job success. oldJob: &{Name:33333 CronExpr:2222 Command:feafeaf}
+2019/05/04 21:45:31.922 [D] [server.go:2741]  |            ::1|[42m 200 [0m|   271.2745ms|   match|[46m POST    [0m /job/save   r:/job/save
+2019/05/04 21:45:59.063 [D] [server.go:2741]  |            ::1|[47m 304 [0m|           0s|   match|[44m GET     [0m /  
+2019/05/04 21:45:59.293 [D] [asm_amd64.s:522]  2222222222222222222222222222222222
+2019/05/04 21:45:59.567 [D] [asm_amd64.s:522]  get all job success! jobList: [{Name: CronExpr: Command:} {Name:33333 CronExpr:2222 Command:feafeaf}]
+2019/05/04 21:45:59.567 [D] [server.go:2741]  |            ::1|[42m 200 [0m|   274.2544ms|   match|[44m GET     [0m /job/list   r:/job/list
+2019/05/04 21:46:14.658 [D] [server.go:2741]  |            ::1|[42m 200 [0m|      997.2µs|   match|[44m GET     [0m /  
+2019/05/04 21:46:14.878 [D] [asm_amd64.s:522]  2222222222222222222222222222222222
+2019/05/04 21:46:15.139 [D] [asm_amd64.s:522]  get all job success! jobList: [{Name: CronExpr: Command:} {Name:33333 CronExpr:2222 Command:feafeaf}]
+2019/05/04 21:46:15.140 [D] [server.go:2741]  |            ::1|[42m 200 [0m|   262.3232ms|   match|[44m GET     [0m /job/list   r:/job/list
+2019/05/04 21:46:34.920 [D] [server.go:2741]  |            ::1|[42m 200 [0m|      999.5µs|   match|[44m GET     [0m /  
+2019/05/04 21:46:35.155 [D] [asm_amd64.s:522]  2222222222222222222222222222222222
+2019/05/04 21:46:35.418 [D] [asm_amd64.s:522]  get all job success! jobList: [{Name: CronExpr: Command:} {Name:33333 CronExpr:2222 Command:feafeaf}]
+2019/05/04 21:46:35.418 [D] [server.go:2741]  |            ::1|[42m 200 [0m|   262.4464ms|   match|[44m GET     [0m /job/list   r:/job/list
+2019/05/04 21:46:44.362 [D] [server.go:2741]  |192.168.199.120|[42m 200 [0m|           0s|   match|[44m GET     [0m /  
+2019/05/04 21:46:48.901 [D] [server.go:2741]  |192.168.199.120|[43m 404 [0m|      977.8µs| nomatch|[44m GET     [0m /HNAP1/
+2019/05/04 21:47:19.687 [D] [server.go:2741]  |            ::1|[47m 304 [0m|           0s|   match|[44m GET     [0m /  
+2019/05/04 21:47:19.937 [D] [asm_amd64.s:522]  2222222222222222222222222222222222
+2019/05/04 21:47:20.210 [D] [asm_amd64.s:522]  get all job success! jobList: [{Name: CronExpr: Command:} {Name:33333 CronExpr:2222 Command:feafeaf}]
+2019/05/04 21:47:20.210 [D] [server.go:2741]  |            ::1|[42m 200 [0m|   273.2565ms|   match|[44m GET     [0m /job/list   r:/job/list
+2019/05/04 21:47:26.735 [D] [job.go:39]  old value: &{  }
+2019/05/04 21:47:26.735 [D] [asm_amd64.s:522]  save job success. oldJob: &{Name: CronExpr: Command:}
+2019/05/04 21:47:26.735 [D] [server.go:2741]  |            ::1|[42m 200 [0m|   271.4202ms|   match|[46m POST    [0m /job/save   r:/job/save
+2019/05/04 21:47:32.134 [D] [job.go:39]  old value: &{  }
+2019/05/04 21:47:32.134 [D] [asm_amd64.s:522]  save job success. oldJob: &{Name: CronExpr: Command:}
+2019/05/04 21:47:32.134 [D] [server.go:2741]  |            ::1|[42m 200 [0m|   284.2562ms|   match|[46m POST    [0m /job/save   r:/job/save
+2019/05/04 21:48:12.743 [D] [job.go:39]  old value: &{  }
+2019/05/04 21:48:12.743 [D] [asm_amd64.s:522]  save job success. oldJob: &{Name: CronExpr: Command:}
+2019/05/04 21:48:12.743 [D] [server.go:2741]  |            ::1|[42m 200 [0m|   1.8502729s|   match|[46m POST    [0m /job/save   r:/job/save
+2019/05/04 21:49:23.747 [D] [job.go:39]  old value: &{  }
+2019/05/04 21:49:23.747 [D] [asm_amd64.s:522]  save job success. oldJob: &{Name: CronExpr: Command:}
+2019/05/04 21:49:23.747 [D] [server.go:2741]  |            ::1|[42m 200 [0m|   354.0596ms|   match|[46m POST    [0m /job/save   r:/job/save
+2019/05/04 21:49:32.638 [D] [server.go:2741]  |            ::1|[42m 200 [0m|      999.5µs|   match|[44m GET     [0m /  
+2019/05/04 21:49:32.881 [D] [asm_amd64.s:522]  2222222222222222222222222222222222
+2019/05/04 21:49:33.225 [D] [asm_amd64.s:522]  get all job success! jobList: [{Name: CronExpr: Command:} {Name:33333 CronExpr:2222 Command:feafeaf}]
+2019/05/04 21:49:33.225 [D] [server.go:2741]  |            ::1|[42m 200 [0m|   344.0804ms|   match|[44m GET     [0m /job/list   r:/job/list
+2019/05/04 21:49:42.865 [D] [job.go:39]  old value: &{  }
+2019/05/04 21:49:42.865 [D] [asm_amd64.s:522]  save job success. oldJob: &{Name: CronExpr: Command:}
+2019/05/04 21:49:42.865 [D] [server.go:2741]  |            ::1|[42m 200 [0m|   1.3414773s|   match|[46m POST    [0m /job/save   r:/job/save
+2019/05/04 21:51:09.323 [D] [job.go:39]  old value: &{33333 2222 feafeaf}
+2019/05/04 21:51:09.323 [D] [asm_amd64.s:522]  save job success. oldJob: &{Name:33333 CronExpr:2222 Command:feafeaf}
+2019/05/04 21:51:09.323 [D] [server.go:2741]  |            ::1|[42m 200 [0m|   266.2919ms|   match|[46m POST    [0m /job/save   r:/job/save
+2019/05/04 21:51:13.683 [D] [server.go:2741]  |            ::1|[47m 304 [0m|      998.4µs|   match|[44m GET     [0m /  
+2019/05/04 21:51:13.926 [D] [asm_amd64.s:522]  2222222222222222222222222222222222
+2019/05/04 21:51:14.198 [D] [asm_amd64.s:522]  get all job success! jobList: [{Name: CronExpr: Command:} {Name:33333 CronExpr: Command:feafeaf}]
+2019/05/04 21:51:14.199 [D] [server.go:2741]  |            ::1|[42m 200 [0m|   273.2695ms|   match|[44m GET     [0m /job/list   r:/job/list
+2019/05/04 21:51:19.904 [D] [job.go:39]  old value: &{  }
+2019/05/04 21:51:19.904 [D] [asm_amd64.s:522]  save job success. oldJob: &{Name: CronExpr: Command:}
+2019/05/04 21:51:19.905 [D] [server.go:2741]  |            ::1|[42m 200 [0m|   244.3482ms|   match|[46m POST    [0m /job/save   r:/job/save
+2019/05/04 21:53:57.484 [D] [server.go:2741]  |            ::1|[47m 304 [0m|           0s|   match|[44m GET     [0m /  
+2019/05/04 21:53:57.742 [D] [asm_amd64.s:522]  2222222222222222222222222222222222
+2019/05/04 21:53:58.013 [D] [asm_amd64.s:522]  get all job success! jobList: [{Name: CronExpr: Command:} {Name:33333 CronExpr: Command:feafeaf}]
+2019/05/04 21:53:58.013 [D] [server.go:2741]  |            ::1|[42m 200 [0m|     272.27ms|   match|[44m GET     [0m /job/list   r:/job/list
+2019/05/04 21:54:07.003 [D] [job.go:39]  old value: &{  }
+2019/05/04 21:54:07.003 [D] [asm_amd64.s:522]  save job success. oldJob: &{Name: CronExpr: Command:}
+2019/05/04 21:54:07.003 [D] [server.go:2741]  |            ::1|[42m 200 [0m|   269.2782ms|   match|[46m POST    [0m /job/save   r:/job/save
+2019/05/04 21:54:15.193 [D] [server.go:2741]  |            ::1|[47m 304 [0m|           0s|   match|[44m GET     [0m /  
+2019/05/04 21:54:15.450 [D] [asm_amd64.s:522]  2222222222222222222222222222222222
+2019/05/04 21:54:15.722 [D] [asm_amd64.s:522]  get all job success! jobList: [{Name: CronExpr: Command:} {Name:33333 CronExpr: Command:feafeaf}]
+2019/05/04 21:54:15.722 [D] [server.go:2741]  |            ::1|[42m 200 [0m|   272.2819ms|   match|[44m GET     [0m /job/list   r:/job/list
+2019/05/04 21:54:32.637 [D] [server.go:2741]  |            ::1|[42m 200 [0m|      997.1µs|   match|[44m GET     [0m /  
+2019/05/04 21:54:32.893 [D] [asm_amd64.s:522]  2222222222222222222222222222222222
+2019/05/04 21:54:33.146 [D] [asm_amd64.s:522]  get all job success! jobList: [{Name: CronExpr: Command:} {Name:33333 CronExpr: Command:feafeaf}]
+2019/05/04 21:54:33.146 [D] [server.go:2741]  |            ::1|[42m 200 [0m|   253.3221ms|   match|[44m GET     [0m /job/list   r:/job/list
+2019/05/04 21:55:09.961 [D] [server.go:2741]  |            ::1|[47m 304 [0m|           0s|   match|[44m GET     [0m /  
+2019/05/04 21:55:10.198 [D] [asm_amd64.s:522]  2222222222222222222222222222222222
+2019/05/04 21:55:10.493 [D] [asm_amd64.s:522]  get all job success! jobList: [{Name: CronExpr: Command:} {Name:33333 CronExpr: Command:feafeaf}]
+2019/05/04 21:55:10.494 [D] [server.go:2741]  |            ::1|[42m 200 [0m|   296.2285ms|   match|[44m GET     [0m /job/list   r:/job/list
+2019/05/04 21:55:14.796 [D] [job.go:39]  old value: &{  }
+2019/05/04 21:55:14.797 [D] [asm_amd64.s:522]  save job success. oldJob: &{Name: CronExpr: Command:}
+2019/05/04 21:55:14.797 [D] [server.go:2741]  |            ::1|[42m 200 [0m|   248.4316ms|   match|[46m POST    [0m /job/save   r:/job/save
+2019/05/04 21:55:59.857 [D] [server.go:2741]  |            ::1|[42m 200 [0m|      996.7µs|   match|[44m GET     [0m /  
+2019/05/04 21:56:00.120 [D] [asm_amd64.s:522]  2222222222222222222222222222222222
+2019/05/04 21:56:00.384 [D] [asm_amd64.s:522]  get all job success! jobList: [{Name: CronExpr: Command:} {Name:33333 CronExpr: Command:feafeaf}]
+2019/05/04 21:56:00.384 [D] [server.go:2741]  |            ::1|[42m 200 [0m|   264.3218ms|   match|[44m GET     [0m /job/list   r:/job/list
+2019/05/04 21:56:17.268 [I] [job.go:63]  22222222222222222222222222222
+2019/05/04 21:56:17.268 [D] [job.go:63]  oldJob: {"Name":"33333","CronExpr":"","Command":"feafeaf"}
+2019/05/04 21:56:17.268 [D] [job.go:63]  oldJob2: &{Name:33333 CronExpr: Command:feafeaf}
+2019/05/04 21:56:17.268 [D] [asm_amd64.s:522]  del job success! oldJob: &{Name:33333 CronExpr: Command:feafeaf}
+2019/05/04 21:56:17.268 [D] [server.go:2741]  |            ::1|[42m 200 [0m|   262.2986ms|   match|[46m POST    [0m /job/delete   r:/job/delete
+2019/05/04 21:56:17.277 [D] [server.go:2741]  |            ::1|[47m 304 [0m|           0s|   match|[44m GET     [0m /  
+2019/05/04 21:56:17.517 [D] [asm_amd64.s:522]  2222222222222222222222222222222222
+2019/05/04 21:56:17.795 [D] [asm_amd64.s:522]  get all job success! jobList: [{Name: CronExpr: Command:}]
+2019/05/04 21:56:17.795 [D] [server.go:2741]  |            ::1|[42m 200 [0m|   279.2523ms|   match|[44m GET     [0m /job/list   r:/job/list
+2019/05/04 21:56:18.927 [I] [job.go:63]  22222222222222222222222222222
+2019/05/04 21:56:18.927 [D] [job.go:63]  oldJob: {"Name":"","CronExpr":"","Command":""}
+2019/05/04 21:56:18.927 [D] [job.go:63]  oldJob2: &{Name: CronExpr: Command:}
+2019/05/04 21:56:18.927 [D] [asm_amd64.s:522]  del job success! oldJob: &{Name: CronExpr: Command:}
+2019/05/04 21:56:18.927 [D] [server.go:2741]  |            ::1|[42m 200 [0m|   253.3616ms|   match|[46m POST    [0m /job/delete   r:/job/delete
+2019/05/04 21:56:18.936 [D] [server.go:2741]  |            ::1|[47m 304 [0m|           0s|   match|[44m GET     [0m /  
+2019/05/04 21:56:19.161 [D] [asm_amd64.s:522]  2222222222222222222222222222222222
+2019/05/04 21:56:19.425 [D] [asm_amd64.s:522]  get all job success! jobList: []
+2019/05/04 21:56:19.425 [D] [server.go:2741]  |            ::1|[42m 200 [0m|   264.2926ms|   match|[44m GET     [0m /job/list   r:/job/list
+2019/05/04 21:56:20.184 [D] [server.go:2741]  |            ::1|[47m 304 [0m|      997.5µs|   match|[44m GET     [0m /  
+2019/05/04 21:56:20.430 [D] [asm_amd64.s:522]  2222222222222222222222222222222222
+2019/05/04 21:56:20.697 [D] [asm_amd64.s:522]  get all job success! jobList: []
+2019/05/04 21:56:20.698 [D] [server.go:2741]  |            ::1|[42m 200 [0m|    268.283ms|   match|[44m GET     [0m /job/list   r:/job/list
+2019/05/04 21:56:23.665 [D] [asm_amd64.s:522]  save job success. oldJob: <nil>
+2019/05/04 21:56:23.665 [D] [server.go:2741]  |            ::1|[42m 200 [0m|   272.2539ms|   match|[46m POST    [0m /job/save   r:/job/save
+2019/05/04 21:56:25.158 [D] [server.go:2741]  |            ::1|[47m 304 [0m|      979.4µs|   match|[44m GET     [0m /  
+2019/05/04 21:56:25.406 [D] [asm_amd64.s:522]  2222222222222222222222222222222222
+2019/05/04 21:56:25.674 [D] [asm_amd64.s:522]  get all job success! jobList: [{Name:33333 CronExpr: Command:feafeaf}]
+2019/05/04 21:56:25.674 [D] [server.go:2741]  |            ::1|[42m 200 [0m|   268.2664ms|   match|[44m GET     [0m /job/list   r:/job/list
+2019/05/04 21:56:37.847 [D] [asm_amd64.s:522]  save job success. oldJob: <nil>
+2019/05/04 21:56:37.847 [D] [server.go:2741]  |            ::1|[42m 200 [0m|   252.3218ms|   match|[46m POST    [0m /job/save   r:/job/save
+2019/05/04 21:56:42.831 [D] [job.go:39]  old value: &{  }
+2019/05/04 21:56:42.831 [D] [asm_amd64.s:522]  save job success. oldJob: &{Name: CronExpr: Command:}
+2019/05/04 21:56:42.831 [D] [server.go:2741]  |            ::1|[42m 200 [0m|   268.2822ms|   match|[46m POST    [0m /job/save   r:/job/save
+2019/05/04 21:56:47.889 [D] [server.go:2741]  |            ::1|[47m 304 [0m|      996.7µs|   match|[44m GET     [0m /  
+2019/05/04 21:56:48.151 [D] [asm_amd64.s:522]  2222222222222222222222222222222222
+2019/05/04 21:56:48.418 [D] [asm_amd64.s:522]  get all job success! jobList: [{Name: CronExpr: Command:} {Name:33333 CronExpr: Command:feafeaf}]
+2019/05/04 21:56:48.418 [D] [server.go:2741]  |            ::1|[42m 200 [0m|   266.2868ms|   match|[44m GET     [0m /job/list   r:/job/list
+2019/05/04 21:57:07.088 [I] [job.go:63]  22222222222222222222222222222
+2019/05/04 21:57:07.088 [D] [job.go:63]  oldJob: {"Name":"33333","CronExpr":"","Command":"feafeaf"}
+2019/05/04 21:57:07.088 [D] [job.go:63]  oldJob2: &{Name:33333 CronExpr: Command:feafeaf}
+2019/05/04 21:57:07.088 [D] [asm_amd64.s:522]  del job success! oldJob: &{Name:33333 CronExpr: Command:feafeaf}
+2019/05/04 21:57:07.088 [D] [server.go:2741]  |            ::1|[42m 200 [0m|   273.2747ms|   match|[46m POST    [0m /job/delete   r:/job/delete
+2019/05/04 21:57:07.096 [D] [server.go:2741]  |            ::1|[47m 304 [0m|           0s|   match|[44m GET     [0m /  
+2019/05/04 21:57:07.339 [D] [asm_amd64.s:522]  2222222222222222222222222222222222
+2019/05/04 21:57:07.590 [D] [asm_amd64.s:522]  get all job success! jobList: [{Name: CronExpr: Command:}]
+2019/05/04 21:57:07.590 [D] [server.go:2741]  |            ::1|[42m 200 [0m|   252.3174ms|   match|[44m GET     [0m /job/list   r:/job/list
+2019/05/04 21:57:08.640 [D] [server.go:2741]  |            ::1|[47m 304 [0m|           0s|   match|[44m GET     [0m /  
+2019/05/04 21:57:08.878 [D] [asm_amd64.s:522]  2222222222222222222222222222222222
+2019/05/04 21:57:09.143 [D] [asm_amd64.s:522]  get all job success! jobList: [{Name: CronExpr: Command:}]
+2019/05/04 21:57:09.143 [D] [server.go:2741]  |            ::1|[42m 200 [0m|   265.2889ms|   match|[44m GET     [0m /job/list   r:/job/list
+2019/05/04 21:57:10.204 [I] [job.go:63]  22222222222222222222222222222
+2019/05/04 21:57:10.204 [D] [job.go:63]  oldJob: {"Name":"","CronExpr":"","Command":""}
+2019/05/04 21:57:10.204 [D] [job.go:63]  oldJob2: &{Name: CronExpr: Command:}
+2019/05/04 21:57:10.204 [D] [asm_amd64.s:522]  del job success! oldJob: &{Name: CronExpr: Command:}
+2019/05/04 21:57:10.204 [D] [server.go:2741]  |            ::1|[42m 200 [0m|   272.2519ms|   match|[46m POST    [0m /job/delete   r:/job/delete
+2019/05/04 21:57:10.213 [D] [server.go:2741]  |            ::1|[47m 304 [0m|           0s|   match|[44m GET     [0m /  
+2019/05/04 21:57:10.432 [D] [asm_amd64.s:522]  2222222222222222222222222222222222
+2019/05/04 21:57:10.699 [D] [asm_amd64.s:522]  get all job success! jobList: []
+2019/05/04 21:57:10.699 [D] [server.go:2741]  |            ::1|[42m 200 [0m|   268.2826ms|   match|[44m GET     [0m /job/list   r:/job/list
+2019/05/04 21:57:24.527 [D] [asm_amd64.s:522]  save job success. oldJob: <nil>
+2019/05/04 21:57:24.527 [D] [server.go:2741]  |            ::1|[42m 200 [0m|   273.2553ms|   match|[46m POST    [0m /job/save   r:/job/save
+2019/05/04 21:57:26.278 [D] [server.go:2741]  |            ::1|[47m 304 [0m|           0s|   match|[44m GET     [0m /  
+2019/05/04 21:57:26.516 [D] [asm_amd64.s:522]  2222222222222222222222222222222222
+2019/05/04 21:57:26.786 [D] [asm_amd64.s:522]  get all job success! jobList: [{Name:111 CronExpr: Command:feafeaf}]
+2019/05/04 21:57:26.786 [D] [server.go:2741]  |            ::1|[42m 200 [0m|   269.2814ms|   match|[44m GET     [0m /job/list   r:/job/list
+2019/05/04 22:00:16.700 [D] [asm_amd64.s:522]  save job success. oldJob: <nil>
+2019/05/04 22:00:16.700 [D] [server.go:2741]  |            ::1|[42m 200 [0m|   241.3553ms|   match|[46m POST    [0m /job/save   r:/job/save
+2019/05/04 22:01:49.715 [D] [server.go:2741]  |            ::1|[47m 304 [0m|           0s|   match|[44m GET     [0m /  
+2019/05/04 22:01:49.984 [D] [asm_amd64.s:522]  2222222222222222222222222222222222
+2019/05/04 22:01:50.229 [D] [asm_amd64.s:522]  get all job success! jobList: [{Name:111 CronExpr: Command:feafeaf}]
+2019/05/04 22:01:50.230 [D] [server.go:2741]  |            ::1|[42m 200 [0m|   246.3378ms|   match|[44m GET     [0m /job/list   r:/job/list
+2019/05/04 22:01:51.759 [I] [job.go:63]  22222222222222222222222222222
+2019/05/04 22:01:51.759 [D] [job.go:63]  oldJob: {"Name":"111","CronExpr":"","Command":"feafeaf"}
+2019/05/04 22:01:51.759 [D] [job.go:63]  oldJob2: &{Name:111 CronExpr: Command:feafeaf}
+2019/05/04 22:01:51.759 [D] [asm_amd64.s:522]  del job success! oldJob: &{Name:111 CronExpr: Command:feafeaf}
+2019/05/04 22:01:51.759 [D] [server.go:2741]  |            ::1|[42m 200 [0m|   270.2773ms|   match|[46m POST    [0m /job/delete   r:/job/delete
+2019/05/04 22:01:51.767 [D] [server.go:2741]  |            ::1|[47m 304 [0m|           0s|   match|[44m GET     [0m /  
+2019/05/04 22:01:51.988 [D] [asm_amd64.s:522]  2222222222222222222222222222222222
+2019/05/04 22:01:52.262 [D] [asm_amd64.s:522]  get all job success! jobList: []
+2019/05/04 22:01:52.262 [D] [server.go:2741]  |            ::1|[42m 200 [0m|   275.2923ms|   match|[44m GET     [0m /job/list   r:/job/list
+2019/05/04 22:01:55.347 [D] [asm_amd64.s:522]  save job success. oldJob: <nil>
+2019/05/04 22:01:55.347 [D] [server.go:2741]  |            ::1|[42m 200 [0m|   277.2572ms|   match|[46m POST    [0m /job/save   r:/job/save
+2019/05/04 22:01:56.718 [D] [server.go:2741]  |            ::1|[47m 304 [0m|     1.0196ms|   match|[44m GET     [0m /  
+2019/05/04 22:01:56.976 [D] [asm_amd64.s:522]  2222222222222222222222222222222222
+2019/05/04 22:01:57.240 [D] [asm_amd64.s:522]  get all job success! jobList: [{Name:111 CronExpr: Command:feafeaf}]
+2019/05/04 22:01:57.240 [D] [server.go:2741]  |            ::1|[42m 200 [0m|   264.2918ms|   match|[44m GET     [0m /job/list   r:/job/list
+2019/05/04 22:01:59.899 [I] [job.go:63]  22222222222222222222222222222
+2019/05/04 22:01:59.899 [D] [job.go:63]  oldJob: {"Name":"111","CronExpr":"","Command":"feafeaf"}
+2019/05/04 22:01:59.899 [D] [job.go:63]  oldJob2: &{Name:111 CronExpr: Command:feafeaf}
+2019/05/04 22:01:59.899 [D] [asm_amd64.s:522]  del job success! oldJob: &{Name:111 CronExpr: Command:feafeaf}
+2019/05/04 22:01:59.899 [D] [server.go:2741]  |            ::1|[42m 200 [0m|   599.4622ms|   match|[46m POST    [0m /job/delete   r:/job/delete
+2019/05/04 22:01:59.908 [D] [server.go:2741]  |            ::1|[47m 304 [0m|           0s|   match|[44m GET     [0m /  
+2019/05/04 22:02:00.150 [D] [asm_amd64.s:522]  2222222222222222222222222222222222
+2019/05/04 22:02:00.391 [D] [asm_amd64.s:522]  get all job success! jobList: []
+2019/05/04 22:02:00.391 [D] [server.go:2741]  |            ::1|[42m 200 [0m|   240.3569ms|   match|[44m GET     [0m /job/list   r:/job/list
+2019/05/04 22:02:12.836 [D] [asm_amd64.s:522]  save job success. oldJob: <nil>
+2019/05/04 22:02:12.836 [D] [server.go:2741]  |            ::1|[42m 200 [0m|   265.2924ms|   match|[46m POST    [0m /job/save   r:/job/save
+2019/05/04 22:02:49.257 [I] [asm_amd64.s:1333]  http server Running on http://:8080
+2019/05/04 22:02:51.667 [I] [asm_amd64.s:1333]  http server Running on http://:8080
+2019/05/04 22:02:54.070 [I] [asm_amd64.s:1333]  http server Running on http://:8080
+2019/05/04 22:02:56.775 [I] [asm_amd64.s:1333]  http server Running on http://:8080
+2019/05/04 22:02:57.330 [D] [asm_amd64.s:522]  save job success. oldJob: <nil>
+2019/05/04 22:02:57.330 [D] [server.go:2741]  |      127.0.0.1|[42m 200 [0m|   297.2039ms|   match|[46m POST    [0m /job/save   r:/job/save
+2019/05/04 22:02:59.120 [I] [asm_amd64.s:1333]  http server Running on http://:8080
+2019/05/04 22:03:01.261 [I] [asm_amd64.s:1333]  http server Running on http://:8080
+2019/05/04 22:03:03.358 [I] [asm_amd64.s:1333]  http server Running on http://:8080
+2019/05/04 22:03:05.588 [I] [asm_amd64.s:1333]  http server Running on http://:8080
+2019/05/04 22:03:07.815 [I] [asm_amd64.s:1333]  http server Running on http://:8080
+2019/05/04 22:03:09.988 [I] [asm_amd64.s:1333]  http server Running on http://:8080
+2019/05/04 22:03:11.074 [D] [job.go:39]  old value: &{111  feafeaf}
+2019/05/04 22:03:11.074 [D] [asm_amd64.s:522]  save job success. oldJob: &{Name:111 CronExpr: Command:feafeaf}
+2019/05/04 22:03:11.074 [D] [server.go:2741]  |            ::1|[42m 200 [0m|     274.28ms|   match|[46m POST    [0m /job/save   r:/job/save
+2019/05/04 22:03:12.398 [I] [asm_amd64.s:1333]  http server Running on http://:8080
+2019/05/04 22:03:19.826 [D] [server.go:2741]  |            ::1|[47m 304 [0m|           0s|   match|[44m GET     [0m /  
+2019/05/04 22:03:20.073 [D] [asm_amd64.s:522]  2222222222222222222222222222222222
+2019/05/04 22:03:20.369 [D] [asm_amd64.s:522]  get all job success! jobList: [{Name:111 CronExpr:222 Command:feafeaf}]
+2019/05/04 22:03:20.369 [D] [server.go:2741]  |            ::1|[42m 200 [0m|   296.2388ms|   match|[44m GET     [0m /job/list   r:/job/list
+2019/05/04 22:03:31.266 [D] [asm_amd64.s:522]  save job success. oldJob: <nil>
+2019/05/04 22:03:31.266 [D] [server.go:2741]  |            ::1|[42m 200 [0m|   280.2226ms|   match|[46m POST    [0m /job/save   r:/job/save
+2019/05/04 22:03:38.497 [D] [server.go:2741]  |            ::1|[47m 304 [0m|           0s|   match|[44m GET     [0m /  
+2019/05/04 22:03:38.756 [D] [asm_amd64.s:522]  2222222222222222222222222222222222
+2019/05/04 22:03:39.030 [D] [asm_amd64.s:522]  get all job success! jobList: [{Name: CronExpr: Command:} {Name:111 CronExpr:222 Command:feafeaf}]
+2019/05/04 22:03:39.030 [D] [server.go:2741]  |            ::1|[42m 200 [0m|   274.2667ms|   match|[44m GET     [0m /job/list   r:/job/list
+2019/05/04 22:03:51.795 [I] [job.go:63]  22222222222222222222222222222
+2019/05/04 22:03:51.795 [D] [job.go:63]  oldJob: {"Name":"111","CronExpr":"222","Command":"feafeaf"}
+2019/05/04 22:03:51.795 [D] [job.go:63]  oldJob2: &{Name:111 CronExpr:222 Command:feafeaf}
+2019/05/04 22:03:51.795 [D] [asm_amd64.s:522]  del job success! oldJob: &{Name:111 CronExpr:222 Command:feafeaf}
+2019/05/04 22:03:51.795 [D] [server.go:2741]  |            ::1|[42m 200 [0m|   260.3024ms|   match|[46m POST    [0m /job/delete   r:/job/delete
+2019/05/04 22:03:51.803 [D] [server.go:2741]  |            ::1|[47m 304 [0m|           0s|   match|[44m GET     [0m /  
+2019/05/04 22:03:52.040 [D] [asm_amd64.s:522]  2222222222222222222222222222222222
+2019/05/04 22:03:52.302 [D] [asm_amd64.s:522]  get all job success! jobList: [{Name: CronExpr: Command:}]
+2019/05/04 22:03:52.303 [D] [server.go:2741]  |            ::1|[42m 200 [0m|   263.2997ms|   match|[44m GET     [0m /job/list   r:/job/list
+2019/05/04 22:04:42.594 [D] [asm_amd64.s:522]  save job success. oldJob: <nil>
+2019/05/04 22:04:42.595 [D] [server.go:2741]  |            ::1|[42m 200 [0m|   269.2798ms|   match|[46m POST    [0m /job/save   r:/job/save
+2019/05/04 22:04:50.046 [D] [asm_amd64.s:522]  2222222222222222222222222222222222
+2019/05/04 22:04:50.299 [D] [asm_amd64.s:522]  get all job success! jobList: [{Name:111 CronExpr: Command:feafeaf}]
+2019/05/04 22:04:50.299 [D] [server.go:2741]  |            ::1|[42m 200 [0m|   254.3189ms|   match|[44m GET     [0m /job/list   r:/job/list
+2019/05/04 22:04:55.485 [D] [job.go:39]  old value: &{111  feafeaf}
+2019/05/04 22:04:55.485 [D] [asm_amd64.s:522]  save job success. oldJob: &{Name:111 CronExpr: Command:feafeaf}
+2019/05/04 22:04:55.485 [D] [server.go:2741]  |            ::1|[42m 200 [0m|   270.2829ms|   match|[46m POST    [0m /job/save   r:/job/save
+2019/05/04 22:05:09.049 [D] [job.go:39]  old value: &{111  feafeaf}
+2019/05/04 22:05:09.049 [D] [asm_amd64.s:522]  save job success. oldJob: &{Name:111 CronExpr: Command:feafeaf}
+2019/05/04 22:05:09.049 [D] [server.go:2741]  |            ::1|[42m 200 [0m|   265.2588ms|   match|[46m POST    [0m /job/save   r:/job/save
+2019/05/04 22:06:24.997 [I] [asm_amd64.s:1333]  http server Running on http://:8080
+2019/05/04 22:06:28.099 [D] [asm_amd64.s:522]  3333333333333333333333333333 &{  }
+2019/05/04 22:06:28.453 [D] [job.go:40]  old value: &{111  feafeaf}
+2019/05/04 22:06:28.453 [D] [asm_amd64.s:522]  save job success. oldJob: &{Name:111 CronExpr: Command:feafeaf}
+2019/05/04 22:06:28.454 [D] [server.go:2741]  |            ::1|[42m 200 [0m|   355.1342ms|   match|[46m POST    [0m /job/save   r:/job/save
+2019/05/04 22:06:54.898 [I] [asm_amd64.s:1333]  http server Running on http://:8080
+2019/05/04 22:06:56.480 [D] [asm_amd64.s:522]  3333333333333333333333333333 
+2019/05/04 22:06:56.755 [D] [job.go:40]  old value: &{111 3334 feafeaf}
+2019/05/04 22:06:56.755 [D] [asm_amd64.s:522]  save job success. oldJob: &{Name:111 CronExpr:3334 Command:feafeaf}
+2019/05/04 22:06:56.755 [D] [server.go:2741]  |            ::1|[42m 200 [0m|   276.2712ms|   match|[46m POST    [0m /job/save   r:/job/save
+2019/05/04 22:07:58.285 [D] [asm_amd64.s:522]  3333333333333333333333333333 
+2019/05/04 22:07:58.556 [D] [job.go:40]  old value: &{111 3334 feafeaf}
+2019/05/04 22:07:58.556 [D] [asm_amd64.s:522]  save job success. oldJob: &{Name:111 CronExpr:3334 Command:feafeaf}
+2019/05/04 22:07:58.556 [D] [server.go:2741]  |            ::1|[42m 200 [0m|   271.2982ms|   match|[46m POST    [0m /job/save   r:/job/save
+2019/05/04 22:08:18.804 [I] [asm_amd64.s:1333]  http server Running on http://:8080
+2019/05/04 22:08:27.959 [D] [asm_amd64.s:522]  3333333333333333333333333333 
+2019/05/04 22:08:28.239 [D] [job.go:40]  old value: &{111 3334 feafeaf}
+2019/05/04 22:08:28.239 [D] [asm_amd64.s:522]  save job success. oldJob: &{Name:111 CronExpr:3334 Command:feafeaf}
+2019/05/04 22:08:28.240 [D] [server.go:2741]  |            ::1|[42m 200 [0m|   281.3702ms|   match|[46m POST    [0m /job/save   r:/job/save
+2019/05/04 22:08:53.685 [D] [asm_amd64.s:522]  3333333333333333333333333333 
+2019/05/04 22:08:53.946 [D] [job.go:40]  old value: &{111 3334 feafeaf}
+2019/05/04 22:08:53.946 [D] [asm_amd64.s:522]  save job success. oldJob: &{Name:111 CronExpr:3334 Command:feafeaf}
+2019/05/04 22:08:53.946 [D] [server.go:2741]  |            ::1|[42m 200 [0m|   261.3323ms|   match|[46m POST    [0m /job/save   r:/job/save
+2019/05/04 22:08:56.715 [D] [asm_amd64.s:522]  2222222222222222222222222222222222
+2019/05/04 22:08:56.973 [D] [asm_amd64.s:522]  get all job success! jobList: [{Name:111 CronExpr:555555 Command:feafeaf}]
+2019/05/04 22:08:56.973 [D] [server.go:2741]  |            ::1|[42m 200 [0m|   258.2915ms|   match|[44m GET     [0m /job/list   r:/job/list
+2019/05/04 22:09:09.976 [D] [server.go:2741]  |            ::1|[47m 304 [0m|           0s|   match|[44m GET     [0m /  
+2019/05/04 22:09:10.226 [D] [asm_amd64.s:522]  2222222222222222222222222222222222
+2019/05/04 22:09:10.500 [D] [asm_amd64.s:522]  get all job success! jobList: [{Name:111 CronExpr:555555 Command:feafeaf}]
+2019/05/04 22:09:10.500 [D] [server.go:2741]  |            ::1|[42m 200 [0m|    274.267ms|   match|[44m GET     [0m /job/list   r:/job/list
+2019/05/04 22:09:14.914 [I] [asm_amd64.s:1333]  http server Running on http://:8080
+2019/05/04 22:09:16.757 [D] [asm_amd64.s:522]  save job success. oldJob: <nil>
+2019/05/04 22:09:16.757 [D] [server.go:2741]  |            ::1|[42m 200 [0m|   277.4145ms|   match|[46m POST    [0m /job/save   r:/job/save
+2019/05/04 22:10:42.645 [D] [job.go:39]  old value: &{  }
+2019/05/04 22:10:42.645 [D] [asm_amd64.s:522]  save job success. oldJob: &{Name: CronExpr: Command:}
+2019/05/04 22:10:42.645 [D] [server.go:2741]  |            ::1|[42m 200 [0m|   259.3033ms|   match|[46m POST    [0m /job/save   r:/job/save
+2019/05/04 22:10:47.500 [D] [job.go:39]  old value: &{  }
+2019/05/04 22:10:47.500 [D] [asm_amd64.s:522]  save job success. oldJob: &{Name: CronExpr: Command:}
+2019/05/04 22:10:47.500 [D] [server.go:2741]  |            ::1|[42m 200 [0m|   270.3129ms|   match|[46m POST    [0m /job/save   r:/job/save
+2019/05/04 22:10:52.625 [D] [server.go:2741]  |            ::1|[42m 200 [0m|           0s|   match|[44m GET     [0m /  
+2019/05/04 22:10:52.864 [D] [asm_amd64.s:522]  2222222222222222222222222222222222
+2019/05/04 22:10:53.127 [D] [asm_amd64.s:522]  get all job success! jobList: [{Name: CronExpr: Command:} {Name:111 CronExpr:555555 Command:feafeaf}]
+2019/05/04 22:10:53.127 [D] [server.go:2741]  |            ::1|[42m 200 [0m|   264.2945ms|   match|[44m GET     [0m /job/list   r:/job/list
+2019/05/04 22:11:03.187 [D] [asm_amd64.s:522]  2222222222222222222222222222222222
+2019/05/04 22:11:03.468 [D] [asm_amd64.s:522]  get all job success! jobList: [{Name: CronExpr: Command:} {Name:111 CronExpr:555555 Command:feafeaf}]
+2019/05/04 22:11:03.468 [D] [server.go:2741]  |            ::1|[42m 200 [0m|   280.2518ms|   match|[44m GET     [0m /job/list   r:/job/list
+2019/05/04 22:11:09.077 [I] [job.go:63]  22222222222222222222222222222
+2019/05/04 22:11:09.077 [D] [job.go:63]  oldJob: {"Name":"","CronExpr":"","Command":""}
+2019/05/04 22:11:09.077 [D] [job.go:63]  oldJob2: &{Name: CronExpr: Command:}
+2019/05/04 22:11:09.077 [D] [asm_amd64.s:522]  del job success! oldJob: &{Name: CronExpr: Command:}
+2019/05/04 22:11:09.077 [D] [server.go:2741]  |            ::1|[42m 200 [0m|   281.2987ms|   match|[46m POST    [0m /job/delete   r:/job/delete
+2019/05/04 22:11:09.085 [D] [server.go:2741]  |            ::1|[47m 304 [0m|           0s|   match|[44m GET     [0m /  
+2019/05/04 22:11:09.320 [D] [asm_amd64.s:522]  2222222222222222222222222222222222
+2019/05/04 22:11:09.574 [D] [asm_amd64.s:522]  get all job success! jobList: [{Name:111 CronExpr:555555 Command:feafeaf}]
+2019/05/04 22:11:09.575 [D] [server.go:2741]  |            ::1|[42m 200 [0m|   255.3254ms|   match|[44m GET     [0m /job/list   r:/job/list
+2019/05/04 22:11:16.553 [D] [asm_amd64.s:522]  save job success. oldJob: <nil>
+2019/05/04 22:11:16.553 [D] [server.go:2741]  |            ::1|[42m 200 [0m|    255.397ms|   match|[46m POST    [0m /job/save   r:/job/save
+2019/05/04 22:11:24.048 [D] [job.go:39]  old value: &{  }
+2019/05/04 22:11:24.049 [D] [asm_amd64.s:522]  save job success. oldJob: &{Name: CronExpr: Command:}
+2019/05/04 22:11:24.049 [D] [server.go:2741]  |            ::1|[42m 200 [0m|   270.2674ms|   match|[46m POST    [0m /job/save   r:/job/save
+2019/05/04 22:11:30.265 [D] [server.go:2741]  |            ::1|[47m 304 [0m|           0s|   match|[44m GET     [0m /  
+2019/05/04 22:11:30.518 [D] [asm_amd64.s:522]  2222222222222222222222222222222222
+2019/05/04 22:11:30.786 [D] [asm_amd64.s:522]  get all job success! jobList: [{Name: CronExpr: Command:} {Name:111 CronExpr:555555 Command:feafeaf}]
+2019/05/04 22:11:30.787 [D] [server.go:2741]  |            ::1|[42m 200 [0m|   269.3797ms|   match|[44m GET     [0m /job/list   r:/job/list
+2019/05/04 22:14:10.415 [I] [asm_amd64.s:1333]  http server Running on http://:8080
+2019/05/04 22:19:46.926 [D] [server.go:2741]  |            ::1|[47m 304 [0m|      997.1µs|   match|[44m GET     [0m /  
+2019/05/04 22:19:47.175 [D] [asm_amd64.s:522]  2222222222222222222222222222222222
+2019/05/04 22:19:47.497 [D] [asm_amd64.s:522]  get all job success! jobList: [{Name: CronExpr: Command:} {Name:111 CronExpr:555555 Command:feafeaf}]
+2019/05/04 22:19:47.497 [D] [server.go:2741]  |            ::1|[42m 200 [0m|   321.1418ms|   match|[44m GET     [0m /job/list   r:/job/list
+2019/05/04 22:19:50.092 [I] [job.go:64]  22222222222222222222222222222
+2019/05/04 22:19:50.092 [D] [job.go:64]  oldJob: {"Name":"","CronExpr":"","Command":""}
+2019/05/04 22:19:50.092 [D] [job.go:64]  oldJob2: &{Name: CronExpr: Command:}
+2019/05/04 22:19:50.092 [D] [asm_amd64.s:522]  del job success! oldJob: &{Name: CronExpr: Command:}
+2019/05/04 22:19:50.093 [D] [server.go:2741]  |            ::1|[42m 200 [0m|   320.4533ms|   match|[46m POST    [0m /job/delete   r:/job/delete
+2019/05/04 22:19:50.103 [D] [server.go:2741]  |            ::1|[47m 304 [0m|           0s|   match|[44m GET     [0m /  
+2019/05/04 22:19:50.336 [D] [asm_amd64.s:522]  2222222222222222222222222222222222
+2019/05/04 22:19:50.657 [D] [asm_amd64.s:522]  get all job success! jobList: [{Name:111 CronExpr:555555 Command:feafeaf}]
+2019/05/04 22:19:50.657 [D] [server.go:2741]  |            ::1|[42m 200 [0m|   321.3153ms|   match|[44m GET     [0m /job/list   r:/job/list
+2019/05/04 22:19:55.463 [D] [asm_amd64.s:522]  4444444444444444444444444444 
+2019/05/04 22:19:55.786 [D] [asm_amd64.s:522]  save job success. oldJob: <nil>
+2019/05/04 22:19:55.786 [D] [server.go:2741]  |            ::1|[42m 200 [0m|   323.1329ms|   match|[46m POST    [0m /job/save   r:/job/save
+2019/05/04 22:22:23.298 [I] [asm_amd64.s:1333]  http server Running on http://:8080
+2019/05/04 22:22:24.460 [D] [server.go:2741]  |            ::1|[47m 304 [0m|      997.9µs|   match|[44m GET     [0m /  
+2019/05/04 22:22:24.814 [D] [asm_amd64.s:522]  2222222222222222222222222222222222
+2019/05/04 22:22:25.066 [D] [asm_amd64.s:522]  get all job success! jobList: [{Name: CronExpr: Command:} {Name:111 CronExpr:555555 Command:feafeaf}]
+2019/05/04 22:22:25.067 [D] [server.go:2741]  |            ::1|[42m 200 [0m|   254.3295ms|   match|[44m GET     [0m /job/list   r:/job/list
+2019/05/04 22:22:26.662 [I] [job.go:66]  22222222222222222222222222222
+2019/05/04 22:22:26.662 [D] [job.go:66]  oldJob: {"Name":"","CronExpr":"","Command":""}
+2019/05/04 22:22:26.662 [D] [job.go:66]  oldJob2: &{Name: CronExpr: Command:}
+2019/05/04 22:22:26.662 [D] [asm_amd64.s:522]  del job success! oldJob: &{Name: CronExpr: Command:}
+2019/05/04 22:22:26.662 [D] [server.go:2741]  |            ::1|[42m 200 [0m|   262.2868ms|   match|[46m POST    [0m /job/delete   r:/job/delete
+2019/05/04 22:22:26.672 [D] [server.go:2741]  |            ::1|[47m 304 [0m|      997.1µs|   match|[44m GET     [0m /  
+2019/05/04 22:22:26.907 [D] [asm_amd64.s:522]  2222222222222222222222222222222222
+2019/05/04 22:22:27.220 [D] [asm_amd64.s:522]  get all job success! jobList: [{Name:111 CronExpr:555555 Command:feafeaf}]
+2019/05/04 22:22:27.220 [D] [server.go:2741]  |            ::1|[42m 200 [0m|   313.1616ms|   match|[44m GET     [0m /job/list   r:/job/list
+2019/05/04 22:22:33.321 [D] [asm_amd64.s:522]  4444444444444444444444444444, name:  
+2019/05/04 22:22:33.321 [D] [asm_amd64.s:522]  4444444444444444444444444444, cronExpr:  
+2019/05/04 22:22:33.321 [D] [asm_amd64.s:522]  4444444444444444444444444444, command:  
+2019/05/04 22:22:33.630 [D] [asm_amd64.s:522]  save job success. oldJob: <nil>
+2019/05/04 22:22:33.630 [D] [server.go:2741]  |            ::1|[42m 200 [0m|   310.1706ms|   match|[46m POST    [0m /job/save   r:/job/save
+2019/05/04 22:24:59.460 [D] [asm_amd64.s:522]  4444444444444444444444444444, name:  
+2019/05/04 22:24:59.460 [D] [asm_amd64.s:522]  4444444444444444444444444444, cronExpr:  
+2019/05/04 22:24:59.460 [D] [asm_amd64.s:522]  4444444444444444444444444444, command:  
+2019/05/04 22:24:59.777 [D] [job.go:42]  old value: &{  }
+2019/05/04 22:24:59.777 [D] [asm_amd64.s:522]  save job success. oldJob: &{Name: CronExpr: Command:}
+2019/05/04 22:24:59.777 [D] [server.go:2741]  |            ::1|[42m 200 [0m|   318.2579ms|   match|[46m POST    [0m /job/save   r:/job/save
+2019/05/04 22:25:03.560 [D] [server.go:2741]  |            ::1|[42m 200 [0m|           0s|   match|[44m GET     [0m /  
+2019/05/04 22:25:03.812 [D] [asm_amd64.s:522]  2222222222222222222222222222222222
+2019/05/04 22:25:04.116 [D] [asm_amd64.s:522]  get all job success! jobList: [{Name: CronExpr: Command:} {Name:111 CronExpr:555555 Command:feafeaf}]
+2019/05/04 22:25:04.116 [D] [server.go:2741]  |            ::1|[42m 200 [0m|   304.1839ms|   match|[44m GET     [0m /job/list   r:/job/list
+2019/05/04 22:25:06.164 [I] [job.go:66]  22222222222222222222222222222
+2019/05/04 22:25:06.164 [D] [job.go:66]  oldJob: {"Name":"","CronExpr":"","Command":""}
+2019/05/04 22:25:06.164 [D] [job.go:66]  oldJob2: &{Name: CronExpr: Command:}
+2019/05/04 22:25:06.164 [D] [asm_amd64.s:522]  del job success! oldJob: &{Name: CronExpr: Command:}
+2019/05/04 22:25:06.164 [D] [server.go:2741]  |            ::1|[42m 200 [0m|   316.1451ms|   match|[46m POST    [0m /job/delete   r:/job/delete
+2019/05/04 22:25:06.174 [D] [server.go:2741]  |            ::1|[47m 304 [0m|           0s|   match|[44m GET     [0m /  
+2019/05/04 22:25:06.401 [D] [asm_amd64.s:522]  2222222222222222222222222222222222
+2019/05/04 22:25:06.715 [D] [asm_amd64.s:522]  get all job success! jobList: [{Name:111 CronExpr:555555 Command:feafeaf}]
+2019/05/04 22:25:06.716 [D] [server.go:2741]  |            ::1|[42m 200 [0m|    315.167ms|   match|[44m GET     [0m /job/list   r:/job/list
+2019/05/04 22:25:09.518 [D] [asm_amd64.s:522]  4444444444444444444444444444, name:  
+2019/05/04 22:25:09.518 [D] [asm_amd64.s:522]  4444444444444444444444444444, cronExpr:  
+2019/05/04 22:25:09.518 [D] [asm_amd64.s:522]  4444444444444444444444444444, command:  
+2019/05/04 22:25:09.828 [D] [asm_amd64.s:522]  save job success. oldJob: <nil>
+2019/05/04 22:25:09.828 [D] [server.go:2741]  |            ::1|[42m 200 [0m|   310.1706ms|   match|[46m POST    [0m /job/save   r:/job/save
+2019/05/04 22:25:14.088 [D] [asm_amd64.s:522]  4444444444444444444444444444, name:  
+2019/05/04 22:25:14.088 [D] [asm_amd64.s:522]  4444444444444444444444444444, cronExpr:  
+2019/05/04 22:25:14.088 [D] [asm_amd64.s:522]  4444444444444444444444444444, command:  
+2019/05/04 22:25:14.381 [D] [job.go:42]  old value: &{  }
+2019/05/04 22:25:14.381 [D] [asm_amd64.s:522]  save job success. oldJob: &{Name: CronExpr: Command:}
+2019/05/04 22:25:14.381 [D] [server.go:2741]  |            ::1|[42m 200 [0m|   294.2671ms|   match|[46m POST    [0m /job/save   r:/job/save
+2019/05/04 22:25:36.804 [D] [asm_amd64.s:522]  4444444444444444444444444444, name:  111
+2019/05/04 22:25:36.804 [D] [asm_amd64.s:522]  4444444444444444444444444444, cronExpr:  555555
+2019/05/04 22:25:36.804 [D] [asm_amd64.s:522]  4444444444444444444444444444, command:  feafeaf
+2019/05/04 22:25:37.062 [D] [job.go:42]  old value: &{111 555555 feafeaf}
+2019/05/04 22:25:37.062 [D] [asm_amd64.s:522]  save job success. oldJob: &{Name:111 CronExpr:555555 Command:feafeaf}
+2019/05/04 22:25:37.062 [D] [server.go:2741]  |            ::1|[42m 200 [0m|   258.3117ms|   match|[46m POST    [0m /job/save   r:/job/save
+2019/05/04 22:27:29.093 [D] [server.go:2741]  |            ::1|[42m 200 [0m|      998.3µs|   match|[44m GET     [0m /  
+2019/05/04 22:27:29.335 [D] [asm_amd64.s:522]  2222222222222222222222222222222222
+2019/05/04 22:27:29.650 [D] [asm_amd64.s:522]  get all job success! jobList: [{Name: CronExpr: Command:} {Name:111 CronExpr:555555 Command:feafeaf}]
+2019/05/04 22:27:29.650 [D] [server.go:2741]  |            ::1|[42m 200 [0m|   315.1567ms|   match|[44m GET     [0m /job/list   r:/job/list
+2019/05/04 22:27:33.315 [D] [asm_amd64.s:522]  4444444444444444444444444444, name:  
+2019/05/04 22:27:33.315 [D] [asm_amd64.s:522]  4444444444444444444444444444, cronExpr:  
+2019/05/04 22:27:33.315 [D] [asm_amd64.s:522]  4444444444444444444444444444, command:  
+2019/05/04 22:27:33.635 [D] [job.go:42]  old value: &{  }
+2019/05/04 22:27:33.635 [D] [asm_amd64.s:522]  save job success. oldJob: &{Name: CronExpr: Command:}
+2019/05/04 22:27:33.635 [D] [server.go:2741]  |            ::1|[42m 200 [0m|    319.148ms|   match|[46m POST    [0m /job/save   r:/job/save
+2019/05/04 22:29:21.148 [D] [asm_amd64.s:522]  4444444444444444444444444444, name:  111
+2019/05/04 22:29:21.148 [D] [asm_amd64.s:522]  4444444444444444444444444444, cronExpr:  555555
+2019/05/04 22:29:21.148 [D] [asm_amd64.s:522]  4444444444444444444444444444, command:  feafeaf
+2019/05/04 22:29:21.446 [D] [job.go:42]  old value: &{111 555555 feafeaf}
+2019/05/04 22:29:21.446 [D] [asm_amd64.s:522]  save job success. oldJob: &{Name:111 CronExpr:555555 Command:feafeaf}
+2019/05/04 22:29:21.446 [D] [server.go:2741]  |            ::1|[42m 200 [0m|   297.2047ms|   match|[46m POST    [0m /job/save   r:/job/save
+2019/05/04 22:29:34.466 [D] [asm_amd64.s:522]  4444444444444444444444444444, name:  111
+2019/05/04 22:29:34.467 [D] [asm_amd64.s:522]  4444444444444444444444444444, cronExpr:  555555
+2019/05/04 22:29:34.467 [D] [asm_amd64.s:522]  4444444444444444444444444444, command:  feafeaf
+2019/05/04 22:29:34.770 [D] [job.go:42]  old value: &{111 555555 feafeaf}
+2019/05/04 22:29:34.770 [D] [asm_amd64.s:522]  save job success. oldJob: &{Name:111 CronExpr:555555 Command:feafeaf}
+2019/05/04 22:29:34.770 [D] [server.go:2741]  |            ::1|[42m 200 [0m|    304.185ms|   match|[46m POST    [0m /job/save   r:/job/save
+2019/05/04 22:29:58.315 [D] [server.go:2741]  |            ::1|[47m 304 [0m|      995.5µs|   match|[44m GET     [0m /  
+2019/05/04 22:29:58.547 [D] [asm_amd64.s:522]  2222222222222222222222222222222222
+2019/05/04 22:29:58.839 [D] [asm_amd64.s:522]  get all job success! jobList: [{Name: CronExpr: Command:} {Name:111 CronExpr:555555 Command:feafeaf}]
+2019/05/04 22:29:58.839 [D] [server.go:2741]  |            ::1|[42m 200 [0m|   292.2175ms|   match|[44m GET     [0m /job/list   r:/job/list
+2019/05/04 22:30:00.384 [I] [job.go:66]  22222222222222222222222222222
+2019/05/04 22:30:00.384 [D] [job.go:66]  oldJob: {"Name":"","CronExpr":"","Command":""}
+2019/05/04 22:30:00.384 [D] [job.go:66]  oldJob2: &{Name: CronExpr: Command:}
+2019/05/04 22:30:00.384 [D] [asm_amd64.s:522]  del job success! oldJob: &{Name: CronExpr: Command:}
+2019/05/04 22:30:00.384 [D] [server.go:2741]  |            ::1|[42m 200 [0m|   305.3557ms|   match|[46m POST    [0m /job/delete   r:/job/delete
+2019/05/04 22:30:00.392 [D] [server.go:2741]  |            ::1|[47m 304 [0m|           0s|   match|[44m GET     [0m /  
+2019/05/04 22:30:00.617 [D] [asm_amd64.s:522]  2222222222222222222222222222222222
+2019/05/04 22:30:00.921 [D] [asm_amd64.s:522]  get all job success! jobList: [{Name:111 CronExpr:555555 Command:feafeaf}]
+2019/05/04 22:30:00.921 [D] [server.go:2741]  |            ::1|[42m 200 [0m|   304.1913ms|   match|[44m GET     [0m /job/list   r:/job/list
+2019/05/04 22:31:01.145 [D] [asm_amd64.s:522]  4444444444444444444444444444, name:  
+2019/05/04 22:31:01.145 [D] [asm_amd64.s:522]  4444444444444444444444444444, cronExpr:  
+2019/05/04 22:31:01.145 [D] [asm_amd64.s:522]  4444444444444444444444444444, command:  
+2019/05/04 22:31:01.425 [D] [asm_amd64.s:522]  save job success. oldJob: <nil>
+2019/05/04 22:31:01.425 [D] [server.go:2741]  |            ::1|[42m 200 [0m|   279.2934ms|   match|[46m POST    [0m /job/save   r:/job/save
+2019/05/04 22:32:04.720 [D] [asm_amd64.s:522]  4444444444444444444444444444, name:  111
+2019/05/04 22:32:04.720 [D] [asm_amd64.s:522]  4444444444444444444444444444, cronExpr:  555555
+2019/05/04 22:32:04.720 [D] [asm_amd64.s:522]  4444444444444444444444444444, command:  feafeaf
+2019/05/04 22:32:05.038 [D] [job.go:42]  old value: &{111 555555 feafeaf}
+2019/05/04 22:32:05.038 [D] [asm_amd64.s:522]  save job success. oldJob: &{Name:111 CronExpr:555555 Command:feafeaf}
+2019/05/04 22:32:05.038 [D] [server.go:2741]  |            ::1|[42m 200 [0m|   318.2042ms|   match|[46m POST    [0m /job/save   r:/job/save
+2019/05/04 22:32:13.251 [D] [asm_amd64.s:522]  4444444444444444444444444444, name:  
+2019/05/04 22:32:13.251 [D] [asm_amd64.s:522]  4444444444444444444444444444, cronExpr:  
+2019/05/04 22:32:13.251 [D] [asm_amd64.s:522]  4444444444444444444444444444, command:  
+2019/05/04 22:32:13.551 [D] [job.go:42]  old value: &{  }
+2019/05/04 22:32:13.551 [D] [asm_amd64.s:522]  save job success. oldJob: &{Name: CronExpr: Command:}
+2019/05/04 22:32:13.552 [D] [server.go:2741]  |            ::1|[42m 200 [0m|   301.1826ms|   match|[46m POST    [0m /job/save   r:/job/save
+2019/05/04 22:33:33.515 [D] [asm_amd64.s:522]  4444444444444444444444444444, name:  
+2019/05/04 22:33:33.515 [D] [asm_amd64.s:522]  4444444444444444444444444444, cronExpr:  
+2019/05/04 22:33:33.515 [D] [asm_amd64.s:522]  4444444444444444444444444444, command:  
+2019/05/04 22:33:33.822 [D] [job.go:42]  old value: &{  }
+2019/05/04 22:33:33.823 [D] [asm_amd64.s:522]  save job success. oldJob: &{Name: CronExpr: Command:}
+2019/05/04 22:33:33.823 [D] [server.go:2741]  |            ::1|[42m 200 [0m|   308.1819ms|   match|[46m POST    [0m /job/save   r:/job/save
+2019/05/04 22:33:37.866 [D] [asm_amd64.s:522]  4444444444444444444444444444, name:  
+2019/05/04 22:33:37.866 [D] [asm_amd64.s:522]  4444444444444444444444444444, cronExpr:  
+2019/05/04 22:33:37.866 [D] [asm_amd64.s:522]  4444444444444444444444444444, command:  
+2019/05/04 22:33:38.185 [D] [job.go:42]  old value: &{  }
+2019/05/04 22:33:38.185 [D] [asm_amd64.s:522]  save job success. oldJob: &{Name: CronExpr: Command:}
+2019/05/04 22:33:38.185 [D] [server.go:2741]  |            ::1|[42m 200 [0m|   319.1449ms|   match|[46m POST    [0m /job/save   r:/job/save
+2019/05/04 22:34:10.292 [D] [asm_amd64.s:522]  4444444444444444444444444444, name:  
+2019/05/04 22:34:10.292 [D] [asm_amd64.s:522]  4444444444444444444444444444, cronExpr:  
+2019/05/04 22:34:10.293 [D] [asm_amd64.s:522]  4444444444444444444444444444, command:  
+2019/05/04 22:34:10.567 [D] [job.go:42]  old value: &{  }
+2019/05/04 22:34:10.568 [D] [asm_amd64.s:522]  save job success. oldJob: &{Name: CronExpr: Command:}
+2019/05/04 22:34:10.568 [D] [server.go:2741]  |            ::1|[42m 200 [0m|   275.2591ms|   match|[46m POST    [0m /job/save   r:/job/save
+2019/05/04 22:34:11.449 [D] [asm_amd64.s:522]  4444444444444444444444444444, name:  
+2019/05/04 22:34:11.449 [D] [asm_amd64.s:522]  4444444444444444444444444444, cronExpr:  
+2019/05/04 22:34:11.449 [D] [asm_amd64.s:522]  4444444444444444444444444444, command:  
+2019/05/04 22:34:11.759 [D] [job.go:42]  old value: &{  }
+2019/05/04 22:34:11.759 [D] [asm_amd64.s:522]  save job success. oldJob: &{Name: CronExpr: Command:}
+2019/05/04 22:34:11.759 [D] [server.go:2741]  |            ::1|[42m 200 [0m|    309.211ms|   match|[46m POST    [0m /job/save   r:/job/save
+2019/05/04 22:34:11.807 [D] [asm_amd64.s:522]  4444444444444444444444444444, name:  
+2019/05/04 22:34:11.807 [D] [asm_amd64.s:522]  4444444444444444444444444444, cronExpr:  
+2019/05/04 22:34:11.807 [D] [asm_amd64.s:522]  4444444444444444444444444444, command:  
+2019/05/04 22:34:12.038 [D] [asm_amd64.s:522]  4444444444444444444444444444, name:  
+2019/05/04 22:34:12.038 [D] [asm_amd64.s:522]  4444444444444444444444444444, cronExpr:  
+2019/05/04 22:34:12.038 [D] [asm_amd64.s:522]  4444444444444444444444444444, command:  
+2019/05/04 22:34:12.125 [D] [job.go:42]  old value: &{  }
+2019/05/04 22:34:12.126 [D] [asm_amd64.s:522]  save job success. oldJob: &{Name: CronExpr: Command:}
+2019/05/04 22:34:12.126 [D] [server.go:2741]  |            ::1|[42m 200 [0m|   318.2488ms|   match|[46m POST    [0m /job/save   r:/job/save
+2019/05/04 22:34:12.224 [D] [asm_amd64.s:522]  4444444444444444444444444444, name:  
+2019/05/04 22:34:12.224 [D] [asm_amd64.s:522]  4444444444444444444444444444, cronExpr:  
+2019/05/04 22:34:12.224 [D] [asm_amd64.s:522]  4444444444444444444444444444, command:  
+2019/05/04 22:34:12.356 [D] [job.go:42]  old value: &{  }
+2019/05/04 22:34:12.356 [D] [asm_amd64.s:522]  save job success. oldJob: &{Name: CronExpr: Command:}
+2019/05/04 22:34:12.356 [D] [server.go:2741]  |            ::1|[42m 200 [0m|   318.4152ms|   match|[46m POST    [0m /job/save   r:/job/save
+2019/05/04 22:34:12.411 [D] [asm_amd64.s:522]  4444444444444444444444444444, name:  
+2019/05/04 22:34:12.412 [D] [asm_amd64.s:522]  4444444444444444444444444444, cronExpr:  
+2019/05/04 22:34:12.412 [D] [asm_amd64.s:522]  4444444444444444444444444444, command:  
+2019/05/04 22:34:12.542 [D] [job.go:42]  old value: &{  }
+2019/05/04 22:34:12.542 [D] [asm_amd64.s:522]  save job success. oldJob: &{Name: CronExpr: Command:}
+2019/05/04 22:34:12.542 [D] [server.go:2741]  |            ::1|[42m 200 [0m|   317.3813ms|   match|[46m POST    [0m /job/save   r:/job/save
+2019/05/04 22:34:12.582 [D] [asm_amd64.s:522]  4444444444444444444444444444, name:  
+2019/05/04 22:34:12.582 [D] [asm_amd64.s:522]  4444444444444444444444444444, cronExpr:  
+2019/05/04 22:34:12.583 [D] [asm_amd64.s:522]  4444444444444444444444444444, command:  
+2019/05/04 22:34:12.722 [D] [job.go:42]  old value: &{  }
+2019/05/04 22:34:12.722 [D] [asm_amd64.s:522]  save job success. oldJob: &{Name: CronExpr: Command:}
+2019/05/04 22:34:12.722 [D] [server.go:2741]  |            ::1|[42m 200 [0m|   311.2511ms|   match|[46m POST    [0m /job/save   r:/job/save
+2019/05/04 22:34:12.724 [D] [asm_amd64.s:522]  4444444444444444444444444444, name:  
+2019/05/04 22:34:12.724 [D] [asm_amd64.s:522]  4444444444444444444444444444, cronExpr:  
+2019/05/04 22:34:12.724 [D] [asm_amd64.s:522]  4444444444444444444444444444, command:  
+2019/05/04 22:34:12.844 [D] [asm_amd64.s:522]  4444444444444444444444444444, name:  
+2019/05/04 22:34:12.844 [D] [asm_amd64.s:522]  4444444444444444444444444444, cronExpr:  
+2019/05/04 22:34:12.844 [D] [asm_amd64.s:522]  4444444444444444444444444444, command:  
+2019/05/04 22:34:12.886 [D] [job.go:42]  old value: &{  }
+2019/05/04 22:34:12.886 [D] [asm_amd64.s:522]  save job success. oldJob: &{Name: CronExpr: Command:}
+2019/05/04 22:34:12.886 [D] [server.go:2741]  |            ::1|[42m 200 [0m|   304.2842ms|   match|[46m POST    [0m /job/save   r:/job/save
+2019/05/04 22:34:13.019 [D] [job.go:42]  old value: &{  }
+2019/05/04 22:34:13.019 [D] [asm_amd64.s:522]  save job success. oldJob: &{Name: CronExpr: Command:}
+2019/05/04 22:34:13.019 [D] [server.go:2741]  |            ::1|[42m 200 [0m|   294.2386ms|   match|[46m POST    [0m /job/save   r:/job/save
+2019/05/04 22:34:13.131 [D] [job.go:42]  old value: &{  }
+2019/05/04 22:34:13.131 [D] [asm_amd64.s:522]  save job success. oldJob: &{Name: CronExpr: Command:}
+2019/05/04 22:34:13.131 [D] [server.go:2741]  |            ::1|[42m 200 [0m|   286.3922ms|   match|[46m POST    [0m /job/save   r:/job/save
+2019/05/04 22:34:14.536 [D] [asm_amd64.s:522]  4444444444444444444444444444, name:  
+2019/05/04 22:34:14.537 [D] [asm_amd64.s:522]  4444444444444444444444444444, cronExpr:  
+2019/05/04 22:34:14.537 [D] [asm_amd64.s:522]  4444444444444444444444444444, command:  
+2019/05/04 22:34:14.855 [D] [job.go:42]  old value: &{  }
+2019/05/04 22:34:14.855 [D] [asm_amd64.s:522]  save job success. oldJob: &{Name: CronExpr: Command:}
+2019/05/04 22:34:14.855 [D] [server.go:2741]  |            ::1|[42m 200 [0m|    319.165ms|   match|[46m POST    [0m /job/save   r:/job/save
+2019/05/04 22:34:16.575 [D] [server.go:2741]  |            ::1|[42m 200 [0m|           0s|   match|[44m GET     [0m /  
+2019/05/04 22:34:16.826 [D] [asm_amd64.s:522]  2222222222222222222222222222222222
+2019/05/04 22:34:17.121 [D] [asm_amd64.s:522]  get all job success! jobList: [{Name: CronExpr: Command:} {Name:111 CronExpr:555555 Command:feafeaf}]
+2019/05/04 22:34:17.121 [D] [server.go:2741]  |            ::1|[42m 200 [0m|   296.1921ms|   match|[44m GET     [0m /job/list   r:/job/list
+2019/05/04 22:34:18.983 [I] [job.go:66]  22222222222222222222222222222
+2019/05/04 22:34:18.983 [D] [job.go:66]  oldJob: {"Name":"","CronExpr":"","Command":""}
+2019/05/04 22:34:18.983 [D] [job.go:66]  oldJob2: &{Name: CronExpr: Command:}
+2019/05/04 22:34:18.984 [D] [asm_amd64.s:522]  del job success! oldJob: &{Name: CronExpr: Command:}
+2019/05/04 22:34:18.984 [D] [server.go:2741]  |            ::1|[42m 200 [0m|   268.3593ms|   match|[46m POST    [0m /job/delete   r:/job/delete
+2019/05/04 22:34:18.991 [D] [server.go:2741]  |            ::1|[47m 304 [0m|      996.7µs|   match|[44m GET     [0m /  
+2019/05/04 22:34:19.197 [D] [asm_amd64.s:522]  2222222222222222222222222222222222
+2019/05/04 22:34:19.492 [D] [asm_amd64.s:522]  get all job success! jobList: [{Name:111 CronExpr:555555 Command:feafeaf}]
+2019/05/04 22:34:19.492 [D] [server.go:2741]  |            ::1|[42m 200 [0m|   296.2076ms|   match|[44m GET     [0m /job/list   r:/job/list
+2019/05/04 22:34:21.109 [D] [server.go:2741]  |            ::1|[43m 404 [0m|           0s| nomatch|[44m GET     [0m /job/save
+2019/05/04 22:34:30.050 [D] [server.go:2741]  |            ::1|[43m 404 [0m|           0s| nomatch|[44m GET     [0m /job/save
+2019/05/04 22:34:32.455 [D] [server.go:2741]  |            ::1|[42m 200 [0m|           0s|   match|[44m GET     [0m /  
+2019/05/04 22:34:32.687 [D] [asm_amd64.s:522]  2222222222222222222222222222222222
+2019/05/04 22:34:32.991 [D] [asm_amd64.s:522]  get all job success! jobList: [{Name:111 CronExpr:555555 Command:feafeaf}]
+2019/05/04 22:34:32.991 [D] [server.go:2741]  |            ::1|[42m 200 [0m|    304.204ms|   match|[44m GET     [0m /job/list   r:/job/list
+2019/05/04 22:34:34.863 [D] [asm_amd64.s:522]  4444444444444444444444444444, name:  
+2019/05/04 22:34:34.863 [D] [asm_amd64.s:522]  4444444444444444444444444444, cronExpr:  
+2019/05/04 22:34:34.863 [D] [asm_amd64.s:522]  4444444444444444444444444444, command:  
+2019/05/04 22:34:35.175 [D] [asm_amd64.s:522]  save job success. oldJob: <nil>
+2019/05/04 22:34:35.175 [D] [server.go:2741]  |            ::1|[42m 200 [0m|   312.1657ms|   match|[46m POST    [0m /job/save   r:/job/save
+2019/05/04 22:35:43.600 [D] [asm_amd64.s:522]  4444444444444444444444444444, name:  
+2019/05/04 22:35:43.600 [D] [asm_amd64.s:522]  4444444444444444444444444444, cronExpr:  
+2019/05/04 22:35:43.600 [D] [asm_amd64.s:522]  4444444444444444444444444444, command:  
+2019/05/04 22:35:43.907 [D] [job.go:42]  old value: &{  }
+2019/05/04 22:35:43.907 [D] [asm_amd64.s:522]  save job success. oldJob: &{Name: CronExpr: Command:}
+2019/05/04 22:35:43.907 [D] [server.go:2741]  |            ::1|[42m 200 [0m|   307.1792ms|   match|[46m POST    [0m /job/save   r:/job/save
+2019/05/04 22:36:02.898 [D] [server.go:2741]  |            ::1|[43m 404 [0m|           0s| nomatch|[44m GET     [0m /job/save
+2019/05/04 22:36:15.644 [D] [server.go:2741]  |            ::1|[43m 404 [0m|      981.8µs| nomatch|[44m GET     [0m /job/save
+2019/05/04 22:36:59.369 [D] [asm_amd64.s:522]  4444444444444444444444444444, name:  111
+2019/05/04 22:36:59.369 [D] [asm_amd64.s:522]  4444444444444444444444444444, cronExpr:  3333
+2019/05/04 22:36:59.369 [D] [asm_amd64.s:522]  4444444444444444444444444444, command:  444
+2019/05/04 22:36:59.635 [D] [job.go:42]  old value: &{111 555555 feafeaf}
+2019/05/04 22:36:59.635 [D] [asm_amd64.s:522]  save job success. oldJob: &{Name:111 CronExpr:555555 Command:feafeaf}
+2019/05/04 22:36:59.635 [D] [server.go:2741]  |            ::1|[42m 200 [0m|   266.2797ms|   match|[46m POST    [0m /job/save   r:/job/save
+2019/05/04 22:37:25.481 [D] [asm_amd64.s:522]  4444444444444444444444444444, name:  
+2019/05/04 22:37:25.481 [D] [asm_amd64.s:522]  4444444444444444444444444444, cronExpr:  
+2019/05/04 22:37:25.481 [D] [asm_amd64.s:522]  4444444444444444444444444444, command:  
+2019/05/04 22:37:25.729 [D] [job.go:42]  old value: &{  }
+2019/05/04 22:37:25.729 [D] [asm_amd64.s:522]  save job success. oldJob: &{Name: CronExpr: Command:}
+2019/05/04 22:37:25.730 [D] [server.go:2741]  |            ::1|[42m 200 [0m|    249.343ms|   match|[46m POST    [0m /job/save   r:/job/save
+2019/05/04 22:39:11.194 [D] [server.go:2741]  |            ::1|[43m 404 [0m|           0s| nomatch|[43m PUT     [0m /job/save
+2019/05/04 22:39:14.943 [D] [asm_amd64.s:522]  4444444444444444444444444444, name:  111
+2019/05/04 22:39:14.943 [D] [asm_amd64.s:522]  4444444444444444444444444444, cronExpr:  3333
+2019/05/04 22:39:14.943 [D] [asm_amd64.s:522]  4444444444444444444444444444, command:  444
+2019/05/04 22:39:15.191 [D] [job.go:42]  old value: &{111 3333 444}
+2019/05/04 22:39:15.192 [D] [asm_amd64.s:522]  save job success. oldJob: &{Name:111 CronExpr:3333 Command:444}
+2019/05/04 22:39:15.192 [D] [server.go:2741]  |            ::1|[42m 200 [0m|   249.3363ms|   match|[46m POST    [0m /job/save   r:/job/save
+2019/05/04 22:39:30.555 [D] [asm_amd64.s:522]  4444444444444444444444444444, name:  
+2019/05/04 22:39:30.556 [D] [asm_amd64.s:522]  4444444444444444444444444444, cronExpr:  
+2019/05/04 22:39:30.556 [D] [asm_amd64.s:522]  4444444444444444444444444444, command:  
+2019/05/04 22:39:30.813 [D] [job.go:42]  old value: &{  }
+2019/05/04 22:39:30.813 [D] [asm_amd64.s:522]  save job success. oldJob: &{Name: CronExpr: Command:}
+2019/05/04 22:39:30.813 [D] [server.go:2741]  |            ::1|[42m 200 [0m|   257.3142ms|   match|[46m POST    [0m /job/save   r:/job/save
+2019/05/04 22:40:46.867 [D] [asm_amd64.s:522]  4444444444444444444444444444, name:  
+2019/05/04 22:40:46.867 [D] [asm_amd64.s:522]  4444444444444444444444444444, cronExpr:  
+2019/05/04 22:40:46.867 [D] [asm_amd64.s:522]  4444444444444444444444444444, command:  
+2019/05/04 22:40:53.534 [I] [asm_amd64.s:1333]  http server Running on http://:8080
+2019/05/04 22:40:53.571 [D] [asm_amd64.s:522]  4444444444444444444444444444, name:  map[RouterPattern:/job/save]
+2019/05/04 22:40:53.572 [D] [asm_amd64.s:522]  4444444444444444444444444444, cronExpr:  
+2019/05/04 22:40:53.572 [D] [asm_amd64.s:522]  4444444444444444444444444444, command:  
+2019/05/04 22:40:53.871 [D] [job.go:42]  old value: &{  }
+2019/05/04 22:40:53.871 [D] [asm_amd64.s:522]  save job success. oldJob: &{Name: CronExpr: Command:}
+2019/05/04 22:40:53.872 [D] [server.go:2741]  |      127.0.0.1|[42m 200 [0m|   300.1795ms|   match|[46m POST    [0m /job/save   r:/job/save
+2019/05/04 22:42:17.873 [I] [asm_amd64.s:1333]  http server Running on http://:8080
+2019/05/04 22:42:25.428 [D] [asm_amd64.s:522]  4444444444444444444444444444, name:  
+2019/05/04 22:42:25.428 [D] [asm_amd64.s:522]  4444444444444444444444444444, cronExpr:  
+2019/05/04 22:42:25.428 [D] [asm_amd64.s:522]  4444444444444444444444444444, command:  
+2019/05/04 22:42:26.276 [D] [job.go:42]  old value: &{  }
+2019/05/04 22:42:26.276 [D] [asm_amd64.s:522]  save job success. oldJob: &{Name: CronExpr: Command:}
+2019/05/04 22:42:26.276 [D] [server.go:2741]  |            ::1|[42m 200 [0m|   848.8404ms|   match|[46m POST    [0m /job/save   r:/job/save
+2019/05/04 22:42:51.945 [D] [asm_amd64.s:522]  4444444444444444444444444444, name:  444
+2019/05/04 22:42:51.945 [D] [asm_amd64.s:522]  4444444444444444444444444444, cronExpr:  3333
+2019/05/04 22:42:51.945 [D] [asm_amd64.s:522]  4444444444444444444444444444, command:  444
+2019/05/04 22:43:05.500 [D] [job.go:42]  old value: &{111 3333 444}
+2019/05/04 22:43:05.500 [D] [asm_amd64.s:522]  save job success. oldJob: &{Name:111 CronExpr:3333 Command:444}
+2019/05/04 22:43:05.500 [D] [server.go:2741]  |            ::1|[42m 200 [0m|  13.5544952s|   match|[46m POST    [0m /job/save   r:/job/save
+2019/05/04 22:43:58.154 [I] [asm_amd64.s:1333]  http server Running on http://:8080
+2019/05/04 22:44:03.310 [D] [asm_amd64.s:522]  4444444444444444444444444444, name:  3333
+2019/05/04 22:44:03.310 [D] [asm_amd64.s:522]  4444444444444444444444444444, cronExpr:  3333
+2019/05/04 22:44:03.310 [D] [asm_amd64.s:522]  4444444444444444444444444444, command:  444
+2019/05/04 22:44:04.229 [D] [job.go:42]  old value: &{111 3333 444}
+2019/05/04 22:44:04.229 [D] [asm_amd64.s:522]  save job success. oldJob: &{Name:111 CronExpr:3333 Command:444}
+2019/05/04 22:44:04.229 [D] [server.go:2741]  |            ::1|[42m 200 [0m|   919.5525ms|   match|[46m POST    [0m /job/save   r:/job/save
+2019/05/04 22:44:17.662 [D] [asm_amd64.s:522]  4444444444444444444444444444, name:  
+2019/05/04 22:44:17.662 [D] [asm_amd64.s:522]  4444444444444444444444444444, cronExpr:  
+2019/05/04 22:44:17.662 [D] [asm_amd64.s:522]  4444444444444444444444444444, command:  
+2019/05/04 22:44:17.971 [D] [job.go:42]  old value: &{  }
+2019/05/04 22:44:17.971 [D] [asm_amd64.s:522]  save job success. oldJob: &{Name: CronExpr: Command:}
+2019/05/04 22:44:17.971 [D] [server.go:2741]  |            ::1|[42m 200 [0m|   309.1972ms|   match|[46m POST    [0m /job/save   r:/job/save
+2019/05/04 22:45:26.224 [D] [server.go:2741]  |            ::1|[42m 200 [0m|           0s|   match|[44m GET     [0m /  
+2019/05/04 22:45:26.454 [D] [asm_amd64.s:522]  2222222222222222222222222222222222
+2019/05/04 22:45:26.723 [D] [asm_amd64.s:522]  get all job success! jobList: [{Name: CronExpr: Command:} {Name:111 CronExpr:3333 Command:444}]
+2019/05/04 22:45:26.723 [D] [server.go:2741]  |            ::1|[42m 200 [0m|   269.2794ms|   match|[44m GET     [0m /job/list   r:/job/list
+2019/05/04 22:45:28.484 [I] [job.go:66]  22222222222222222222222222222
+2019/05/04 22:45:28.484 [D] [job.go:66]  oldJob: {"Name":"","CronExpr":"","Command":""}
+2019/05/04 22:45:28.484 [D] [job.go:66]  oldJob2: &{Name: CronExpr: Command:}
+2019/05/04 22:45:28.484 [D] [asm_amd64.s:522]  del job success! oldJob: &{Name: CronExpr: Command:}
+2019/05/04 22:45:28.484 [D] [server.go:2741]  |            ::1|[42m 200 [0m|   272.2376ms|   match|[46m POST    [0m /job/delete   r:/job/delete
+2019/05/04 22:45:28.493 [D] [server.go:2741]  |            ::1|[47m 304 [0m|           0s|   match|[44m GET     [0m /  
+2019/05/04 22:45:28.701 [D] [asm_amd64.s:522]  2222222222222222222222222222222222
+2019/05/04 22:45:28.959 [D] [asm_amd64.s:522]  get all job success! jobList: [{Name:111 CronExpr:3333 Command:444}]
+2019/05/04 22:45:28.959 [D] [server.go:2741]  |            ::1|[42m 200 [0m|    257.309ms|   match|[44m GET     [0m /job/list   r:/job/list
+2019/05/04 22:45:33.168 [D] [asm_amd64.s:522]  4444444444444444444444444444, name:  
+2019/05/04 22:45:33.168 [D] [asm_amd64.s:522]  4444444444444444444444444444, cronExpr:  
+2019/05/04 22:45:33.168 [D] [asm_amd64.s:522]  4444444444444444444444444444, command:  
+2019/05/04 22:45:33.439 [D] [asm_amd64.s:522]  save job success. oldJob: <nil>
+2019/05/04 22:45:33.439 [D] [server.go:2741]  |            ::1|[42m 200 [0m|   271.2445ms|   match|[46m POST    [0m /job/save   r:/job/save
+2019/05/04 22:46:55.223 [D] [asm_amd64.s:522]  4444444444444444444444444444, name:  
+2019/05/04 22:46:55.223 [D] [asm_amd64.s:522]  4444444444444444444444444444, cronExpr:  
+2019/05/04 22:46:55.224 [D] [asm_amd64.s:522]  4444444444444444444444444444, command:  
+2019/05/04 22:46:55.493 [D] [job.go:42]  old value: &{  }
+2019/05/04 22:46:55.493 [D] [asm_amd64.s:522]  save job success. oldJob: &{Name: CronExpr: Command:}
+2019/05/04 22:46:55.493 [D] [server.go:2741]  |            ::1|[42m 200 [0m|    269.281ms|   match|[46m POST    [0m /job/save   r:/job/save
+2019/05/04 22:47:06.908 [D] [server.go:2741]  |            ::1|[42m 200 [0m|      996.4µs|   match|[44m GET     [0m /  
+2019/05/04 22:47:07.169 [D] [asm_amd64.s:522]  2222222222222222222222222222222222
+2019/05/04 22:47:07.447 [D] [asm_amd64.s:522]  get all job success! jobList: [{Name: CronExpr: Command:} {Name:111 CronExpr:3333 Command:444}]
+2019/05/04 22:47:07.447 [D] [server.go:2741]  |            ::1|[42m 200 [0m|    277.258ms|   match|[44m GET     [0m /job/list   r:/job/list
+2019/05/04 22:47:11.399 [D] [asm_amd64.s:522]  4444444444444444444444444444, name:  3333
+2019/05/04 22:47:11.399 [D] [asm_amd64.s:522]  4444444444444444444444444444, cronExpr:  3333
+2019/05/04 22:47:11.399 [D] [asm_amd64.s:522]  4444444444444444444444444444, command:  999
+2019/05/04 22:47:11.674 [D] [job.go:42]  old value: &{111 3333 444}
+2019/05/04 22:47:11.674 [D] [asm_amd64.s:522]  save job success. oldJob: &{Name:111 CronExpr:3333 Command:444}
+2019/05/04 22:47:11.674 [D] [server.go:2741]  |            ::1|[42m 200 [0m|   274.2706ms|   match|[46m POST    [0m /job/save   r:/job/save
+2019/05/04 22:47:46.171 [I] [job.go:66]  22222222222222222222222222222
+2019/05/04 22:47:46.172 [D] [job.go:66]  oldJob: {"Name":"","CronExpr":"","Command":""}
+2019/05/04 22:47:46.172 [D] [job.go:66]  oldJob2: &{Name: CronExpr: Command:}
+2019/05/04 22:47:46.172 [D] [asm_amd64.s:522]  del job success! oldJob: &{Name: CronExpr: Command:}
+2019/05/04 22:47:46.172 [D] [server.go:2741]  |            ::1|[42m 200 [0m|   224.3811ms|   match|[46m POST    [0m /job/delete   r:/job/delete
+2019/05/04 22:47:46.180 [D] [server.go:2741]  |            ::1|[47m 304 [0m|     1.0003ms|   match|[44m GET     [0m /  
+2019/05/04 22:47:46.428 [D] [asm_amd64.s:522]  2222222222222222222222222222222222
+2019/05/04 22:47:46.680 [D] [asm_amd64.s:522]  get all job success! jobList: [{Name:111 CronExpr:3333 Command:999}]
+2019/05/04 22:47:46.680 [D] [server.go:2741]  |            ::1|[42m 200 [0m|   252.3242ms|   match|[44m GET     [0m /job/list   r:/job/list
+2019/05/04 22:47:51.466 [D] [asm_amd64.s:522]  4444444444444444444444444444, name:  3333
+2019/05/04 22:47:51.466 [D] [asm_amd64.s:522]  4444444444444444444444444444, cronExpr:  3333
+2019/05/04 22:47:51.466 [D] [asm_amd64.s:522]  4444444444444444444444444444, command:  10
+2019/05/04 22:47:51.712 [D] [job.go:42]  old value: &{111 3333 999}
+2019/05/04 22:47:51.712 [D] [asm_amd64.s:522]  save job success. oldJob: &{Name:111 CronExpr:3333 Command:999}
+2019/05/04 22:47:51.712 [D] [server.go:2741]  |            ::1|[42m 200 [0m|   247.3381ms|   match|[46m POST    [0m /job/save   r:/job/save
+2019/05/04 22:47:55.268 [D] [server.go:2741]  |            ::1|[47m 304 [0m|      999.1µs|   match|[44m GET     [0m /  
+2019/05/04 22:47:55.516 [D] [asm_amd64.s:522]  2222222222222222222222222222222222
+2019/05/04 22:47:55.765 [D] [asm_amd64.s:522]  get all job success! jobList: [{Name:111 CronExpr:3333 Command:10}]
+2019/05/04 22:47:55.765 [D] [server.go:2741]  |            ::1|[42m 200 [0m|   248.4861ms|   match|[44m GET     [0m /job/list   r:/job/list
+2019/05/04 22:48:06.670 [D] [server.go:2741]  |            ::1|[42m 200 [0m|      997.2µs|   match|[44m GET     [0m /  
+2019/05/04 22:48:06.917 [D] [asm_amd64.s:522]  2222222222222222222222222222222222
+2019/05/04 22:48:07.188 [D] [asm_amd64.s:522]  get all job success! jobList: [{Name:111 CronExpr:3333 Command:10}]
+2019/05/04 22:48:07.188 [D] [server.go:2741]  |            ::1|[42m 200 [0m|   270.2762ms|   match|[44m GET     [0m /job/list   r:/job/list
+2019/05/04 22:48:12.032 [D] [asm_amd64.s:522]  4444444444444444444444444444, name:  5737
+2019/05/04 22:48:12.032 [D] [asm_amd64.s:522]  4444444444444444444444444444, cronExpr:  5737
+2019/05/04 22:48:12.032 [D] [asm_amd64.s:522]  4444444444444444444444444444, command:  575
+2019/05/04 22:48:12.292 [D] [job.go:42]  old value: &{111 3333 10}
+2019/05/04 22:48:12.292 [D] [asm_amd64.s:522]  save job success. oldJob: &{Name:111 CronExpr:3333 Command:10}
+2019/05/04 22:48:12.292 [D] [server.go:2741]  |            ::1|[42m 200 [0m|   260.2807ms|   match|[46m POST    [0m /job/save   r:/job/save
+2019/05/04 22:48:12.301 [D] [server.go:2741]  |            ::1|[47m 304 [0m|           0s|   match|[44m GET     [0m /  
+2019/05/04 22:48:12.509 [D] [asm_amd64.s:522]  2222222222222222222222222222222222
+2019/05/04 22:48:12.781 [D] [asm_amd64.s:522]  get all job success! jobList: [{Name:111 CronExpr:5737 Command:575}]
+2019/05/04 22:48:12.781 [D] [server.go:2741]  |            ::1|[42m 200 [0m|   272.2708ms|   match|[44m GET     [0m /job/list   r:/job/list
+2019/05/04 22:48:18.882 [I] [job.go:66]  22222222222222222222222222222
+2019/05/04 22:48:18.882 [D] [job.go:66]  oldJob: {"Name":"111","CronExpr":"5737","Command":"575"}
+2019/05/04 22:48:18.882 [D] [job.go:66]  oldJob2: &{Name:111 CronExpr:5737 Command:575}
+2019/05/04 22:48:18.883 [D] [asm_amd64.s:522]  del job success! oldJob: &{Name:111 CronExpr:5737 Command:575}
+2019/05/04 22:48:18.883 [D] [server.go:2741]  |            ::1|[42m 200 [0m|   259.3088ms|   match|[46m POST    [0m /job/delete   r:/job/delete
+2019/05/04 22:48:18.892 [D] [server.go:2741]  |            ::1|[47m 304 [0m|           0s|   match|[44m GET     [0m /  
+2019/05/04 22:48:19.100 [D] [asm_amd64.s:522]  2222222222222222222222222222222222
+2019/05/04 22:48:19.373 [D] [asm_amd64.s:522]  get all job success! jobList: []
+2019/05/04 22:48:19.373 [D] [server.go:2741]  |            ::1|[42m 200 [0m|   272.5663ms|   match|[44m GET     [0m /job/list   r:/job/list
+2019/05/04 22:48:21.698 [D] [server.go:2741]  |            ::1|[47m 304 [0m|           0s|   match|[44m GET     [0m /  
+2019/05/04 22:48:21.940 [D] [asm_amd64.s:522]  2222222222222222222222222222222222
+2019/05/04 22:48:22.180 [D] [asm_amd64.s:522]  get all job success! jobList: []
+2019/05/04 22:48:22.180 [D] [server.go:2741]  |            ::1|[42m 200 [0m|   241.3549ms|   match|[44m GET     [0m /job/list   r:/job/list
+2019/05/04 22:48:23.980 [D] [asm_amd64.s:522]  4444444444444444444444444444, name:  3333
+2019/05/04 22:48:23.980 [D] [asm_amd64.s:522]  4444444444444444444444444444, cronExpr:  3333
+2019/05/04 22:48:23.980 [D] [asm_amd64.s:522]  4444444444444444444444444444, command:  444
+2019/05/04 22:48:24.216 [D] [asm_amd64.s:522]  save job success. oldJob: <nil>
+2019/05/04 22:48:24.216 [D] [server.go:2741]  |            ::1|[42m 200 [0m|   236.3715ms|   match|[46m POST    [0m /job/save   r:/job/save
+2019/05/04 22:48:25.487 [D] [server.go:2741]  |            ::1|[47m 304 [0m|           0s|   match|[44m GET     [0m /  
+2019/05/04 22:48:25.715 [D] [asm_amd64.s:522]  2222222222222222222222222222222222
+2019/05/04 22:48:25.973 [D] [asm_amd64.s:522]  get all job success! jobList: [{Name:111 CronExpr:3333 Command:444}]
+2019/05/04 22:48:25.973 [D] [server.go:2741]  |            ::1|[42m 200 [0m|   259.3385ms|   match|[44m GET     [0m /job/list   r:/job/list
+2019/05/04 22:48:30.011 [D] [asm_amd64.s:522]  4444444444444444444444444444, name:  3333
+2019/05/04 22:48:30.011 [D] [asm_amd64.s:522]  4444444444444444444444444444, cronExpr:  3333
+2019/05/04 22:48:30.011 [D] [asm_amd64.s:522]  4444444444444444444444444444, command:  78
+2019/05/04 22:48:30.284 [D] [job.go:42]  old value: &{111 3333 444}
+2019/05/04 22:48:30.284 [D] [asm_amd64.s:522]  save job success. oldJob: &{Name:111 CronExpr:3333 Command:444}
+2019/05/04 22:48:30.284 [D] [server.go:2741]  |            ::1|[42m 200 [0m|   272.3873ms|   match|[46m POST    [0m /job/save   r:/job/save
+2019/05/04 22:48:30.292 [D] [server.go:2741]  |            ::1|[47m 304 [0m|      998.7µs|   match|[44m GET     [0m /  
+2019/05/04 22:48:30.500 [D] [asm_amd64.s:522]  2222222222222222222222222222222222
+2019/05/04 22:48:30.761 [D] [asm_amd64.s:522]  get all job success! jobList: [{Name:111 CronExpr:3333 Command:78}]
+2019/05/04 22:48:30.761 [D] [server.go:2741]  |            ::1|[42m 200 [0m|   262.4263ms|   match|[44m GET     [0m /job/list   r:/job/list
+2019/05/04 22:48:35.138 [D] [asm_amd64.s:522]  2222222222222222222222222222222222
+2019/05/04 22:48:35.410 [D] [asm_amd64.s:522]  get all job success! jobList: [{Name:111 CronExpr:3333 Command:78}]
+2019/05/04 22:48:35.410 [D] [server.go:2741]  |            ::1|[42m 200 [0m|   272.4288ms|   match|[44m GET     [0m /job/list   r:/job/list
+2019/05/05 21:25:43.168 [I] [asm_amd64.s:1333]  http server Running on http://:8080
+2019/05/05 21:25:45.696 [I] [asm_amd64.s:1333]  http server Running on http://:8080
+2019/05/05 21:25:48.728 [I] [asm_amd64.s:1333]  http server Running on http://:8080
+2019/05/05 21:25:51.987 [I] [asm_amd64.s:1333]  http server Running on http://:8080
+2019/05/05 21:25:54.490 [I] [asm_amd64.s:1333]  http server Running on http://:8080
+2019/05/05 21:25:57.382 [I] [asm_amd64.s:1333]  http server Running on http://:8080
+2019/05/05 21:26:00.293 [I] [asm_amd64.s:1333]  http server Running on http://:8080
+2019/05/05 21:26:03.639 [I] [asm_amd64.s:1333]  http server Running on http://:8080
+2019/05/05 21:26:08.070 [I] [asm_amd64.s:1333]  http server Running on http://:8080
+2019/05/05 21:26:11.081 [I] [asm_amd64.s:1333]  http server Running on http://:8080
+2019/05/05 21:26:11.343 [D] [server.go:2741]  |            ::1|[47m 304 [0m|    43.9098ms|   match|[44m GET     [0m /  
+2019/05/05 21:26:11.616 [D] [asm_amd64.s:522]  2222222222222222222222222222222222
+2019/05/05 21:26:11.619 [D] [server.go:2741]  |      127.0.0.1|[43m 404 [0m|     1.9947ms| nomatch|[44m GET     [0m /favicon.ico
+2019/05/05 21:26:11.886 [D] [asm_amd64.s:522]  get all job success! jobList: [{Name:111 CronExpr:3333 Command:78}]
+2019/05/05 21:26:11.886 [D] [server.go:2741]  |            ::1|[42m 200 [0m|   270.2755ms|   match|[44m GET     [0m /job/list   r:/job/list
+2019/05/05 21:32:23.033 [D] [server.go:2741]  |            ::1|[42m 200 [0m|           0s|   match|[44m GET     [0m /  
+2019/05/05 21:32:23.160 [D] [asm_amd64.s:522]  2222222222222222222222222222222222
+2019/05/05 21:32:23.499 [D] [asm_amd64.s:522]  get all job success! jobList: [{Name:111 CronExpr:3333 Command:78}]
+2019/05/05 21:32:23.499 [D] [server.go:2741]  |            ::1|[42m 200 [0m|   339.0932ms|   match|[44m GET     [0m /job/list   r:/job/list
+2019/05/05 21:32:30.808 [D] [asm_amd64.s:522]  4444444444444444444444444444, name:  2222
+2019/05/05 21:32:30.808 [D] [asm_amd64.s:522]  4444444444444444444444444444, cronExpr:  2222
+2019/05/05 21:32:30.808 [D] [asm_amd64.s:522]  4444444444444444444444444444, command:  111
+2019/05/05 21:32:31.171 [D] [asm_amd64.s:522]  save job success. oldJob: <nil>
+2019/05/05 21:32:31.171 [D] [server.go:2741]  |            ::1|[42m 200 [0m|   364.1112ms|   match|[46m POST    [0m /job/save   r:/job/save
+2019/05/05 21:32:31.181 [D] [server.go:2741]  |            ::1|[47m 304 [0m|           0s|   match|[44m GET     [0m /  
+2019/05/05 21:32:31.315 [D] [asm_amd64.s:522]  2222222222222222222222222222222222
+2019/05/05 21:32:31.654 [D] [asm_amd64.s:522]  get all job success! jobList: [{Name:111 CronExpr:3333 Command:78} {Name:job2 CronExpr:2222 Command:111}]
+2019/05/05 21:32:31.654 [D] [server.go:2741]  |            ::1|[42m 200 [0m|    339.333ms|   match|[44m GET     [0m /job/list   r:/job/list
+2019/05/05 21:32:37.355 [I] [job.go:66]  22222222222222222222222222222
+2019/05/05 21:32:37.355 [E] [asm_amd64.s:522]  del job failed! err: job not exist
+2019/05/05 21:32:37.355 [D] [server.go:2741]  |            ::1|[42m 200 [0m|   248.4085ms|   match|[46m POST    [0m /job/delete   r:/job/delete
+2019/05/05 21:32:37.362 [D] [server.go:2741]  |            ::1|[47m 304 [0m|           0s|   match|[44m GET     [0m /  
+2019/05/05 21:32:37.490 [D] [asm_amd64.s:522]  2222222222222222222222222222222222
+2019/05/05 21:32:37.738 [D] [asm_amd64.s:522]  get all job success! jobList: [{Name:111 CronExpr:3333 Command:78} {Name:job2 CronExpr:2222 Command:111}]
+2019/05/05 21:32:37.738 [D] [server.go:2741]  |            ::1|[42m 200 [0m|   248.3402ms|   match|[44m GET     [0m /job/list   r:/job/list
+2019/05/05 21:32:39.254 [I] [job.go:66]  22222222222222222222222222222
+2019/05/05 21:32:39.254 [E] [asm_amd64.s:522]  del job failed! err: job not exist
+2019/05/05 21:32:39.254 [D] [server.go:2741]  |            ::1|[42m 200 [0m|   354.0221ms|   match|[46m POST    [0m /job/delete   r:/job/delete
+2019/05/05 21:32:39.262 [D] [server.go:2741]  |            ::1|[47m 304 [0m|      996.3µs|   match|[44m GET     [0m /  
+2019/05/05 21:32:39.375 [D] [asm_amd64.s:522]  2222222222222222222222222222222222
+2019/05/05 21:32:39.730 [D] [asm_amd64.s:522]  get all job success! jobList: [{Name:111 CronExpr:3333 Command:78} {Name:job2 CronExpr:2222 Command:111}]
+2019/05/05 21:32:39.730 [D] [server.go:2741]  |            ::1|[42m 200 [0m|    355.075ms|   match|[44m GET     [0m /job/list   r:/job/list
+2019/05/05 21:32:42.472 [D] [server.go:2741]  |            ::1|[47m 304 [0m|           0s|   match|[44m GET     [0m /  
+2019/05/05 21:32:42.581 [D] [asm_amd64.s:522]  2222222222222222222222222222222222
+2019/05/05 21:32:42.934 [D] [asm_amd64.s:522]  get all job success! jobList: [{Name:111 CronExpr:3333 Command:78} {Name:job2 CronExpr:2222 Command:111}]
+2019/05/05 21:32:42.934 [D] [server.go:2741]  |            ::1|[42m 200 [0m|    354.066ms|   match|[44m GET     [0m /job/list   r:/job/list
+2019/05/05 21:32:49.059 [D] [server.go:2741]  |            ::1|[47m 304 [0m|           0s|   match|[44m GET     [0m /  
+2019/05/05 21:32:49.175 [D] [asm_amd64.s:522]  2222222222222222222222222222222222
+2019/05/05 21:32:49.529 [D] [asm_amd64.s:522]  get all job success! jobList: [{Name:111 CronExpr:3333 Command:78} {Name:job2 CronExpr:2222 Command:111}]
+2019/05/05 21:32:49.529 [D] [server.go:2741]  |            ::1|[42m 200 [0m|   354.0731ms|   match|[44m GET     [0m /job/list   r:/job/list
+2019/05/05 21:32:53.160 [D] [asm_amd64.s:522]  2222222222222222222222222222222222
+2019/05/05 21:32:53.512 [D] [asm_amd64.s:522]  get all job success! jobList: [{Name:111 CronExpr:3333 Command:78} {Name:job2 CronExpr:2222 Command:111}]
+2019/05/05 21:32:53.512 [D] [server.go:2741]  |            ::1|[42m 200 [0m|   352.2334ms|   match|[44m GET     [0m /job/list   r:/job/list
+2019/05/05 21:33:04.962 [I] [job.go:66]  22222222222222222222222222222
+2019/05/05 21:33:04.962 [E] [asm_amd64.s:522]  del job failed! err: job not exist
+2019/05/05 21:33:04.962 [D] [server.go:2741]  |            ::1|[42m 200 [0m|   352.0571ms|   match|[46m POST    [0m /job/delete   r:/job/delete
+2019/05/05 21:33:04.968 [D] [server.go:2741]  |            ::1|[47m 304 [0m|           0s|   match|[44m GET     [0m /  
+2019/05/05 21:33:05.099 [D] [asm_amd64.s:522]  2222222222222222222222222222222222
+2019/05/05 21:33:05.813 [D] [asm_amd64.s:522]  get all job success! jobList: [{Name:111 CronExpr:3333 Command:78} {Name:job2 CronExpr:2222 Command:111}]
+2019/05/05 21:33:05.813 [D] [server.go:2741]  |            ::1|[42m 200 [0m|   714.1998ms|   match|[44m GET     [0m /job/list   r:/job/list
+2019/05/05 21:33:07.890 [I] [job.go:66]  22222222222222222222222222222
+2019/05/05 21:33:07.890 [E] [asm_amd64.s:522]  del job failed! err: job not exist
+2019/05/05 21:33:07.890 [D] [server.go:2741]  |            ::1|[42m 200 [0m|   354.0435ms|   match|[46m POST    [0m /job/delete   r:/job/delete
+2019/05/05 21:33:07.897 [D] [server.go:2741]  |            ::1|[47m 304 [0m|           0s|   match|[44m GET     [0m /  
+2019/05/05 21:33:08.009 [D] [asm_amd64.s:522]  2222222222222222222222222222222222
+2019/05/05 21:33:08.327 [D] [asm_amd64.s:522]  get all job success! jobList: [{Name:111 CronExpr:3333 Command:78} {Name:job2 CronExpr:2222 Command:111}]
+2019/05/05 21:33:08.327 [D] [server.go:2741]  |            ::1|[42m 200 [0m|   318.1715ms|   match|[44m GET     [0m /job/list   r:/job/list
+2019/05/05 21:33:10.148 [I] [job.go:66]  22222222222222222222222222222
+2019/05/05 21:33:10.149 [E] [asm_amd64.s:522]  del job failed! err: job not exist
+2019/05/05 21:33:10.149 [D] [server.go:2741]  |            ::1|[42m 200 [0m|   247.3402ms|   match|[46m POST    [0m /job/delete   r:/job/delete
+2019/05/05 21:33:10.156 [D] [server.go:2741]  |            ::1|[47m 304 [0m|        996µs|   match|[44m GET     [0m /  
+2019/05/05 21:33:10.272 [D] [asm_amd64.s:522]  2222222222222222222222222222222222
+2019/05/05 21:33:10.520 [D] [asm_amd64.s:522]  get all job success! jobList: [{Name:111 CronExpr:3333 Command:78} {Name:job2 CronExpr:2222 Command:111}]
+2019/05/05 21:33:10.520 [D] [server.go:2741]  |            ::1|[42m 200 [0m|   248.3378ms|   match|[44m GET     [0m /job/list   r:/job/list
+2019/05/05 21:33:24.587 [D] [server.go:2741]  |            ::1|[47m 304 [0m|           0s|   match|[44m GET     [0m /  
+2019/05/05 21:33:24.772 [D] [asm_amd64.s:522]  2222222222222222222222222222222222
+2019/05/05 21:33:25.126 [D] [asm_amd64.s:522]  get all job success! jobList: [{Name:111 CronExpr:3333 Command:78} {Name:job2 CronExpr:2222 Command:111}]
+2019/05/05 21:33:25.126 [D] [server.go:2741]  |            ::1|[42m 200 [0m|   354.0526ms|   match|[44m GET     [0m /job/list   r:/job/list
+2019/05/05 21:33:26.911 [I] [job.go:66]  22222222222222222222222222222
+2019/05/05 21:33:26.912 [E] [asm_amd64.s:522]  del job failed! err: job not exist
+2019/05/05 21:33:26.912 [D] [server.go:2741]  |            ::1|[42m 200 [0m|   357.0017ms|   match|[46m POST    [0m /job/delete   r:/job/delete
+2019/05/05 21:33:26.918 [D] [server.go:2741]  |            ::1|[47m 304 [0m|           0s|   match|[44m GET     [0m /  
+2019/05/05 21:33:27.034 [D] [asm_amd64.s:522]  2222222222222222222222222222222222
+2019/05/05 21:33:28.269 [D] [asm_amd64.s:522]  get all job success! jobList: [{Name:111 CronExpr:3333 Command:78} {Name:job2 CronExpr:2222 Command:111}]
+2019/05/05 21:33:28.269 [D] [server.go:2741]  |            ::1|[42m 200 [0m|   1.2350231s|   match|[44m GET     [0m /job/list   r:/job/list
+2019/05/05 21:33:30.906 [D] [asm_amd64.s:522]  2222222222222222222222222222222222
+2019/05/05 21:33:31.266 [D] [asm_amd64.s:522]  get all job success! jobList: [{Name:111 CronExpr:3333 Command:78} {Name:job2 CronExpr:2222 Command:111}]
+2019/05/05 21:33:31.266 [D] [server.go:2741]  |            ::1|[42m 200 [0m|   360.1448ms|   match|[44m GET     [0m /job/list   r:/job/list
+2019/05/05 21:33:42.756 [I] [job.go:66]  22222222222222222222222222222
+2019/05/05 21:33:42.756 [E] [asm_amd64.s:522]  del job failed! err: job not exist
+2019/05/05 21:33:42.756 [D] [server.go:2741]  |            ::1|[42m 200 [0m|   355.0485ms|   match|[46m POST    [0m /job/delete   r:/job/delete
+2019/05/05 21:33:42.763 [D] [server.go:2741]  |            ::1|[47m 304 [0m|           0s|   match|[44m GET     [0m /  
+2019/05/05 21:33:42.986 [D] [asm_amd64.s:522]  2222222222222222222222222222222222
+2019/05/05 21:33:43.333 [D] [asm_amd64.s:522]  get all job success! jobList: [{Name:111 CronExpr:3333 Command:78} {Name:job2 CronExpr:2222 Command:111}]
+2019/05/05 21:33:43.333 [D] [server.go:2741]  |            ::1|[42m 200 [0m|   347.0632ms|   match|[44m GET     [0m /job/list   r:/job/list
+2019/05/05 21:33:50.797 [I] [job.go:66]  22222222222222222222222222222
+2019/05/05 21:33:50.797 [E] [asm_amd64.s:522]  del job failed! err: job not exist
+2019/05/05 21:33:50.797 [D] [server.go:2741]  |            ::1|[42m 200 [0m|   327.1114ms|   match|[46m POST    [0m /job/delete   r:/job/delete
+2019/05/05 21:33:50.805 [D] [server.go:2741]  |            ::1|[47m 304 [0m|           0s|   match|[44m GET     [0m /  
+2019/05/05 21:33:51.035 [D] [asm_amd64.s:522]  2222222222222222222222222222222222
+2019/05/05 21:33:51.370 [D] [asm_amd64.s:522]  get all job success! jobList: [{Name:111 CronExpr:3333 Command:78} {Name:job2 CronExpr:2222 Command:111}]
+2019/05/05 21:33:51.370 [D] [server.go:2741]  |            ::1|[42m 200 [0m|    336.097ms|   match|[44m GET     [0m /job/list   r:/job/list
+2019/05/05 21:34:57.665 [D] [server.go:2741]  |            ::1|[47m 304 [0m|           0s|   match|[44m GET     [0m /  
+2019/05/05 21:34:57.911 [D] [asm_amd64.s:522]  2222222222222222222222222222222222
+2019/05/05 21:34:58.159 [D] [asm_amd64.s:522]  get all job success! jobList: [{Name:111 CronExpr:3333 Command:78} {Name:job2 CronExpr:2222 Command:111}]
+2019/05/05 21:34:58.159 [D] [server.go:2741]  |            ::1|[42m 200 [0m|   248.3366ms|   match|[44m GET     [0m /job/list   r:/job/list
+2019/05/05 21:35:06.352 [I] [job.go:66]  22222222222222222222222222222
+2019/05/05 21:35:06.352 [E] [asm_amd64.s:522]  del job failed! err: job not exist
+2019/05/05 21:35:06.352 [D] [server.go:2741]  |            ::1|[42m 200 [0m|   353.0551ms|   match|[46m POST    [0m /job/delete   r:/job/delete
+2019/05/05 21:35:06.360 [D] [server.go:2741]  |            ::1|[47m 304 [0m|           0s|   match|[44m GET     [0m /  
+2019/05/05 21:35:06.616 [D] [asm_amd64.s:522]  2222222222222222222222222222222222
+2019/05/05 21:35:06.973 [D] [asm_amd64.s:522]  get all job success! jobList: [{Name:111 CronExpr:3333 Command:78} {Name:job2 CronExpr:2222 Command:111}]
+2019/05/05 21:35:06.973 [D] [server.go:2741]  |            ::1|[42m 200 [0m|     357.14ms|   match|[44m GET     [0m /job/list   r:/job/list
+2019/05/05 21:35:21.427 [D] [server.go:2741]  |            ::1|[47m 304 [0m|           0s|   match|[44m GET     [0m /  
+2019/05/05 21:35:21.678 [D] [asm_amd64.s:522]  2222222222222222222222222222222222
+2019/05/05 21:35:22.933 [D] [asm_amd64.s:522]  get all job success! jobList: [{Name:111 CronExpr:3333 Command:78} {Name:job2 CronExpr:2222 Command:111}]
+2019/05/05 21:35:22.933 [D] [server.go:2741]  |            ::1|[42m 200 [0m|   1.2546433s|   match|[44m GET     [0m /job/list   r:/job/list
+2019/05/05 21:39:26.203 [D] [server.go:2741]  |            ::1|[42m 200 [0m|           0s|   match|[44m GET     [0m /  
+2019/05/05 21:39:26.450 [D] [asm_amd64.s:522]  2222222222222222222222222222222222
+2019/05/05 21:39:27.672 [D] [asm_amd64.s:522]  get all job success! jobList: [{Name:111 CronExpr:3333 Command:78} {Name:job2 CronExpr:2222 Command:111}]
+2019/05/05 21:39:27.672 [D] [server.go:2741]  |            ::1|[42m 200 [0m|   1.2217905s|   match|[44m GET     [0m /job/list   r:/job/list
+2019/05/05 21:43:24.209 [D] [server.go:2741]  |            ::1|[42m 200 [0m|      997.5µs|   match|[44m GET     [0m /  
+2019/05/05 21:43:24.395 [D] [asm_amd64.s:522]  2222222222222222222222222222222222
+2019/05/05 21:43:24.733 [D] [asm_amd64.s:522]  get all job success! jobList: [{Name:111 CronExpr:3333 Command:78} {Name:job2 CronExpr:2222 Command:111}]
+2019/05/05 21:43:24.733 [D] [server.go:2741]  |            ::1|[42m 200 [0m|   337.1214ms|   match|[44m GET     [0m /job/list   r:/job/list
+2019/05/05 21:45:14.126 [D] [server.go:2741]  |            ::1|[42m 200 [0m|           0s|   match|[44m GET     [0m /  
+2019/05/05 21:45:14.344 [D] [asm_amd64.s:522]  2222222222222222222222222222222222
+2019/05/05 21:45:14.683 [D] [asm_amd64.s:522]  get all job success! jobList: [{Name:111 CronExpr:3333 Command:78} {Name:job2 CronExpr:2222 Command:111}]
+2019/05/05 21:45:14.684 [D] [server.go:2741]  |            ::1|[42m 200 [0m|   340.1737ms|   match|[44m GET     [0m /job/list   r:/job/list
+2019/05/05 21:51:42.826 [D] [server.go:2741]  |192.168.199.120|[42m 200 [0m|           0s|   match|[44m GET     [0m /  
+2019/05/05 21:51:47.367 [D] [server.go:2741]  |192.168.199.120|[43m 404 [0m|      997.2µs| nomatch|[44m GET     [0m /HNAP1/
+2019/05/05 21:53:12.542 [D] [server.go:2741]  |            ::1|[42m 200 [0m|        998µs|   match|[44m GET     [0m /  
+2019/05/05 21:53:12.778 [D] [asm_amd64.s:522]  2222222222222222222222222222222222
+2019/05/05 21:53:13.116 [D] [asm_amd64.s:522]  get all job success! jobList: [{Name:111 CronExpr:3333 Command:78} {Name:job2 CronExpr:2222 Command:111}]
+2019/05/05 21:53:13.116 [D] [server.go:2741]  |            ::1|[42m 200 [0m|   337.1001ms|   match|[44m GET     [0m /job/list   r:/job/list
+2019/05/05 21:55:15.038 [D] [server.go:2741]  |            ::1|[42m 200 [0m|           0s|   match|[44m GET     [0m /  
+2019/05/05 21:55:15.317 [D] [asm_amd64.s:522]  2222222222222222222222222222222222
+2019/05/05 21:55:16.896 [D] [asm_amd64.s:522]  get all job success! jobList: [{Name:111 CronExpr:3333 Command:78} {Name:job2 CronExpr:2222 Command:111}]
+2019/05/05 21:55:16.896 [D] [server.go:2741]  |            ::1|[42m 200 [0m|   1.5788344s|   match|[44m GET     [0m /job/list   r:/job/list
+2019/05/05 21:55:21.049 [I] [job.go:66]  22222222222222222222222222222
+2019/05/05 21:55:21.049 [D] [job.go:66]  oldJob: {"Name":"job2","CronExpr":"2222","Command":"111"}
+2019/05/05 21:55:21.049 [D] [job.go:66]  oldJob2: &{Name:job2 CronExpr:2222 Command:111}
+2019/05/05 21:55:21.049 [D] [asm_amd64.s:522]  del job success! oldJob: &{Name:job2 CronExpr:2222 Command:111}
+2019/05/05 21:55:21.050 [D] [server.go:2741]  |            ::1|[42m 200 [0m|   352.1989ms|   match|[46m POST    [0m /job/delete   r:/job/delete
+2019/05/05 21:55:21.056 [D] [server.go:2741]  |            ::1|[47m 304 [0m|           0s|   match|[44m GET     [0m /  
+2019/05/05 21:55:21.291 [D] [asm_amd64.s:522]  2222222222222222222222222222222222
+2019/05/05 21:55:21.562 [D] [asm_amd64.s:522]  get all job success! jobList: [{Name:111 CronExpr:3333 Command:78}]
+2019/05/05 21:55:21.562 [D] [server.go:2741]  |            ::1|[42m 200 [0m|   270.2771ms|   match|[44m GET     [0m /job/list   r:/job/list
+2019/05/05 21:55:23.060 [I] [job.go:66]  22222222222222222222222222222
+2019/05/05 21:55:23.060 [D] [job.go:66]  oldJob: {"Name":"111","CronExpr":"3333","Command":"78"}
+2019/05/05 21:55:23.060 [D] [job.go:66]  oldJob2: &{Name:111 CronExpr:3333 Command:78}
+2019/05/05 21:55:23.060 [D] [asm_amd64.s:522]  del job success! oldJob: &{Name:111 CronExpr:3333 Command:78}
+2019/05/05 21:55:23.060 [D] [server.go:2741]  |            ::1|[42m 200 [0m|   289.2263ms|   match|[46m POST    [0m /job/delete   r:/job/delete
+2019/05/05 21:55:23.067 [D] [server.go:2741]  |            ::1|[47m 304 [0m|           0s|   match|[44m GET     [0m /  
+2019/05/05 21:55:23.320 [D] [asm_amd64.s:522]  2222222222222222222222222222222222
+2019/05/05 21:55:23.611 [D] [asm_amd64.s:522]  get all job success! jobList: []
+2019/05/05 21:55:23.611 [D] [server.go:2741]  |            ::1|[42m 200 [0m|   290.2249ms|   match|[44m GET     [0m /job/list   r:/job/list
+2019/05/05 21:55:34.165 [D] [asm_amd64.s:522]  4444444444444444444444444444, name:  222
+2019/05/05 21:55:34.165 [D] [asm_amd64.s:522]  4444444444444444444444444444, cronExpr:  222
+2019/05/05 21:55:34.165 [D] [asm_amd64.s:522]  4444444444444444444444444444, command:  11
+2019/05/05 21:55:34.502 [D] [asm_amd64.s:522]  save job success. oldJob: <nil>
+2019/05/05 21:55:34.502 [D] [server.go:2741]  |            ::1|[42m 200 [0m|    337.242ms|   match|[46m POST    [0m /job/save   r:/job/save
+2019/05/05 21:55:34.509 [D] [server.go:2741]  |            ::1|[47m 304 [0m|           0s|   match|[44m GET     [0m /  
+2019/05/05 21:55:34.748 [D] [asm_amd64.s:522]  2222222222222222222222222222222222
+2019/05/05 21:55:35.085 [D] [asm_amd64.s:522]  get all job success! jobList: [{Name:job1 CronExpr:222 Command:11}]
+2019/05/05 21:55:35.085 [D] [server.go:2741]  |            ::1|[42m 200 [0m|   337.1281ms|   match|[44m GET     [0m /job/list   r:/job/list
+2019/05/05 21:55:44.072 [D] [asm_amd64.s:522]  4444444444444444444444444444, name:  666
+2019/05/05 21:55:44.073 [D] [asm_amd64.s:522]  4444444444444444444444444444, cronExpr:  666
+2019/05/05 21:55:44.073 [D] [asm_amd64.s:522]  4444444444444444444444444444, command:  34
+2019/05/05 21:55:44.410 [D] [asm_amd64.s:522]  save job success. oldJob: <nil>
+2019/05/05 21:55:44.411 [D] [server.go:2741]  |            ::1|[42m 200 [0m|   339.0904ms|   match|[46m POST    [0m /job/save   r:/job/save
+2019/05/05 21:55:44.420 [D] [server.go:2741]  |            ::1|[47m 304 [0m|      997.1µs|   match|[44m GET     [0m /  
+2019/05/05 21:55:44.632 [D] [asm_amd64.s:522]  2222222222222222222222222222222222
+2019/05/05 21:55:44.969 [D] [asm_amd64.s:522]  get all job success! jobList: [{Name:job1 CronExpr:222 Command:11} {Name:job2 CronExpr:666 Command:34}]
+2019/05/05 21:55:44.969 [D] [server.go:2741]  |            ::1|[42m 200 [0m|   336.0986ms|   match|[44m GET     [0m /job/list   r:/job/list
+2019/05/05 21:59:41.086 [E] [asm_amd64.s:522]  kill job succeed! name: job1
+2019/05/05 21:59:41.087 [D] [server.go:2741]  |            ::1|[42m 200 [0m|   1.9272736s|   match|[46m POST    [0m /job/kill   r:/job/kill
+2019/05/05 21:59:41.096 [D] [server.go:2741]  |            ::1|[47m 304 [0m|        998µs|   match|[44m GET     [0m /  
+2019/05/05 21:59:41.369 [D] [asm_amd64.s:522]  2222222222222222222222222222222222
+2019/05/05 21:59:42.139 [D] [asm_amd64.s:522]  get all job success! jobList: [{Name:job1 CronExpr:222 Command:11} {Name:job2 CronExpr:666 Command:34}]
+2019/05/05 21:59:42.139 [D] [server.go:2741]  |            ::1|[42m 200 [0m|   769.9888ms|   match|[44m GET     [0m /job/list   r:/job/list
+2019/05/05 21:59:46.406 [E] [asm_amd64.s:522]  kill job succeed! name: job1
+2019/05/05 21:59:46.406 [D] [server.go:2741]  |            ::1|[42m 200 [0m|   1.7912817s|   match|[46m POST    [0m /job/kill   r:/job/kill
+2019/05/05 21:59:46.416 [D] [server.go:2741]  |            ::1|[47m 304 [0m|      996.7µs|   match|[44m GET     [0m /  
+2019/05/05 21:59:46.664 [D] [asm_amd64.s:522]  2222222222222222222222222222222222
+2019/05/05 21:59:47.144 [D] [asm_amd64.s:522]  get all job success! jobList: [{Name:job1 CronExpr:222 Command:11} {Name:job2 CronExpr:666 Command:34}]
+2019/05/05 21:59:47.144 [D] [server.go:2741]  |            ::1|[42m 200 [0m|   480.7017ms|   match|[44m GET     [0m /job/list   r:/job/list
+2019/05/05 21:59:48.572 [I] [job.go:66]  22222222222222222222222222222
+2019/05/05 21:59:48.572 [D] [job.go:66]  oldJob: {"Name":"job1","CronExpr":"222","Command":"11"}
+2019/05/05 21:59:48.572 [D] [job.go:66]  oldJob2: &{Name:job1 CronExpr:222 Command:11}
+2019/05/05 21:59:48.572 [D] [asm_amd64.s:522]  del job success! oldJob: &{Name:job1 CronExpr:222 Command:11}
+2019/05/05 21:59:48.572 [D] [server.go:2741]  |            ::1|[42m 200 [0m|   342.8759ms|   match|[46m POST    [0m /job/delete   r:/job/delete
+2019/05/05 21:59:48.581 [D] [server.go:2741]  |            ::1|[47m 304 [0m|           0s|   match|[44m GET     [0m /  
+2019/05/05 21:59:48.817 [D] [asm_amd64.s:522]  2222222222222222222222222222222222
+2019/05/05 21:59:49.155 [D] [asm_amd64.s:522]  get all job success! jobList: [{Name:job2 CronExpr:666 Command:34}]
+2019/05/05 21:59:49.156 [D] [server.go:2741]  |            ::1|[42m 200 [0m|   339.5538ms|   match|[44m GET     [0m /job/list   r:/job/list
+2019/05/05 22:39:02.148 [I] [asm_amd64.s:1333]  http server Running on http://:8080
+2019/05/05 22:39:04.469 [I] [asm_amd64.s:1333]  http server Running on http://:8080
+2019/05/05 22:39:07.283 [I] [asm_amd64.s:1333]  http server Running on http://:8080
+2019/05/05 22:45:04.129 [I] [asm_amd64.s:1333]  http server Running on http://:8080
+2019/05/12 21:50:33.796 [I] [asm_amd64.s:1333]  http server Running on http://:8080
+2019/05/12 21:50:36.940 [D] [server.go:2741]  |            ::1|[47m 304 [0m|    37.8994ms|   match|[44m GET     [0m /  
+2019/05/12 21:50:37.266 [D] [asm_amd64.s:522]  2222222222222222222222222222222222
+2019/05/12 21:50:37.266 [D] [server.go:2741]  |            ::1|[43m 404 [0m|        996µs| nomatch|[44m GET     [0m /favicon.ico
+2019/05/12 21:50:37.528 [D] [asm_amd64.s:522]  get all job success! jobList: [{Name:job2 CronExpr:666 Command:34}]
+2019/05/12 21:50:37.528 [D] [server.go:2741]  |            ::1|[42m 200 [0m|   264.2934ms|   match|[44m GET     [0m /job/list   r:/job/list
+2019/05/12 21:57:35.633 [D] [asm_amd64.s:522]  save job success. oldJob: <nil>
+2019/05/12 21:57:35.634 [D] [server.go:2741]  |            ::1|[42m 200 [0m|   309.1676ms|   match|[46m POST    [0m /job/save   r:/job/save
+2019/05/12 21:57:35.642 [D] [server.go:2741]  |            ::1|[47m 304 [0m|      999.2µs|   match|[44m GET     [0m /  
+2019/05/12 21:57:35.795 [D] [asm_amd64.s:522]  2222222222222222222222222222222222
+2019/05/12 21:57:36.054 [D] [asm_amd64.s:522]  get all job success! jobList: [{Name:job2 CronExpr:666 Command:34} {Name:测试 CronExpr:3333 Command:2}]
+2019/05/12 21:57:36.054 [D] [server.go:2741]  |            ::1|[42m 200 [0m|   259.3022ms|   match|[44m GET     [0m /job/list   r:/job/list
+2019/05/12 22:01:18.809 [D] [asm_amd64.s:522]  save job success. oldJob: <nil>
+2019/05/12 22:01:18.809 [D] [server.go:2741]  |            ::1|[42m 200 [0m|   296.2064ms|   match|[46m POST    [0m /job/save   r:/job/save
+2019/05/12 22:01:18.819 [D] [server.go:2741]  |            ::1|[47m 304 [0m|           0s|   match|[44m GET     [0m /  
+2019/05/12 22:01:19.018 [D] [asm_amd64.s:522]  2222222222222222222222222222222222
+2019/05/12 22:01:19.316 [D] [asm_amd64.s:522]  get all job success! jobList: [{Name:job2 CronExpr:666 Command:34} {Name:测试 CronExpr:3333 Command:2} {Name:测试1 CronExpr:3333 Command:2}]
+2019/05/12 22:01:19.316 [D] [server.go:2741]  |            ::1|[42m 200 [0m|   299.1963ms|   match|[44m GET     [0m /job/list   r:/job/list
+2019/05/12 22:06:29.990 [I] [job.go:63]  22222222222222222222222222222
+2019/05/12 22:06:29.990 [D] [job.go:63]  oldJob: {"Name":"测试1","CronExpr":"3333","Command":"2"}
+2019/05/12 22:06:29.991 [D] [job.go:63]  oldJob2: &{Name:测试1 CronExpr:3333 Command:2}
+2019/05/12 22:06:29.991 [D] [asm_amd64.s:522]  del job success! oldJob: &{Name:测试1 CronExpr:3333 Command:2}
+2019/05/12 22:06:29.991 [D] [server.go:2741]  |            ::1|[42m 200 [0m|   325.1419ms|   match|[46m POST    [0m /job/delete   r:/job/delete
+2019/05/12 22:06:30.006 [D] [server.go:2741]  |            ::1|[47m 304 [0m|           0s|   match|[44m GET     [0m /  
+2019/05/12 22:06:30.135 [D] [asm_amd64.s:522]  2222222222222222222222222222222222
+2019/05/12 22:06:30.453 [D] [asm_amd64.s:522]  get all job success! jobList: [{Name:job2 CronExpr:666 Command:34} {Name:测试 CronExpr:3333 Command:2}]
+2019/05/12 22:06:30.454 [D] [server.go:2741]  |            ::1|[42m 200 [0m|   320.1467ms|   match|[44m GET     [0m /job/list   r:/job/list
+2019/05/12 22:35:13.138 [I] [job.go:63]  22222222222222222222222222222
+2019/05/12 22:35:13.139 [D] [job.go:63]  oldJob: {"Name":"job2","CronExpr":"666","Command":"34"}
+2019/05/12 22:35:13.139 [D] [job.go:63]  oldJob2: &{Name:job2 CronExpr:666 Command:34}
+2019/05/12 22:35:13.139 [D] [asm_amd64.s:522]  del job success! oldJob: &{Name:job2 CronExpr:666 Command:34}
+2019/05/12 22:35:13.139 [D] [server.go:2741]  |            ::1|[42m 200 [0m|   264.2736ms|   match|[46m POST    [0m /job/delete   r:/job/delete
+2019/05/12 22:35:13.149 [D] [server.go:2741]  |            ::1|[47m 304 [0m|      995.9µs|   match|[44m GET     [0m /  
+2019/05/12 22:35:13.374 [D] [asm_amd64.s:522]  2222222222222222222222222222222222
+2019/05/12 22:35:13.668 [D] [asm_amd64.s:522]  get all job success! jobList: [{Name:测试 CronExpr:3333 Command:2}]
+2019/05/12 22:35:13.668 [D] [server.go:2741]  |            ::1|[42m 200 [0m|   294.2102ms|   match|[44m GET     [0m /job/list   r:/job/list
+2019/05/12 22:35:14.770 [I] [job.go:63]  22222222222222222222222222222
+2019/05/12 22:35:14.770 [D] [job.go:63]  oldJob: {"Name":"测试","CronExpr":"3333","Command":"2"}
+2019/05/12 22:35:14.770 [D] [job.go:63]  oldJob2: &{Name:测试 CronExpr:3333 Command:2}
+2019/05/12 22:35:14.770 [D] [asm_amd64.s:522]  del job success! oldJob: &{Name:测试 CronExpr:3333 Command:2}
+2019/05/12 22:35:14.770 [D] [server.go:2741]  |            ::1|[42m 200 [0m|   332.1277ms|   match|[46m POST    [0m /job/delete   r:/job/delete
+2019/05/12 22:35:14.780 [D] [server.go:2741]  |            ::1|[47m 304 [0m|           0s|   match|[44m GET     [0m /  
+2019/05/12 22:35:14.912 [D] [asm_amd64.s:522]  2222222222222222222222222222222222
+2019/05/12 22:35:15.256 [D] [asm_amd64.s:522]  get all job success! jobList: []
+2019/05/12 22:35:15.256 [D] [server.go:2741]  |            ::1|[42m 200 [0m|   344.1941ms|   match|[44m GET     [0m /job/list   r:/job/list
+2019/05/12 22:35:42.832 [D] [asm_amd64.s:522]  save job success. oldJob: <nil>
+2019/05/12 22:35:42.832 [D] [server.go:2741]  |            ::1|[42m 200 [0m|   329.3915ms|   match|[46m POST    [0m /job/save   r:/job/save
+2019/05/12 22:35:42.842 [D] [server.go:2741]  |            ::1|[47m 304 [0m|           0s|   match|[44m GET     [0m /  
+2019/05/12 22:35:43.047 [D] [asm_amd64.s:522]  2222222222222222222222222222222222
+2019/05/12 22:35:43.384 [D] [asm_amd64.s:522]  get all job success! jobList: [{Name:tes1 CronExpr:* * * * * * Command:echo helloworld}]
+2019/05/12 22:35:43.385 [D] [server.go:2741]  |            ::1|[42m 200 [0m|   338.1007ms|   match|[44m GET     [0m /job/list   r:/job/list
+2019/05/17 21:21:56.580 [I] [asm_amd64.s:1333]  http server Running on http://:8080
+2019/05/17 21:23:10.781 [D] [server.go:2741]  |            ::1|[42m 200 [0m|   300.4209ms|   match|[44m GET     [0m /  
+2019/05/17 21:23:11.117 [D] [server.go:2741]  |            ::1|[43m 404 [0m|     1.9943ms| nomatch|[44m GET     [0m /favicon.ico
+2019/05/17 21:23:11.456 [D] [asm_amd64.s:522]  get all job success! jobList: [{Name:tes1 CronExpr:* * * * * * Command:echo helloworld}]
+2019/05/17 21:23:11.456 [D] [server.go:2741]  |            ::1|[42m 200 [0m|   341.1221ms|   match|[44m GET     [0m /job/list   r:/job/list
+2019/05/17 21:23:18.559 [D] [asm_amd64.s:522]  save job success. oldJob: <nil>
+2019/05/17 21:23:18.559 [D] [server.go:2741]  |            ::1|[42m 200 [0m|   667.7083ms|   match|[46m POST    [0m /job/save   r:/job/save
+2019/05/17 21:23:18.569 [D] [server.go:2741]  |            ::1|[47m 304 [0m|      998.7µs|   match|[44m GET     [0m /  
+2019/05/17 21:23:19.027 [D] [asm_amd64.s:522]  get all job success! jobList: [{Name:tes1 CronExpr:* * * * * * Command:echo helloworld} {Name:tes2 CronExpr:* * * * * * Command:echo helloworld}]
+2019/05/17 21:23:19.027 [D] [server.go:2741]  |            ::1|[42m 200 [0m|   329.1968ms|   match|[44m GET     [0m /job/list   r:/job/list
+2019/05/17 21:24:42.058 [D] [asm_amd64.s:522]  save job success. oldJob: <nil>
+2019/05/17 21:24:42.058 [D] [server.go:2741]  |            ::1|[42m 200 [0m|   329.1529ms|   match|[46m POST    [0m /job/save   r:/job/save
+2019/05/17 21:24:42.066 [D] [server.go:2741]  |            ::1|[47m 304 [0m|           0s|   match|[44m GET     [0m /  
+2019/05/17 21:24:42.529 [D] [asm_amd64.s:522]  get all job success! jobList: [{Name:job2 CronExpr:* * * * * * Command:echo name} {Name:tes1 CronExpr:* * * * * * Command:echo helloworld} {Name:tes2 CronExpr:* * * * * * Command:echo helloworld}]
+2019/05/17 21:24:42.529 [D] [server.go:2741]  |            ::1|[42m 200 [0m|   329.1557ms|   match|[44m GET     [0m /job/list   r:/job/list
+2019/05/17 21:30:37.411 [D] [job.go:39]  old value: &{job2 * * * * * * echo name}
+2019/05/17 21:30:37.411 [D] [asm_amd64.s:522]  save job success. oldJob: &{Name:job2 CronExpr:* * * * * * Command:echo name}
+2019/05/17 21:30:37.411 [D] [server.go:2741]  |            ::1|[42m 200 [0m|   378.9867ms|   match|[46m POST    [0m /job/save   r:/job/save
+2019/05/17 21:30:37.425 [D] [server.go:2741]  |            ::1|[47m 304 [0m|           0s|   match|[44m GET     [0m /  
+2019/05/17 21:30:37.937 [D] [asm_amd64.s:522]  get all job success! jobList: [{Name:job2 CronExpr:*/2 * * * * * * Command:echo name} {Name:tes1 CronExpr:* * * * * * Command:echo helloworld} {Name:tes2 CronExpr:* * * * * * Command:echo helloworld}]
+2019/05/17 21:30:37.937 [D] [server.go:2741]  |            ::1|[42m 200 [0m|   359.0645ms|   match|[44m GET     [0m /job/list   r:/job/list

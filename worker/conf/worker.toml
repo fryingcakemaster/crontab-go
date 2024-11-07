@@ -1,0 +1,25 @@
+title = "crontab worker"
+version = "0.0.1"
+
+[etcd]
+endpoints = ["172.16.30.83:2379"]
+timeout = 10
+
+[mongodb]
+uri = ""
+timeout = 10
+
+[log]
+console = true
+filename = "./logs/active3.log"
+#	LevelEmergency = 0
+#	LevelAlert = 1
+#	LevelCritical = 2
+#	LevelError = 3
+#	LevelWarning = 4
+#	LevelNotice = 5
+#	LevelInfo = 6
+#	LevelDebug = 7
+level = 7
+daily = true
+max_days = 5
